@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+    <channel>
+    
+    <title><![CDATA[A List Apart: The Full Feed]]></title>
+    <link>http://alistapart.com</link>
+    <description>Articles, columns, and blog posts for people who make web sites.</description>
+    <dc:language>en</dc:language>
+    <dc:creator>The fine folks at A List Apart</dc:creator>
+    <dc:rights>Copyright 2014</dc:rights>
+    <dc:date>2014-04-24T16:40:00+00:00</dc:date>
+    
+
+	    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/alistapart/main" /><feedburner:info uri="alistapart/main" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+      <title><![CDATA[A Different Letter to a Junior Designer]]></title>
+      <author> Andrew Clarke</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/52oBkwm25yU/a-different-letter-to-a-junior-designer</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/a-different-letter-to-a-junior-designer</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;Editor&amp;#8217;s note&lt;/b&gt;: Last week, Cennydd Bowles published his “&lt;a href="/column/letter-to-a-junior-designer"&gt;Letter to a Junior Designer&lt;/a&gt;.” Today, Andrew Clarke offers a different perspective.&lt;/i&gt; &lt;/p&gt;
+
+&lt;p&gt;To be honest, I envy you. I envy your energy and your enthusiasm and the fact that for you, design is still new, still exciting. I envy your self-confidence. You know you’ll be a better designer than me. Maybe you already are.&lt;/p&gt;
+
+&lt;p&gt;With age comes experience, and there’s no doubt that I have more of it than you—especially experience in balancing the needs of people who use what I design with those who pay for it. That experience gives me an advantage today, but you’ll gain it too, in time.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, I’d like to offer three suggestions.&lt;/p&gt;
+
+&lt;h2&gt;Don’t slow down&lt;/h2&gt;
+&lt;p&gt;You must never forget that it’s ideas that matter most, and that without your idea there would be nothing. You can’t turn a poor idea into a brilliant one by iterating, so don’t make fewer ideas. Make more. Don’t slow down. Speed up. &lt;/p&gt;
+
+&lt;p&gt;Your mind is a muscle, just like any other: you need to use it to keep it in top condition. To keep making ideas happen, make more of them, more often. Feed your mind with inspiration wherever you can find it. Exercise it with play. Make idea after idea until making them becomes a reflex.&lt;/p&gt;
+
+&lt;h2&gt;You don’t always need to think things through&lt;/h2&gt;
+&lt;p&gt;You won’t ever predict the path your ideas will take. You can’t know the restrictions they’ll face nor the limitations that will be put on them. My advice to you is not to try. Too often I see brilliant ideas extinguished because people think about practicalities too early. How will this be built? How will someone use it? These are important questions, but at the right time.&lt;/p&gt;
+
+&lt;p&gt;Naturally, some ideas will fade, but others will dazzle. So before you pinch out the flickering flame of a new idea, let it burn brightly for a while longer, unhindered by practicalities. &lt;/p&gt;
+
+&lt;h2&gt;Sell with passion&lt;/h2&gt;
+&lt;p&gt;Selling is frowned upon by a lot of people. It’s true: no one likes to be sold to badly, nor enjoys being interrupted unnecessarily. But being sold to well, by a good salesperson, is an experience that benefits both seller and buyer.&lt;/p&gt;
+
+&lt;p&gt;Learning how to sell was one of the best things I did early in my working life. Granted, I sold photographic equipment and not websites, but what I learned has served me immeasurably well. It’s helped me deal with people in a whole host of situations, not least in presenting (read: selling) my design ideas to clients.&lt;/p&gt;
+
+&lt;p&gt;Selling ideas should become one of your best skills. It’s a fact of life that it’s not always the best idea or the best execution that wins a pitch or presentation, but the one that’s been sold the best. So learn to sell. Learn to talk about your work so that the person you’re selling to understands your ideas and why they should buy them. Learn to inspire people with your words as well as your work. Make them feel like they’re so much a part of your ideas that they simply &lt;em&gt;must&lt;/em&gt; buy from you.&lt;/p&gt;
+
+&lt;p&gt;Finally, I hope most of all that you never allow your energy and enthusiasm for design to wane. You’re young, you’re talented: revel in that. This industry has been good to me for many years, and I’m glad that you’re here too, to show an old dog new tricks.&lt;/p&gt;
+
+&lt;p&gt;Love,&lt;br /&gt;
+Andrew&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/52oBkwm25yU" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-24T16:40:00+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/a-different-letter-to-a-junior-designer</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Responsive Design: The Picture Element Comes of Age]]></title>
+      <author>Jeffrey Zeldman</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/t8JELNC-XWA/responsive-design-the-picture-element-comes-of-age</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/responsive-design-the-picture-element-comes-of-age</guid>
+      <description>&lt;figure class="quote"&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;Until now, Picturefill supported span-based HTML markup that mimicked a pattern we hoped would one day become a web standard: namely, the picture element and its associated features. Following the hard work of the Responsive Images Community Group (chaired by Filament Group&amp;#8217;s own Mat Marquis), we&amp;#8217;re pleased to report that there are native picture implementations in development for Chrome, Firefox, Opera, and potentially others!&lt;/p&gt;
+
+&lt;p&gt;With this news, this week we released a new version of Picturefill that will make the real picture element work in existing browsers, which means you can start using picture today.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;figcaption&gt;Scott Jehl, &lt;cite&gt;&lt;a href="http://filamentgroup.com/lab/picturefill_2_a/"&gt;Picturefill 2.0: Use the &lt;code&gt;picture&lt;/code&gt; element today&lt;/a&gt;&lt;/cite&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/t8JELNC-XWA" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-21T19:14:56+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/responsive-design-the-picture-element-comes-of-age</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Syntax Highlighting Outside Your Editor]]></title>
+      <author>Anthony Colangelo</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/nX7VzGb5DzQ/syntax-highlighting-outside-your-editor</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/syntax-highlighting-outside-your-editor</guid>
+      <description>&lt;p&gt;Whether you’re giving a talk, sharing work with your team, or presenting work to your clients, there comes a time when you’ll need to show code outside of a text editor. Copying and pasting code from a text editor to say, Keynote, is an easy process. The difficulties come in when you want to preserve syntax highlighting, which is crucial to bringing code to life.&lt;/p&gt;
+
+&lt;p&gt;I’m in the midst of building &lt;a href="http://www.meetup.com/Jersey-Shore-Tech/events/166831692/"&gt;a&lt;/a&gt; &lt;a href="http://peersconf.com/2014/"&gt;few&lt;/a&gt; &lt;a href="http://environmentsforhumans.com/2014/craft-cms-summit/"&gt;talks&lt;/a&gt; that contain a lot of code, so I’ve been exploring tools to improve my workflow from my editor of choice, &lt;a href="http://www.sublimetext.com/"&gt;Sublime Text&lt;/a&gt;, to Keynote. I was looking for the easiest way to copy code as rich text—with my preferred color scheme, font face, and font size applied—to be pasted directly into Keynote.&lt;/p&gt;
+
+&lt;p&gt;The first tool I tried was a Sublime Text package, installed with &lt;a href="https://sublime.wbond.net/installation"&gt;Package Control&lt;/a&gt;, called &lt;a href="https://github.com/n1k0/SublimeHighlight"&gt;SublimeHighlight&lt;/a&gt;. With SublimeHighlight installed, you can select code and trigger a command to copy the code to your clipboard as rich text.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src="http://alistapart.com/d/misc-images/sublimehighlight.png" alt="Available SublimeHighlight commands" /&gt;&lt;/figure&gt;
+
+&lt;p&gt;Built on top of &lt;a href="http://pygments.org/"&gt;Pygments&lt;/a&gt;, it’s a really nice package for Sublime Text that fits my workflow perfectly. However, the available format options didn’t feel extensive or powerful, and I seemed to be doing a lot of tweaking in Keynote. The speed of copying directly out of Sublime Text was outweighed by the time I spent in Keynote.&lt;/p&gt;
+
+&lt;p&gt;I began looking for a tool that would allow me to spend less time tweaking styles in Keynote, and found &lt;a href="http://www.andre-simon.de/doku/highlight/en/highlight.php"&gt;Highlight&lt;/a&gt;, a command line utility with a terrifying amount of documentation. Fear not; the learning curve is low, and the possibilities are endless. To install it, either follow &lt;a href="http://www.andre-simon.de/doku/highlight/en/install.php"&gt;the instructions&lt;/a&gt;, or if you’re running OS X and &lt;a href="http://brew.sh/"&gt;Homebrew&lt;/a&gt;, just run &lt;code&gt;brew install highlight&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;To achieve my direct-to-Keynote nirvana, I played with &lt;a href="http://www.andre-simon.de/doku/highlight/en/highlight.php#ch2_2"&gt;the available command line options&lt;/a&gt; a bit until I was satisfied. What I came up with looked like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;highlight -O rtf -t 2 -K 40 -k &amp;#39;Source Code Pro&amp;#39; --style twilight _output.js | pbcopy&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Though verbose, it’s not as complicated as it looks: &lt;code&gt;-O rtf&lt;/code&gt; sets the output format to rich text, &lt;code&gt;-t 2&lt;/code&gt; sets tabs to 2 spaces, &lt;code&gt;-K 40&lt;/code&gt; sets font size to 40, and &lt;code&gt;-k &amp;#8216;Source Code Pro&amp;#8217;&lt;/code&gt; sets the font face to &lt;a href="http://blogs.adobe.com/typblography/2012/09/source-code-pro.html"&gt;Source Code Pro&lt;/a&gt;, my preferred font face. I &lt;a href="http://cl.ly/3m1a0d3L0O3S"&gt;created a theme&lt;/a&gt; to match my preferred color scheme, Twilight, and specify its use by including &lt;code&gt;&amp;#8212;style twilight&lt;/code&gt;. To use this without the custom theme, just leave the &lt;code&gt;&amp;#8212;style twilight&lt;/code&gt; out.&lt;/p&gt;
+
+&lt;p&gt;The final bit, &lt;code&gt;_output.js | pbcopy&lt;/code&gt;, tells Highlight to run _output.js, the file containing code to be processed, through its formatter and copy the results to the clipboard. All I have to do is run that line, paste into Keynote, and I have a perfectly formatted chunk of code.&lt;/p&gt;
+
+&lt;p&gt;It’s not the perfect workflow by any means, but I love the amount of flexibility and control Highlight provides. You can see how I’ve been making heavy use of this tool in talks that I’ve posted to &lt;a href="https://speakerdeck.com/acolangelo/"&gt;Speaker Deck&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/nX7VzGb5DzQ" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-21T12:30:00+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/syntax-highlighting-outside-your-editor</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[The Death of the Web Design Agency?]]></title>
+      <author>Jeffrey Zeldman</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/gZNWImoycbg/the-death-of-the-web-design-agency</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/the-death-of-the-web-design-agency</guid>
+      <description>&lt;figure class="quote"&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;Others have gone as far to say that the very concept of a user experience-focused agency simply isn’t a long-term play, largely because of what the big folks are up to. Facebook and Google went on a design/product buying spree specifically because they needed to figure out how to own this thinking themselves, and other tech companies have followed. And more traditional industries, like insurance, media, and retail? They’ll develop robust in-house capabilities soon, if they haven’t already.&lt;/p&gt;&lt;p&gt; Ready to pack up your things and start a landscaping business? Not so fast.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;figcaption&gt;Greg Hoy, &lt;cite&gt;&lt;a href="https://the-pastry-box-project.net/greg-hoy/2014-April-17"&gt;Differentiate or Die?&lt;/a&gt;&lt;/cite&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In The Pastry Box Project today, Greg Hoy of Happy Cog talks honestly about why the first quarter of this year &lt;em&gt;sucked&lt;/em&gt; for most web design agencies (including ours), assesses the new and growing long-term threats to the agency business model, and shares his thinking on what we in the client services design business can do to survive, and maybe even thrive.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/gZNWImoycbg" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-17T15:19:02+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/the-death-of-the-web-design-agency</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Cennydd Bowles on UX & Design: Letter to a Junior Designer]]></title>
+      <author>Cennydd Bowles</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/liAX1LoO24E/letter-to-a-junior-designer</link>
+      <guid isPermaLink="false">http://alistapart.com/column/letter-to-a-junior-designer</guid>
+      <description>&lt;p&gt;I admit it: you intimidate me. Your work is vivid and imaginative, far superior to my woeful scratchings at a similar age. The things I struggle to learn barely make you sweat. One day, you’ll be a better designer than me.&lt;/p&gt;
+
+&lt;p&gt;But for now, I can cling to my sole advantage, the one thing that makes me more valuable: I get results. I can put a dent in cast-iron CEO arguments. I can spot risks and complications months in advance. In the wager that is design, I usually bet on the right color. People trust me with their stake.&lt;/p&gt;
+
+&lt;p&gt;So, if you’ll humor me, maybe I can offer a few suggestions to speed you toward the inevitable.&lt;/p&gt;
+
+&lt;h2&gt;Slow down&lt;/h2&gt;
+
+&lt;p&gt;You’re damn talented. But in your eagerness to prove it, you sometimes rush toward a solution. You pluck an idea from the branch and throw it onto the plate before it has time to ripen. Don’t mistake speed for precocity: the world doesn’t need wrong answers in record time.&lt;/p&gt;
+
+&lt;p&gt;Perhaps your teachers exalted The Idea as the gem of creative work; taught you The Idea is the hard part. I disagree. Ideas aren’t to be trusted. They need to be wrung dry, ripped apart. We have the rare luxury that our professional diligence often equates to playfulness: to do our job properly, we must disassemble our promising ideas and make them into something better.&lt;/p&gt;
+
+&lt;p&gt;The process feels mechanical and awkward initially. In time, the distinction between idea and iteration will blur. Eventually, the two become one.&lt;/p&gt;
+
+&lt;p&gt;So go deeper. Squander loose time on expanding your ideas, even if you’re sure they’re perfect or useless. Look closely at decisions you think are trivial. I guarantee you’ll find better solutions around the corner.&lt;/p&gt;
+
+&lt;h2&gt;Think it through&lt;/h2&gt;
+
+&lt;p&gt;We’d love to believe design speaks for itself, but a large part of the job is helping others hear its voice. Persuasive rationale—the why to your work—is what turns a great document into a great product.&lt;/p&gt;
+
+&lt;p&gt;If you haven’t already, sometime in your career you’ll meet an awkward sonofabitch who wants to know why every pixel is where you put it. You should be able to articulate an answer for that person—yes, for every pixel. What does this line do? Well, it defines. It distinguishes. But why here? Why that color? Why that thickness? “It looks better” won’t suffice. You’ll need a rationale that explains hierarchy, balance, gestalt—in other words, esoteric ways to say “it looks better,&amp;#8221; but ways that reassure stakeholders that you understand the foundations of your craft. Similarly, be sure you can explain which alternatives you rejected, and why. (Working this through will also help you see if you have been diligent or if you’ve been clinging to a pet idea.) This might sound political. It is. Politics is just the complex art of navigating teams and people, and the more senior you get, the more time you’ll spend with people. &lt;/p&gt;
+
+&lt;h2&gt;Temper your passion&lt;/h2&gt;
+
+&lt;p&gt;Your words matter: be careful not to get carried away. Passion is useful, but you’ll be more effective when you demonstrate the evidence behind your beliefs, rather than the strength of those beliefs. Softer language earns fewer retweets but better results. If you have a hunch, call it a hunch; it shows honesty, and it leaves you headroom to be unequivocal about the things you’re sure of.&lt;/p&gt;
+
+&lt;p&gt;Similarly, your approach to your work will change. Right now design is an ache. You see all the brokenness in the world: stupid products, trivial mistakes, bad designs propped up with scribbled corrections. That stupidity never goes away, but in time you learn how to live with it. What matters is your ability to change things. Anyone can complain about the world, but only a good few can fix it.&lt;/p&gt;
+
+&lt;p&gt;That fury, that energy, fades with time, until the question becomes one of choosing which battles to arm yourself for, and which to surrender. Often this means gravitating toward the biggest problems. As you progress in the field, your attention may turn from tools and techniques to values and ethics. The history of the industry is instructive: give it proper attention. After all, all our futures shrink with time, until finally the past becomes all we have.&lt;/p&gt;
+
+&lt;p&gt;You’ll come to appreciate that it can be better to help others reach the right outcomes themselves than do it yourself. That, of course, is what we call leadership.&lt;/p&gt;
+
+&lt;p&gt;Finally, there may come a point when you realize you’re better served by thinking less about design. Work and life should always be partially separate, but there’s no doubt that the experiences you have in your life shape your work too. So please remember to be a broad, wise human being. Travel (thoughtfully) as much as you can. Read literature: a good novel will sometimes teach you more than another design book can. Remind yourself the sea exists. You’ll notice the empathy, sensitivity, cunning, and understanding you develop make your working life better too.&lt;/p&gt;
+
+&lt;p&gt;But you’re smart, and of course you realize this is really a letter to the younger me. And, alongside, it’s a lament at my nagging sense of obsolescence; the angst of a few grey hairs and the emerging trends I don’t quite understand. Which is mildly ridiculous at my age—but this is a mildly ridiculous industry. And you’ll inherit it all, in time. Good luck.&lt;/p&gt;
+
+&lt;p&gt;Yours,&lt;br /&gt;
+Cennydd&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/liAX1LoO24E" height="1" width="1"/&gt;</description>
+      <dc:subject><![CDATA[<a href="/topic/design">Design</a>, <a href="/topic/creativity">Creativity</a>]]></dc:subject>
+      <dc:date>2014-04-17T12:30:16+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/column/letter-to-a-junior-designer</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Style Guides On Parade]]></title>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/yWMDiRNZoE4/</link>
+      <guid isPermaLink="false">http://susanjeanrobertson.com/code/style-guide-links/</guid>
+      <description>&lt;a href="http://susanjeanrobertson.com/code/style-guide-links/" style="font-size: 18px;"&gt;» Style Guides On Parade&lt;/a&gt;&lt;br&gt;&lt;br&gt;If you loved this week’s “Creating Style Guides” piece by Susan Robertson, you’ll thrill to Susan’s follow-up posting, on her personal site, of style guide links galore! &lt;br&gt;&lt;br&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/yWMDiRNZoE4" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-11T16:00:27+00:00</dc:date>
+    <feedburner:origLink>http://susanjeanrobertson.com/code/style-guide-links/</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Matt Griffin on How We Work: My Life with Email]]></title>
+      <author>Matt Griffin</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/0NszOq5XC_g/my-life-with-email</link>
+      <guid isPermaLink="false">http://alistapart.com/column/my-life-with-email</guid>
+      <description>&lt;p&gt;I’d like to take a moment to address something decidedly unsexy. We all do it. And it’s never pretty. You guessed it: I’m talking about email.&lt;/p&gt;
+
+&lt;p&gt;No, I don&amp;#8217;t mean responsive design approaches for email newsletter templates. Nope. Not even that much fun. I’m talking about reading and responding to that everyday, humdrum, never-ending stream of communication that flows through the inscrutable ether to your very own inbox.&lt;/p&gt;
+
+&lt;p&gt;Staying in control of your life with email is a challenge (look no further than your friends’ triumphant cries of “inbox zero!”). When you run your own business, as I do, there is every motivation to always stay on top of these messages. It is, after all, your thing. You own it. Shouldn’t you be addressing every issue as it crops up, and responding with lightning speed?&lt;/p&gt;
+
+&lt;p&gt;This lifestyle really caught up with me a year or so ago. It was affecting my sleep and productivity, and saddling me with all kinds of extra cognitive overhead. It was no fun at all. Over the course of several months, I worked at establishing rules and procedures for email that helped me regain my sanity and improve the quality of my workdays (not to mention my weekends). In no particular order, here they are:&lt;/p&gt;
+
+&lt;h2&gt;We don’t need no stinking badges&lt;/h2&gt;
+
+&lt;p&gt;One of the first and most obvious things I did was turn off notifications and badges for email. Turning on email notifications is like asking to be interrupted by anyone at any time, no matter what you’re doing. If you must have notifications, consider adding essential people to a &lt;a href="http://support.apple.com/kb/TI32"&gt;VIP list&lt;/a&gt;, and hiding all other notifications. Ask yourself, “who would I need to drop everything for, no matter how important my task is at that moment?”&lt;/p&gt;
+
+&lt;h2&gt;Filters, filters, filters&lt;/h2&gt;
+
+&lt;p&gt;OMG, filters, guys! Filters that route the endless stream of notifications (for instance Basecamp updates, or emails from your ticketing system) are great. They keep things organized neatly so that you can address like emails all at once. Since these sorts of emails will often be project-specific—this also makes it easier to remember to track your time while you’re doing it (hint, hint).&lt;/p&gt;
+
+&lt;h2&gt;More apps!&lt;/h2&gt;
+
+&lt;p&gt;On the weekend, I really don’t want to accidentally open a troublesome work email. To keep a clear distinction between my personal and work emails, I started using a separate app for personal email. Personally, I’m quite happy with &lt;a href="http://www.mailboxapp.com/"&gt;Mailbox&lt;/a&gt;, but I also know some smart folks who like &lt;a href="http://www.getboxer.com/"&gt;Boxer&lt;/a&gt;. I’m sure there are plenty of other great ones, too (reader comments, activate!).&lt;/p&gt;
+
+&lt;h2&gt;Say when&lt;/h2&gt;
+
+&lt;p&gt;Just like the ticket queue of tasks, you’re never really finished answering emails. To help me focus on my home life when I’m not at work, I use a timed &lt;a href="http://support.apple.com/kb/HT5463"&gt;“do not disturb” setting in iOS&lt;/a&gt; to make sure that I get no notifications of anything between 7 p.m. and 7 a.m.&lt;/p&gt;
+
+&lt;h2&gt;Save your brainpower&lt;/h2&gt;
+
+&lt;p&gt;I find that my mind is sharpest and I do my best work in the morning, and yet I used to start each work day with email—a task that arguably requires the least of my creativity and mental acuity. So now I set aside the first hour of my day for something challenging. I often write these columns during that time slot. Or tackle a particularly gnarly IA or design problem. But email? Email can wait till 10 a.m.&lt;/p&gt;
+
+&lt;h2&gt;It’s all in the timing&lt;/h2&gt;
+
+&lt;p&gt;And when you’ve finished that batch of email responses and are ready to return to your work? Close that email client, friend! Don’t open it back up until you’re ready to dedicate your attention to it again. Otherwise, it’s just a distraction. I find it useful to set times for checking my email throughout the day, for instance 10 a.m., 1:30 p.m., and 4 p.m.&lt;/p&gt;
+
+&lt;h2&gt;Inaction leads to rumination&lt;/h2&gt;
+
+&lt;p&gt;Ever check your email while you only have a few seconds or minutes to spare? You get some troublesome message, but don’t really have time to read through it carefully or respond. Then you spend the next few hours with that static buzzing around your brain, distracting from whatever it is you’re working on. I now have a simple rule: if I don’t have time to sit down and directly address whatever messages may be waiting for me, I don’t check my email. Making reading and responding to email a dedicated task keeps you out of that vague cognitive limbo, and can reduce the anxiety of opening the inbox.&lt;/p&gt;
+
+&lt;h2&gt;Expectations for the medium&lt;/h2&gt;
+
+&lt;p&gt;Remember: email is asynchronous communication. By its nature, it encourages a lag in response, and everyone expects that. If there’s a real emergency, someone will doubtless pick up a phone. Email can wait a few hours, even a day. The world won’t explode, and you won’t get fired. Give those messages their proper place in the hierarchy of your day.&lt;/p&gt;
+
+&lt;h2&gt;And on and on&lt;/h2&gt;
+
+&lt;p&gt;There are doubtless many other ways to keep the great beast email under control. These are the ones that have helped me hold on to my sanity and reduce email-induced anxiety. These little strategies make me happier and more productive every day.&lt;/p&gt;
+
+&lt;p&gt;How about you? What are your email troubles? What have you tried that’s worked? Get in those comments, people, and share what you’ve learned. Something tells me we could all use a little help in this department.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/0NszOq5XC_g" height="1" width="1"/&gt;</description>
+      <dc:subject><![CDATA[<a href="/topic/business">Business</a>, <a href="/topic/workflow-tools">Workflow & Tools</a>]]></dc:subject>
+      <dc:date>2014-04-10T12:30:38+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/column/my-life-with-email</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Easy Color Contrast Testing]]></title>
+      <author>Jenn Lukas</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/ybfw4K66iZ4/easy-color-contrast-testing</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/easy-color-contrast-testing</guid>
+      <description>&lt;p&gt;We have plenty of considerations to design for when crafting websites. Web accessibility is not a new design consideration, but is still very important, no matter the size or speed of device we’re testing on. The &lt;a href="http://www.w3.org/TR/WCAG20/"&gt;Web Content Accessibility Guidelines&lt;/a&gt; (WCAG) &lt;a href="http://www.w3.org/TR/WCAG20/#visual-audio-contrast"&gt;tells us&lt;/a&gt; our content should be distinguishable and requires we “[m]ake it easier for users to see and hear content including separating foreground from background.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-contrast"&gt;We know&lt;/a&gt; that our color contrast ratio should be 3:1 for non-decorative text, sized larger than 18 point or larger than 14 point if bold. Text smaller than that should meet a contrast ratio of at least 4.5:1.&lt;/p&gt;
+
+&lt;p&gt;Maybe you have amazing eyeballs that can help you recognize contrast levels. If, like me, you do not have magical corneal calculators, then you probably have utilized one of the tools out there to check contrast, such as: &lt;a href="http://webaim.org/resources/contrastchecker/"&gt;WebAIM’s color contrast checker&lt;/a&gt;, &lt;a href="http://www.snook.ca/technical/colour_contrast/colour.html"&gt;Snook’s contrast slider&lt;/a&gt;, &lt;a href="http://www.checkmycolours.com/"&gt;Check my colors URL input check&lt;/a&gt;, or a &lt;a href="https://addons.mozilla.org/en-us/firefox/addon/wcag-contrast-checker/"&gt;WCAG checker add-on for Firefox&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I recently switched to using Chrome’s &lt;a href="https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/reviews?hl=en"&gt;Accessibility Developer Tools&lt;/a&gt; built in contrast checker and I love it. Take a look at the &lt;a href="https://github.com/GoogleChrome/accessibility-developer-tools/wiki/Audit-Rules#-ax_color_01--text-elements-should-have-a-reasonable-contrast-ratio"&gt;audits&lt;/a&gt; being run by the tools and let’s look at how to begin using it once installed.&lt;/p&gt;&lt;figure&gt;&lt;img src="http://alistapart.com/d/misc-images/ColorContrastStep1-slowed-lq.gif" alt="Animation showing a progression through step one"&gt;&lt;/figure&gt;
+&lt;p&gt;Load up the website you’d like to check and bring up the Developer Tools. I’ll pick on myself and use my own site for this example. Once open, click over to the “Audits” tab and make sure “Accessibility” is checked. Click “Run.”&lt;/p&gt;&lt;figure&gt;&lt;img src="http://alistapart.com/d/misc-images/ColorContrastStep2-slower-lq.gif" alt="Animation showing a progression through step two"&gt;&lt;/figure&gt;
+&lt;p&gt;Expand the “Text elements should have a reasonable contrast ratio” section. This will show you the HTML of the elements that don’t have sufficient contrast. Identify one to examine further.&lt;/p&gt;&lt;figure&gt;&lt;img src="http://alistapart.com/d/misc-images/ColorContrastStep3-slower-lq.gif" alt="Animation showing a progression through step three"&gt;&lt;/figure&gt;
+&lt;p&gt;Select the chosen offender in the browser and inspect it. If you can’t see the contrast values, use the menu to pull up the “Accessibility Properties.” You’ll see the current contrast ratio of your element. You’ll also see a suggested color value pair to match the WCAG AA or AAA recommendation. Select the swatch to the right of those values to see the preview of that change. In this case, we’ll see what grey we’d have to adjust our background to in order to keep the white text.&lt;/p&gt;&lt;figure&gt;&lt;img src="http://alistapart.com/d/misc-images/ColorContrastStep4-slower-lq.gif" alt="Animation showing a progression through step four"&gt;&lt;/figure&gt;
+
+&lt;p&gt;As you can see in this second example, I could make the date text darker to meet the guidelines, which is very helpful in making a fast change.&lt;/p&gt;
+
+&lt;p&gt;When it’s this quick and simple to check contrast, there’s no reason not to add this accessibility test into our workflow.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/ybfw4K66iZ4" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-09T12:30:17+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/easy-color-contrast-testing</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[The Heartbleed Bug (or: You Should Consider SSL Unsafe for a While)]]></title>
+      <author>Tim Murtaugh</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/oDtP5Lvn1WU/the-heartbleed-bug-or-you-should-consider-ssl-unsafe-for-a-while</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/the-heartbleed-bug-or-you-should-consider-ssl-unsafe-for-a-while</guid>
+      <description>&lt;p&gt;If you run a server that uses SSL and the OpenSSL library, you need to update it. If you regularly visit a site that uses SSL (and I can&amp;#8217;t imagine you don&amp;#8217;t), you should try to limit your visits today. Once the dust has settled, we should all change our passwords. Pretty much &lt;em&gt;everywhere.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In short, yesterday the OpenSSL Project &lt;a href="http://www.openssl.org/news/secadv_20140407.txt"&gt;released an update&lt;/a&gt; that addresses a vulnerability in the OpenSSL library. Officially named CVE-2014-0160, the Heartbleed bug has been around—and un-identified—for a long time. It&amp;#8217;s not known if the vulnerability has been exploited, but it&amp;#8217;s theoretically possible that someone has been snooping on transmissions we thought were secure. It&amp;#8217;s &lt;em&gt;very likely&lt;/em&gt; that bad guys are snooping on un-patched servers &lt;em&gt;now&lt;/em&gt;, so be careful which services you log in to today.&lt;/p&gt;
+
+&lt;p&gt;Visit &lt;a href="http://heartbleed.com"&gt;Heartbleed.com&lt;/a&gt; for a lot more information, and anyone running a server should consider these words from Cody Sorland:&lt;/p&gt;
+
+&lt;figure class="tweet"&gt;
+&lt;blockquote class="twitter-tweet" lang="en"&gt;&lt;p&gt;Ubuntu servers running nginx/SSL?&amp;#10;&amp;#10;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get dist-upgrade&amp;#10;sudo restart nginx&amp;#10;&amp;#10;Do it now. &lt;a href="https://twitter.com/search?q=%23heartbleed&amp;amp;src=hash"&gt;#heartbleed&lt;/a&gt;&lt;/p&gt;&amp;mdash; Cody Soyland (@codysoyland) &lt;a href="https://twitter.com/codysoyland/statuses/453579357026406401"&gt;April 8, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Be careful out there.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/oDtP5Lvn1WU" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-08T19:00:10+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/the-heartbleed-bug-or-you-should-consider-ssl-unsafe-for-a-while</feedburner:origLink></item>
+	
+		
+    <item>
+      <title><![CDATA[Creating Style Guides]]></title>
+      <author>Susan Robertson</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/7XGdJPs-WfA/creating-style-guides</link>
+      <guid isPermaLink="false">http://alistapart.com/article/creating-style-guides</guid>
+      <description>&lt;p&gt;Several years ago, I was working on a large, complex application. It was a bit of a legacy project: many different designers and front-end developers had come and gone, each appending a new portion to the sprawling application. By the time I arrived, the CSS was huge, the styles were varied, and it took a lot of effort to find out if anything was reusable.&lt;/p&gt;
+
+&lt;p&gt;During all this, I discovered style guides—a way to control markup and CSS so neither veered out of control or ballooned. In jobs since, I&amp;#8217;ve seen firsthand how style guides save development time, make communication regarding your front end smoother, and keep both code and design consistent throughout the site. It has been a revelation, and in this article, I want to show you how to build and maintain them, too. &lt;/p&gt;
+
+&lt;h2&gt;What is a style guide?&lt;/h2&gt;&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;To me, a style guide is a living document of code, which details all the various elements and coded modules of your site or application. Beyond its use in consolidating the front-end code, it also documents the visual language, such as header styles and color palettes, used to create the site. This way, it’s a one-stop place for the entire team—from product owners and producers to designers and developers—to reference when discussing site changes and iterations. Several companies have even put their guides online; Starbucks is the most well known of the bunch, but others exist. &lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/393/creating-style-guides/starbucks.png" alt="" /&gt;
+&lt;figcaption&gt;Starbucks style guide.&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;(I should also mention that what I call a &lt;i&gt;style guide&lt;/i&gt;, some people call a &lt;i&gt;pattern library&lt;/i&gt;. Many of the guides I reference use the term &lt;i&gt;style guide&lt;/i&gt;, but &lt;i&gt;pattern library&lt;/i&gt; is gaining in popularity.)&lt;/p&gt;
+
+&lt;p&gt;When I started working at Editorially, one of the first things I did was tackle the style guide. Creating the guide was probably the most useful thing I’ve ever done when settling into a new job: it forced me to go through &lt;i&gt;every single line of CSS&lt;/i&gt; and read it, digest it, understand how it was used, and then document it for my own, and the team’s, future reference. In addition to catching inconsistencies and errors by poring through the CSS, if I didn’t understand how certain pieces of code were being used, I annotated the guide with questions (which my teammates graciously answered).&lt;/p&gt;
+
+&lt;h2&gt;Why should I use a style guide?&lt;/h2&gt;
+
+&lt;p&gt;As your team grows and changes over time, your style guide will help you in several ways. First, creating your guide will take some time up front, but I’ve found that this pays off with faster build times for new sections and pages, because anyone joining an ongoing project can refer to the guide for the exact styles to use.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/393/creating-style-guides/south-tees-panel.png" alt="" /&gt;
+&lt;figcaption&gt;Imagine starting a page build with information like this from the South Tees Hospital guide; a donation box would be done in seconds.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Second, a guide allows us to standardize the CSS, keeping it small and quick to load. By using the guide as an inventory of modules and code, both designers and developers can quickly see if new designs deviate from established standards, and decide as a team if it’s worth expanding the codebase or if something already written is easily extended. When you have no guide, this is impossible, which in my experience usually means that new styles are written—resulting in bloated CSS.&lt;/p&gt;
+
+&lt;p&gt;Third, design consistency is easier to maintain, as the designer can look in one place to reference the site’s components and ensure a cohesive look and feel throughout. This is especially helpful on larger teams and at enterprise-level companies where you may have an entire team of designers working on the site. And when design consistency is maintained, the codebase is also kept smaller.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/393/creating-style-guides/yelp-buttons.png" alt="" /&gt;
+&lt;figcaption&gt;Yelp clearly states how buttons are used, keeping button styles consistent across the site.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Fourth, communication becomes clearer as well. When I built out pages in a large-scale project and passed them off to the designer, she used the language of the various classes in the guide to ask for changes. This meant that we didn’t have any confusion on either of our parts as we sped through revisions. It also gave the entire team a shared vocabulary, like the names of modules, to use in talking about the designs once they were coded.&lt;/p&gt;
+
+&lt;p&gt;The final benefit I’ve found is that you can use your guide to do a quick QA pass. The guide may not be identical to the pages you eventually build out, but it can point out issues you may have in various browsers. By tackling these early on, you&amp;#8217;ll avoid them in later testing.&lt;/p&gt;
+
+&lt;h2&gt;Steps to build out your guide&lt;/h2&gt;
+
+&lt;p&gt;Below, I&amp;#8217;ll take you through starting your own guide, based on my first few weeks at Editorially. (Because when I work on a project without a guide, I&amp;#8217;m soon jonesing to make one—just ask my colleagues).&lt;/p&gt;
+
+&lt;h3&gt;Assemble your site’s basics&lt;/h3&gt;
+
+&lt;p&gt;Start your guide with some of your site’s foundations. A foundational element may include the color palette, your grid layout system, or the basic type styles for headers and body text: whatever you feel are the very basic elements to create a page. For Editorially, the most foundational part of our site was the color guide, so I began with that and went from there. I created an HTML document with the markup, linking to the application CSS, so any CSS changes would be automatically reflected in the style guide.&lt;/p&gt;
+
+&lt;p&gt;When you look at the style guide created by Yelp, you can see how it starts with the basics: typography, grid, and colors, adding more patterns as it goes along.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/393/creating-style-guides/yelp.png" alt="" /&gt;
+&lt;figcaption&gt;Yelp.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3&gt;Add in more patterns&lt;/h3&gt;
+
+&lt;p&gt;A pattern is any self-contained set of markup and styles to make some of your site’s basic objects, like a call-out box used repeatedly, buttons, or the way you lay out a list of links horizontally. At Editorially I documented all the variations possible of button and link styles. So go ahead and add the exact markup you need for each element to your guide.&lt;/p&gt;
+
+&lt;p&gt;For example, for a button in the Editorially guide, I simply put &lt;code&gt;&amp;lt;label for=&amp;quot;btn&amp;quot; class=&amp;quot;btn&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;.btn &amp;lt;input type=&amp;quot;submit&amp;quot; name=&amp;quot;btn&amp;quot; value=&amp;quot;.btn&amp;quot; /&amp;gt;&amp;lt;/label&amp;gt;&lt;/code&gt;. And because we link to the same CSS as the application does, the CSS shows correctly in the style guide. Should we change the &lt;code&gt;.btn&lt;/code&gt; style, the style guide would change as well.&lt;/p&gt;
+
+&lt;p&gt;Keep going through your site and add in patterns as you see them; you may use particular layouts over and over, or a media-object pattern, or a vertical list pattern. Below is an another example from South Tees Hospital, showing some of their patterns for what they call feature blocks. Look for similar things on your own site to document in your guide.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/393/creating-style-guides/southtees.png" alt="" /&gt;
+&lt;figcaption&gt;South Tees Hospital.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is also a good time to ask your team what else would be helpful to have in the style guide. Share it, let them take a look, and hopefully they’ll help you fill out all the patterns and modules needed. Don’t forget to have &lt;em&gt;the entire team&lt;/em&gt; help you round it out, as it’s a resource for everyone.&lt;/p&gt;
+
+&lt;h3&gt;Document interactivity&lt;/h3&gt;
+
+&lt;p&gt;If possible, add the bits of interactivity that your site uses, such as dropdowns, modals, or tooltips, which are small hovers with helpful text that gives the user more information. This lets your team see not just the static versions of these things, but the animations as well. So when you’re looking at the guide and hover over or click on items, they’ll actually act as they would on your site.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/393/creating-style-guides/ed-tooltips.png" alt="" /&gt;
+&lt;figcaption&gt;Tooltips in the Editorially guide.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3&gt;Make maintenance easy&lt;/h3&gt;
+
+&lt;p&gt;If you have to do extra work to update your style guide when making changes to your look and feel, the likelihood of it staying up to date is pretty slim. I’ve said it a few times now, but that’s why we linked the Editorially guide to the same CSS as the application—that way, we didn&amp;#8217;t have to manually update the guide ourselves. It can be difficult to make updating the guide a priority, but maintenance is critical. Depending on how quickly you iterate on your site or application, you should check up on the guide as a regular task, whether it’s weekly or monthly. When you’re making changes to your site, update your style guide as part of the workflow.&lt;/p&gt;
+
+&lt;h3&gt;Iterate your guide&lt;/h3&gt;
+
+&lt;p&gt;Once you have the bulk of your site’s or application’s components listed in your guide, you’ve got a wealth of tools to make it even more handy. As I built out the style guide for Editorially, a colleague pointed out the fantastic tool by Filament Group, &lt;a href="https://github.com/filamentgroup/X-rayHTML"&gt;X-rayHTML&lt;/a&gt;, which is a small JavaScript library to help you build out documentation. X-rayHTML takes the styled objects on your page and generates a nicely formatted code block below them, without any further code from you. You can also add &lt;a href="http://prismjs.com"&gt;prism.js&lt;/a&gt; for syntax highlighting, which color-codes the code for greater readability.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/393/creating-style-guides/styleguide-06-Aug-messages.png" alt="" /&gt;
+&lt;figcaption&gt;A look at the Editorially style guide with X-rayHTML at work.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If you&amp;#8217;re interested in automation, there are other tools that can make creating the guide even smoother. Two of these include &lt;a href="https://github.com/kneath/kss"&gt;KSS&lt;/a&gt; and &lt;a href="http://trulia.github.io/hologram/"&gt;Hologram&lt;/a&gt;. Both tools use things like commenting or YAML inside your stylesheets in combination with something like Ruby to automatically generate your style guide. It would take some work to go back and retrofit your stylesheets with the appropriate comments or YAML for these approaches, but you&amp;#8217;d save time in the long run, as these tools make maintenance much, much easier. In addition, &lt;cite&gt;A List Apart&lt;/cite&gt; has put their pattern library on GitHub and featured a &lt;a href="http://alistapart.com/blog/post/getting-started-with-pattern-libraries"&gt;blog post&lt;/a&gt; on its creation, demonstrating yet another method of building a style guide. The possibilities of what you can do are far greater than what I’ve outlined here; you might poke around to see what may be most helpful for you and your team. &lt;/p&gt;
+
+&lt;h2&gt;Using the guide&lt;/h2&gt;
+
+&lt;p&gt;Phew. You’ve done all this work and you’ve created this guide, so now what? How do you get people to use it? The first step is to talk about it. If a new team member comes on board, introduce her to the guide as a way of orienting her with the site, since the guide encompasses so much of both the visual and code languages of your front end.&lt;/p&gt;
+
+&lt;p&gt;As long as you’re iterating on a site or application, your style guide will never truly be finished. But having something documented early on, and showing it to teammates and getting their feedback, is a huge help. Involving the whole team in building the guide also makes it feel more like the &lt;em&gt;team’s&lt;/em&gt; guide—and gets everyone invested in maintaining and using it on a regular basis.&lt;/p&gt;
+
+&lt;p&gt;We’ve made the Editorially guide available as both a public repo on &lt;a href="https://github.com/Editorially/styleguide"&gt;GitHub&lt;/a&gt; and &lt;a href="https://editorially.github.io/styleguide"&gt;online&lt;/a&gt;. This was very much a work in progress and an internal team document, so we’ve also got notes, patterns, and a lot of messiness. But the reason for showing it is to reinforce the fact that a style guide doesn’t have to look perfect to be useful. Despite the mess, all of this was incredibly helpful for me and other team members as we continued to work on the application.&lt;/p&gt;
+
+&lt;p&gt;So, are you convinced? Are you wishing you had a style guide for your site or application? It will be well worth the effort: make the time, get your team on board, start the build—and be rewarded with a document that speeds up the discussion and development of your site.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/7XGdJPs-WfA" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-08T12:00:54+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/article/creating-style-guides</feedburner:origLink></item>
+    
+    <item>
+      <title><![CDATA[The Z-Axis: Designing for the Future]]></title>
+      <author>Wren Lanier</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/V30KH9bceLo/the-z-axis-designing-for-the-future</link>
+      <guid isPermaLink="false">http://alistapart.com/article/the-z-axis-designing-for-the-future</guid>
+      <description>&lt;p&gt;For years we’ve thought about the web as a two-dimensional space filled with pages that sit side by side on a flat, infinite plane. But as the devices we design for take on an increasingly diverse array of shapes and sizes, we should embrace new ways of designing up and down. By building interfaces using a system of layers, we solve tricky design problems, flexibly adapt to a variety of screens, and create new patterns that will point the way to future interactions.&lt;/p&gt;
+
+&lt;p&gt;In geometric terms, the z-axis is the vertex that measures space above and below the x- and y-axes. Translation for those of us who napped through geometry: it’s how we describe panels and layers that sit above or below one another.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/layers.jpg" alt="" /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Designing on the z-axis simply means incorporating three-dimensional physics—as represented by the z-axis—into our interface designs. Not the faux-depth of skeuomorphic text shadows and button highlights, but an interface made of components that exist on distinct layers and move independently of one another.&lt;/p&gt;
+
+&lt;p&gt;As &lt;a href="http://stuffandnonsense.co.uk/blog/about/walls_come_tumbling_down_presentation_slides_and_transcript/"&gt;Andy Clarke has noted&lt;/a&gt;, the page is an outdated metaphor for what we’re designing today. Unlike the permanence of ink on paper, a website is a series of dynamic views that can occur in many combinations. Applications require us to consider numerous happy and unhappy paths, and even static marketing sites need reusable design components that can adapt to different content needs.&lt;/p&gt;
+
+&lt;p&gt;By using the z-axis to place interface elements above or below one another, we can create better design systems that are more flexible and intuitive to use.&lt;/p&gt;
+
+&lt;h2&gt;Using the z-axis to solve design problems&lt;/h2&gt;
+
+&lt;p&gt;While juggling the constraints of making an interface work across many different screens, I often encounter the same problems. &lt;i&gt;Where do I put this? How do I make this effective for touchscreens? What can I show right away, and what can I hide?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;The answers aren’t easy, but fortunately we can count on the z-axis to be there when extra pixels aren’t. Got an options panel that just won’t fit? Trying to add filters but the excess UI clutter doesn’t seem worth it? When you’re running out of space and searching for a clever solution, remembering that you have three dimensions to design in can save the day.&lt;/p&gt;
+
+&lt;p&gt;Creating an interface that seamlessly works across the z-axis requires two important elements: layers and transitions.&lt;/p&gt;
+
+&lt;h2&gt;1. Layers&lt;/h2&gt;
+
+&lt;p&gt;Incorporating layers is the key to designing on the z-axis, since layers are the way we differentiate levels above and below one another. A layer might contain a single UI element that sits above the rest of the view, or it might be a full screen that appears and disappears as necessary. However you incorporate layers, each should have a purpose—a reason it exists—and be used consistently throughout your site in a way that helps users better understand your design.&lt;/p&gt;
+
+&lt;p&gt;A panel that covers up the entire interface, for example, should be one of the most important functions on a site. On the other hand, an option in a secret panel that slides out from behind another object should relate to whatever sits above it, but be less important.&lt;/p&gt;
+
+&lt;h3&gt;Menus&lt;/h3&gt;
+
+&lt;p&gt;Generally speaking, the higher something sits on the z-axis, the more important it is. Primary navigation menus are usually placed on a higher level than other elements; they might pop over the rest of the view, they might stick to the top of the screen, or they might be accessed by zooming out to a larger menu presentation.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="696" height="391" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/teehanlax.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/teehanlax.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Teehan + Lax takes this to the extreme with the menu overlay on its website. It’s more than a popover; it’s like a page takeover. &lt;em&gt;Look at our menu!&lt;/em&gt; it shouts. The sliding animation combined with a new screen layer grabs the user’s attention, while huge font sizes and a larger-than-usual menu of links deliver more content than a typical primary nav bar and (probably) justify the need for a separate layer.&lt;/p&gt;
+
+&lt;p&gt;Do I love this bold menu presentation? Yes. Do I think it’s a best practice we should incorporate into every site we build? No way. Not every site needs that much dramatic flair.&lt;/p&gt;
+
+&lt;p&gt;But I love how this inspires me to think about a menu as a piece of content in and of itself, and not just more interface cruft. Teehan + Lax highlights the act of presenting a menu to the user and how it can be more than popping up or sliding over from the left—it can be an opportunity for surprise and delight.&lt;/p&gt;
+
+&lt;h3&gt;Action buttons&lt;/h3&gt;
+
+&lt;p&gt;Primary action buttons, such as checking in or adding a new post, are often placed above other elements on the z-axis. It’s easy to tell what an app thinks is its most important feature when it’s sitting on top of everything else. Just take a look at Facebook’s chat heads.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="450" height="798" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/facebook.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/facebook.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Right now, Facebook clearly thinks that messaging is its most important feature. (If you’re unconvinced, Facebook also has a separate Messaging app, &lt;em&gt;and&lt;/em&gt; recently paid $19 billion for &lt;a href="http://www.whatsapp.com/"&gt;What’s App&lt;/a&gt;.) Since layers allow elements to remain fixed in one place while everything else moves around them, floating action buttons are an easy way to make them more prominent without taking up a lot of valuable screen real estate.&lt;/p&gt;
+
+&lt;p&gt;The z-axis gives Facebook an easy way to keep messaging front and center, and even if I don’t like tapping on the disembodied faces of my friends and family, &lt;a href="http://allfacebook.com/zuckerberg-techcrunch-disrupt-sf-2013_b124924"&gt;it seems to be working&lt;/a&gt;. For clients who want a button to “pop” a bit more, using the z-axis to give it its own layer is one of the more elegant possibilities.&lt;/p&gt;
+
+&lt;h3&gt;Storytelling&lt;/h3&gt;
+
+&lt;p&gt;Objects on different layers of the z-axis can move at asynchronous speeds during scrolling. This effect—usually called &lt;em&gt;parallax&lt;/em&gt;—was pioneered in video games, but it’s become quite popular in interactive design. When objects move at different speeds, it creates the appearance of depth and simulates the passing of time, making parallax a powerful tool for online storytelling.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="696" height="443" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/letsfreecongress.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/letsfreecongress.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Superfluous use of parallax as a trendy eye-catcher has been rightfully criticized, but the ability to move layers independently of one another allows us to animate stories on the web in a way that hasn’t been as effective without the use of video. Sites like &lt;a href="http://letsfreecongress.org/"&gt;Let’s Free Congress&lt;/a&gt; and &lt;a href="http://inception-explained.com/"&gt;Inception Explained&lt;/a&gt; use asynchronous scrolling to turn what could have been flat infographics into visual narratives. By breaking elements apart using layers, each thread can unfold at its own speed while the user controls the pace of the action.&lt;/p&gt;
+
+&lt;p&gt;Web designers have always worked within the confines of flat, pixel-based screens, forcing complex interactions onto two visual axes. Layers on flat screens are a hack, but an important one; they’re the first step toward the true multidimensional interactions that are only a few years away. By creating layered patterns in our interfaces now, we help prepare users—and ourselves—for what’s ahead.&lt;/p&gt;
+
+&lt;h2&gt;2. Transitions&lt;/h2&gt;
+
+&lt;p&gt;When you use layers in an interface design, it’s important to include animations that smooth the transitions between them. Animated transitions serve several important functions: they help soften what could otherwise be a jarring moment of change, they describe where you came from and where you’ve arrived, and they provide cues about how information on the new layer relates to everything else.&lt;/p&gt;
+
+&lt;h3&gt;Sliding&lt;/h3&gt;
+
+&lt;p&gt;Sliding is one of the most common animated transitions because it’s relatively easy to execute and simple to understand. Navigation menus, hidden panels—just slide them out quickly whenever you need them, right? But like anything “simple,” sliding requires more care than you might expect.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="450" height="798" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/gmail.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/gmail.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The ubiquitous left-hand menu, used in many mobile apps including Gmail, is a perfect example. When activated, Gmail’s menu doesn’t slide anywhere; it’s actually the main window that slides to the right, revealing the menu on the left underneath your inbox.&lt;/p&gt;
+
+&lt;p&gt;The distinction is important, because the ability to see the first few words of each subject line keeps the inbox functional even when the menu is engaged; without that persistence, there’s little point to the inbox remaining there at all. Mobile websites that seek to mimic this interaction should take note—sliding a left menu over the top of a webpage usually feels clunky and intrusive compared to sliding the main view over instead.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="450" height="798" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/tweetlist.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/tweetlist.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can also slide existing elements out of view to reveal hidden panels. Tweetlist slides the keyboard down to show additional tweet options like geotagging or attaching a photo. It’s a clever way to display secondary features that don’t need to be visible at all times, and using the back of the keyboard reinforces the relationship between these options and sending a tweet.&lt;/p&gt;
+
+&lt;h3&gt;Zooming&lt;/h3&gt;
+
+&lt;p&gt;Zoom animation has been around for a while, but its frequent use in Apple’s iOS 7 has increased both its popularity and its infamy. Some people have said the zooming used throughout the operating system—particularly when opening and closing apps—makes them nauseous. While this may be the case, it’s worth understanding the different ways we can use zooming to transition from one layer to another, and why some types of zoom may be more stomach-churning than others.&lt;/p&gt;
+
+&lt;p&gt;Enlarging or shrinking single objects has been a common animation in the Apple universe since the release of Mac OS X and the introduction of the dock. It naturally found its way into the mobile world on the iPhone, and users quickly grew accustomed to tapping a photo and zooming into it to see more detail.&lt;/p&gt;
+
+&lt;p&gt;In the case of photos, zooming is a simple illusion created by enlarging the image. Everything around the photo remains in place; only the photo itself moves.&lt;/p&gt;
+
+&lt;p&gt;The zoom effect used in iOS 7 is more complex. It works by moving the “camera” in and out as you open and close apps so that everything on the screen changes, not just one object. When you close an app, for example, the app window shrinks down into its icon on the homescreen. Watch the background behind the window and you’ll see all the other homescreen objects zoom back into the view as well.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="450" height="798" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/ios-close.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/ios-close.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This key difference—zooming the camera rather than a single element—creates a much more immersive illusion. It shifts the viewer’s perspective to a new level on the z-axis. That simulated perspective-shift adds to the wow factor by introducing an element of super-realism: it mimics real-world physics, while producing an effect that would be impossible in real life. It’s no wonder designers are eager to take advantage of the possibilities it offers, in spite of &lt;a href="http://www.livescience.com/40013-why-ios7-motion-sickness.html"&gt;the potential side-effects&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="696" height="522" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/creativedash-menu.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/creativedash-menu.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This design experiment from Creative Dash shows how zooming the camera all the way out allows us to use the liminal space around a window. Our canvas is both deep and wide, and this takes advantage of both—though the extreme zoom depth would probably make quite a few users feel sick.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="450" height="646" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/foursquare.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/foursquare.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Foursquare has used a much more subtle version of zooming the camera to reveal map details. You don’t travel very far forward, but the zoom-in reinforces the notion that you’re going to a deeper level of information.&lt;/p&gt;
+
+&lt;p&gt;Whether you apply zoom to a single object or an entire view, it’s important for the animation to be consistent with the information hierarchy you’re using. When you move the camera out, you should be at a higher level, while zooming in should provide more detail.&lt;/p&gt;
+
+&lt;h3&gt;Other transitions&lt;/h3&gt;
+
+&lt;p&gt;Sliding and zooming are two of the most common animated transitions used today, but there are other options, including flipping or folding.&lt;/p&gt;
+
+&lt;p&gt;Three-dimensional objects have two (or more) sides, but most user interfaces are like the moon: they have a “light” side that’s always visible and a “dark” side we never see. Flipping an object over creates a new visual space that’s easy for users to understand. The only downside? Flipping is, well, &lt;em&gt;flipping slow&lt;/em&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;video width="600" height="788" controls&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/flipboard.mp4" type="video/mp4"&gt;
+&lt;source src="http://d.alistapart.com/393/the-z-axis-designing-for-the-future/flipboard.webmhd.webm" type="video/webm"&gt; 
+&lt;/video&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;While flipping is sometimes applied to create a more magazine-like feel, 180 degrees is a big transition; it often feels slow and disruptive. In contexts where speed is critical, the time a flip adds to interactions usually isn’t worth it. That said, if deployed in the right place in the right way, it could be &lt;em&gt;flipping fantastic&lt;/em&gt;. Card-based layouts offer plenty of opportunities to flip objects over and reveal additional information.&lt;/p&gt;
+
+&lt;h2&gt;What comes next&lt;/h2&gt;
+
+&lt;p&gt;Gesture-based command centers, holographic interfaces—whatever technology lies over the horizon, we’ll be better prepared to adapt our skills if we understand the principles of designing for information, not just visual tricks for laying things out with boxes and color. Just as print designers once learned to take their talents to the web, we need to learn to take our talents beyond the screen—and getting comfortable with the z-axis is a great place to start.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/V30KH9bceLo" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-08T12:00:15+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/article/the-z-axis-designing-for-the-future</feedburner:origLink></item>
+    
+	
+	    <item>
+      <title><![CDATA[Network Performance Testing]]></title>
+      <author>Anthony Colangelo</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/0qI8oCh1VqU/network-performance-testing</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/network-performance-testing</guid>
+      <description>&lt;p&gt;It’s extremely likely that sometime in 2014, the &lt;a href="https://www.wolframalpha.com/input/?i=global+internet+users+2014"&gt;number of internet users&lt;/a&gt; will pass 3 billion. Not surprisingly, the largest areas of growth are developing markets—predominantly Africa and the Asia-Pacific region. These markets are being flooded with mobile devices small and large, fast and slow, smart or otherwise.&lt;/p&gt;
+
+&lt;p&gt;Connectivity in these regions is of great interest to &lt;a href="http://www.wired.com/2014/02/facebook-plans-conquer-world-slew-low-end-handsets"&gt;large tech companies&lt;/a&gt; &lt;a href="http://www.google.com/loon/"&gt;scrambling for control&lt;/a&gt;. Today, however, bandwidth is limited, reliability is questionable, and data plans &lt;a href="http://www.wired.com/2014/02/facebook-plans-conquer-world-slew-low-end-handsets"&gt;are small&lt;/a&gt;. Even in markets saturated with mobile usage, like the US and much of Europe, connections are often flaky and unreliable.&lt;/p&gt;
+
+&lt;p&gt;For all those reasons and more, now is the time to test what you build in sub-optimal situations. Thankfully, there are a handful of tools that can help you do just that from the comfort of your high-bandwidth connection and favorite chair, rather than trekking out to a remote field with a Faraday cage.&lt;/p&gt;
+
+&lt;h2&gt;Slow your roll&lt;/h2&gt;
+&lt;p&gt;If you’re using Grunt or Node.js, there’s a fantastic &lt;a href="https://github.com/tjgq/grunt-throttle"&gt;plugin&lt;/a&gt; and &lt;a href="https://github.com/tjgq/node-stream-throttle"&gt;module&lt;/a&gt;, respectively, that can slow your local server’s connection down to a configurable speed. It’s a great start to network performance testing, but it’s fairly one-dimensional.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.charlesproxy.com/"&gt;Charles&lt;/a&gt; is a more robust throttler exposing a lot more control. In addition to amazing tools allowing complete insight to all network requests, Charles can throttle your entire connection, so when enabled, all traffic in and out of your machine is affected. Throttling isn’t the only factor of network performance, however. Latency is a major contributor, and Charles provides control over that aspect, as well.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, these tools don’t expose control over the final, and potentially most important aspect of network performance—packet loss. It has always been the toughest aspect to simulate, but if you’re a Mac and/or iOS user, you have access to the &lt;a href="http://nshipster.com/network-link-conditioner/"&gt;Network Link Conditioner&lt;/a&gt;. With control over upstream and downstream transfer speeds, latency, packet loss, and even DNS delay, Network Link Conditioner is a super-powered system-level tool that will fundamentally change the way you build and test things.&lt;/p&gt;
+
+&lt;p&gt;Apple provides the Network Link Conditioner through their &lt;a href="https://developer.apple.com/"&gt;developer platform&lt;/a&gt;, and luckily, it’s accessible through the free developer program, so you don’t have to pay to use it.&lt;/p&gt;
+
+&lt;p&gt;The Network Link Conditioner comes with some built-in presets to match common connections, such as EDGE, 3G, and DSL. You can even create and save your own presets, allowing you to easily switch between connection levels for fast testing.&lt;/p&gt;
+
+&lt;p&gt;All of these tools open up a new realm of testing and optimization available to us, and as the world changes, network performance testing becomes more and more important. Have you used any other tools or techniques for testing? Share them below in the comments!&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/0qI8oCh1VqU" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-07T12:29:49+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/network-performance-testing</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Laura Kalbag on Freelance Design: Me and My Big Fat Ego]]></title>
+      <author>Laura Kalbag</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/-jPftfij5_U/me-and-my-big-fat-ego</link>
+      <guid isPermaLink="false">http://alistapart.com/column/me-and-my-big-fat-ego</guid>
+      <description>&lt;p&gt;Designers are renowned for having egos. But we’re really not all big-headed prima donnas. It’s just that we can devote so much of our time and care to our work that it becomes entangled with our self-esteem.&lt;/p&gt;
+
+&lt;p&gt;We’d all love our work to be perfect at the first draft. If we could solve all the potential problems in the project in one pass, without anybody else’s intervention, wouldn’t that make us perfect designers?&lt;/p&gt;
+
+&lt;p&gt;Our desire for perfection sets us up for that crushing feeling when a client doesn’t love our work the first time. It creates anger, tears, condescension, bitterness: all the ugly things. Our ego doesn’t want us to see ourselves as flawed, so we’re tempted to see the client as foolish in order to have something to blame the flaws in the work on. That’s how this big fat fragile ego can really get in the way of a good client relationship. &lt;/p&gt;
+
+&lt;p&gt;As with any working relationship, we need to be able to empathize with the other party, and understand the position that they’re coming from with their opinions. Design is nuanced; there’s far more to it than finding that one right way to solve a problem and rejecting all the “wrong” ways. Our ideas and the client’s are as likely to be conflicting as they are to be complementary. We can’t let ego get in the way of compromise.&lt;/p&gt;
+
+&lt;h2&gt;But ego also gives us confidence&lt;/h2&gt;
+
+&lt;p&gt;Bravado is ego’s younger, stupider brother. Most days I feel in control of my bravado, but sometimes I’m a little too vocal and critical of the work and actions of others. By showing off my supposed knowledge, I’m trying to mask my insecurity when my work doesn’t feel good enough. That pretty much explains my general attitude at art college and university… (Hey fellow RSAD and Bath Spa students and tutors, I’m sorry you had to put up with that!).&lt;/p&gt;
+
+&lt;p&gt;But we need that spike of confidence that ego brings. How could we ever share our work if we didn’t think it was any good? We could spend forever revising our ideas until our designs feel “good enough.” We need a little bit of ego so we can share with others.&lt;/p&gt;
+
+&lt;h2&gt;Let’s not let ego get the better of us&lt;/h2&gt;
+
+&lt;p&gt;Striving for perfection without the input of others doesn’t just put pressure on our self-esteem, it also restricts the scope for a solution. Every time I get that downhearted feeling over client feedback, I remind myself of other projects where I felt that way. In the end, the solution on those projects was always far stronger after multiple iterations. Feedback from clients brought in valuable constraints and thoughtful ideas from someone who understands their context and goals far better than I do.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I just need to remind myself that I’m working on a solution &lt;em&gt;with&lt;/em&gt; the client: we are both invested. And what we create together may be my adopted project for a few months, but it’s their product to own for many months or years to come.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/-jPftfij5_U" height="1" width="1"/&gt;</description>
+      <dc:subject><![CDATA[<a href="/topic/process">Process</a>, <a href="/topic/creativity">Creativity</a>, <a href="/topic/business">Business</a>, <a href="/topic/graphic-design">Graphic Design</a>]]></dc:subject>
+      <dc:date>2014-04-03T12:30:12+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/column/me-and-my-big-fat-ego</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Bringing Responsive Images to Browsers]]></title>
+      <author>Mat Marquis</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/7_mb5CAEfTk/bringing-responsive-images-to-browsers</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/bringing-responsive-images-to-browsers</guid>
+      <description>&lt;p&gt;After almost three years in pursuit of a standardized solution to the problem of responsive images, the Responsive Images Community Group is excited to announce that &lt;a href="http://picture.responsiveimages.org"&gt;the &lt;code&gt;picture&lt;/code&gt; element&lt;/a&gt; is officially coming to a browser near you. Once it lands, we’ll see the trend toward massive, bandwidth-heavy responsive websites begin to slow—and hopefully, reverse—over time.&lt;/p&gt;
+
+&lt;p&gt;Since starting out, the &lt;a href="http://responsiveimages.org"&gt;Responsive Images Community Group&lt;/a&gt; has evolved from a handful of passionate developers sending emails to an organization producing detailed specifications alongside WHATWG and HTML WG members and holding summits attended by representatives of all the major browsers. It took us a while to learn all the rules, but we’ve gotten pretty damn good at playing the web standards game.&lt;/p&gt;
+
+&lt;p&gt;When a company is interested in seeing a feature added to the web platform—something that they feel stands to benefit developers and users alike—they &lt;em&gt;invest&lt;/em&gt;. After getting a formal thumbs-up from browser representatives, they’ll contribute their employees’ hours to seeing that feature through—from writing the initial proposal to submitting the code that brings that feature to the browsers. Adobe’s work on the WebKit project is a great example of this process in action.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the last step is the one where we saw ourselves coming up short, for sheer lack of &lt;em&gt;time&lt;/em&gt;: submitting the code to land the feature itself. The &lt;code&gt;picture&lt;/code&gt; element specification came to life during evenings and weekends, thanks to the efforts of dozens of designers and developers just like you—mailing list conversations took place during desk lunches and Friday nights spent in front of a screen. Blog posts were—and are, in fact—written on crowded commuter trains. We can compete on determination and willingness to put in what time we have, but we just don’t have as much time as a dedicated team of employees. Writing browser patches takes that kind of time.&lt;/p&gt;
+
+&lt;p&gt;For that reason, the RICG recently &lt;a href="http://igg.me/at/picture"&gt;asked the community to sponsor Yoav Weiss’s&lt;/a&gt; work on the Blink and WebKit implementations of &lt;code&gt;picture&lt;/code&gt;, and together we’ve managed to raise over $10,000 in a little more than a week—enough to cover several months of full-time work on implementation.&lt;/p&gt;
+
+&lt;p&gt;Having helped write &lt;a href="http://picture.responsiveimages.org"&gt;the spec&lt;/a&gt; and prototyped &lt;code&gt;picture&lt;/code&gt; in Chromium before, Yoav will know many of the the &lt;a href="https://github.com/ResponsiveImagesCG/picture-element/issues?page=1&amp;amp;state=closed"&gt;potential gotchas&lt;/a&gt; right out of the gate. In the meantime, the Blink team has plenty of work to do on their side, well beyond just &lt;a href="https://codereview.chromium.org/user/Yoav%20Weiss"&gt;reviewing Yoav’s code&lt;/a&gt;. This is a collaborative effort—adding the new code for the &lt;code&gt;picture&lt;/code&gt; element means a lot of changes to Chrome’s internals, and those are best left to the experts on the Blink team. Blink developer &lt;a href="https://twitter.com/cbiesinger"&gt;Christian Biesinger&lt;/a&gt; is our &lt;a href="https://groups.google.com/a/chromium.org/d/msg/blink-dev/9xIjDTOwbeI/rp2nmtwAeRcJ"&gt;point person&lt;/a&gt; there, and he’s already working hard to &lt;a href="https://codereview.chromium.org/200923002/"&gt;pave the way&lt;/a&gt; for &lt;code&gt;picture&lt;/code&gt;. Without Christian’s changes throughout the rendering engine, getting &lt;code&gt;picture&lt;/code&gt; into the DOM wouldn’t be possible.&lt;/p&gt;
+
+&lt;p&gt;Alongside Firefox’s upcoming implementation, spearheaded by Mozilla’s &lt;a href="https://twitter.com/marcosc"&gt;Marcos Caceres&lt;/a&gt;—of RICG fame himself—and &lt;a href="https://twitter.com/Nephyrin"&gt;John Schoenick&lt;/a&gt;, this will give us coverage in Firefox, Opera, Chrome, and hopefully soon, Safari. Our aim is to have &lt;code&gt;picture&lt;/code&gt; land in the majority of common rendering engines within the year.&lt;/p&gt;
+
+&lt;p&gt;We’re putting a lot on Yoav, I know—but I also know that he’s the right person for the job, and implementation is &lt;a href="https://codereview.chromium.org/search?closed=1&amp;amp;owner=Yoav+Weiss&amp;amp;limit=25"&gt;already well underway&lt;/a&gt;. Let’s clear the way for him, and together we’ll do something that has never been done before: introduce a feature to the web that was specced, tested, funded, and implemented by the community.&lt;/p&gt;
+
+&lt;p&gt;Together we have an opportunity to contribute to the web in tremendously meaningful ways: by introducing a feature that could reverse the trend toward massive, resource-heavy responsive sites, and by further changing the role of web developers in web standards from spectators to active participants. We have a chance to provide a solution to our fellow developers and, above all else, provide a better experience to users—not just &lt;em&gt;our&lt;/em&gt; users, but all users of the web.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/7_mb5CAEfTk" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-04-01T12:29:17+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/bringing-responsive-images-to-browsers</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Content-out Layout: the Resources]]></title>
+      <author>Nathan Ford</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/l7ceeoKSxA0/content-out-layout-the-resources</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/content-out-layout-the-resources</guid>
+      <description>&lt;p&gt;The method I outlined in my recent article, &amp;#8220;&lt;a href="http://alistapart.com/article/content-out-layout"&gt;Content-out Layout&lt;/a&gt;,&amp;#8221; is actually the culmination of quite a few different influences. If you’re interested in a deep dive, I have compiled this list of the most useful thinking on the web about ratios, grids, and fluid design. Enjoy!&lt;/p&gt;
+
+&lt;h2&gt;Grids&lt;/h2&gt;
+&lt;p&gt;Grids, as we know them, are having to adapt to a fluid canvas. It helps, first, to have a strong understanding of how grids are built, how they’ve traditionally been applied in design, and how they work into responsive design:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;“&lt;a href="http://markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-part-5"&gt;Five simple steps to designing grid systems&lt;/a&gt;&amp;#8221; by Mark Boulton&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thegridsystem.org/"&gt;The Grid System&lt;/a&gt; created by Anto­nio Caru­sone&lt;/li&gt;
+&lt;li&gt;“&lt;a href="http://alistapart.com/article/fluidgrids"&gt;Fluid Grids&lt;/a&gt;&amp;#8221; by Ethan Marcotte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Philosophy of Fluid Layout&lt;/h2&gt;
+&lt;p&gt;As we stop designing pages on the web, and start designing systems to be applied across myriad viewports, it helps to have the right mindset:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;“&lt;a href="http://www.markboulton.co.uk/journal/anewcanon"&gt;A New Canon&lt;/a&gt;&amp;#8221; by Mark Boulton&lt;/li&gt;
+&lt;li&gt;“&lt;a href="http://www.markboulton.co.uk/journal/theinbetween"&gt;The In-Between&lt;/a&gt;&amp;#8221; also by Mark Boulton&lt;/li&gt;
+&lt;li&gt;“&lt;a href="http://alistapart.com/article/the-infinite-grid"&gt;The Infinite Grid&lt;/a&gt;&amp;#8221; by Chris Armstrong&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ratios in Nature and Design&lt;/h2&gt;
+&lt;p&gt;Ratios are nothing new in design. The underlying mathematics of natural phenomena have inspired architects, sculptors and humans in general for centuries:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dynamic_rectangle"&gt;Dynamic rectangles&lt;/a&gt; on Wikipedia&lt;/li&gt;
+&lt;li&gt;“&lt;a href="http://www.graphicdesignand.com/articles/you-do-the-math"&gt;You do the math!&lt;/a&gt;&amp;#8221; an interview with Peter Crnokrak&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mathematics_and_architecture"&gt;Mathematics and Architecture&lt;/a&gt; on Wikipedia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ratios in Web Design&lt;/h2&gt;
+&lt;p&gt;Using ratios in web layouts has been explored before. I found these two very different posts inspirational in searching for a way to work with ratios in fluid design:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;“&lt;a href="http://v4.jasonsantamaria.com/articles/whats-golden/"&gt;What’s Golden&lt;/a&gt;&amp;#8221; by Jason Santa Maria&lt;/li&gt;
+&lt;li&gt;“&lt;a href="http://24ways.org/2011/composing-the-new-canon/"&gt;Composing the New Canon&lt;/a&gt;&amp;#8221; by Owen Gregory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Working with a Scale&lt;/h2&gt;
+&lt;p&gt;Typographers will find working with scales familiar. There is lots of great thinking, here, that can be adapted for layout:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;“&lt;a href="http://webtypography.net/3.1.1"&gt;Don’t compose without a scale&lt;/a&gt;&amp;#8221; from &lt;cite&gt;The Elements of Typographic Style Applied to the Web&lt;/cite&gt; by Richard Rutter&lt;/li&gt;
+&lt;li&gt;“&lt;a href="http://alistapart.com/article/more-meaningful-typography"&gt;More Meaningful Typography&lt;/a&gt;&amp;#8221; and &lt;a href="http://modularscale.com"&gt;Modular Scale&lt;/a&gt; by Tim Brown&lt;/li&gt;
+&lt;li&gt;“&lt;a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography"&gt;A More Modern Scale for Web Typography&lt;/a&gt;&amp;#8221; by Jason Pamental&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On Harmony in Book Design&lt;/h2&gt;
+&lt;p&gt;I didn’t get the space to touch on this much in my article, but even in a fluid environment, it is ideal to think about the relationship of your content area and the viewport. Book designers have been exploring this idea since the 16th century:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;“&lt;a href="http://artequalswork.com/posts/form-of-the-book/"&gt;The Form of the Book, Digested&lt;/a&gt;&amp;#8221; a selection of excerpts from &lt;cite&gt;The Form of the Book&lt;/cite&gt;, by Jan Tschichold, which is sadly out of print&lt;/li&gt;
+&lt;li&gt;An excerpt from &lt;cite&gt;&lt;a href="http://books.google.co.uk/books?id=_Ri63jEKPfgC&amp;amp;pg=PT12&amp;amp;lpg=PT12&amp;amp;dq=design+asymmetric+grids&amp;amp;source=bl&amp;amp;ots=E38qJ7RZWk&amp;amp;sig=yB6y2xXzwvNa8Kn9YTh0fxpr1dI&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ei=flPlUfX_G4PF7Abz7IHQCg&amp;amp;ved=0CIABEOgBMAw#v=onepage&amp;amp;q=design%20asymmetric%20grids&amp;amp;f=false"&gt;Book Design&lt;/a&gt;&lt;/cite&gt;, by Andrew Haslam&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/l7ceeoKSxA0" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-03-31T12:30:43+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/content-out-layout-the-resources</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Rachel Andrew on the Business of Web Dev: Our Enclosed Space]]></title>
+      <author>Rachel Andrew</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/q8kOgfPN0Jg/our-enclosed-space</link>
+      <guid isPermaLink="false">http://alistapart.com/column/our-enclosed-space</guid>
+      <description>&lt;p&gt;I speak fairly frequently at conferences, and I get to listen to a lot of web designers and developers giving their presentations at these events. I often have my laptop open on my knee to keep an eye on Perch support while I listen. What I hear from designers espousing the latest techniques in my conference circuit world jars with the queries I answer in support. An ever-widening gulf seems to be emerging between the “thought leaders” of the web, and the reality of people doing great work for clients on often extremely limited budgets.&lt;/p&gt;
+
+&lt;p&gt;At one conference recently, a speaker was reminiscing about how we &lt;em&gt;used to&lt;/em&gt; charge for websites by the page. Yet the fact that companies such as SquareSpace are doing so well shows that out there in the world, people &lt;em&gt;do&lt;/em&gt; want to build a few web pages. There are many people who &lt;em&gt;do&lt;/em&gt; see their sites as being a homepage and a collection of other pages. Perhaps design businesses are charging “by the page” because it makes sense to their customers.&lt;/p&gt;
+
+&lt;h2&gt;The echo chamber&lt;/h2&gt;
+
+&lt;p&gt;It is very easy—and I know because I’ve been there—to assume that everyone knows what we know, cares about the things that we care about, or has and wants the same business opportunities we do. We can end up participating in a Twitter echo chamber of people who have  experiences similar to ours; who are at a similar stage in their career, and tend to think in a similar way. We attend conferences that have a high ticket price and so attract only those sent by companies—and therefore working in larger teams—or highly successful independent designers and developers.&lt;/p&gt;
+
+&lt;p&gt;Unless you are sent by a company, speaking at a conference has a cost. If you are someone who charges an hourly rate, you will find that even where a speaker fee is paid, it doesn’t cover the time it takes to prepare the talk, travel, and attend the event. Writing web books is a money earner for only a very few authors. Therefore the voices we hear most frequently are from a particular segment of the industry—those who can afford to spare the time.&lt;/p&gt;
+
+&lt;p&gt;We can find ourselves with a small segment of our industry speaking to the same small part of our industry. We can quickly forget that there is a much wider industry, and people working outside of our circle often have quite different challenges and concerns. &lt;/p&gt;
+
+&lt;p&gt;Through supporting Perch, we encounter people who are the web designer for their local area. They operate in a “high touch” world, sitting down with their customers and working out how to best serve their business. They are often charging very little for their services, yet are making a huge difference to the businesses they develop sites for. They are doing great work, if we value that work by the difference it is making to those who benefit from it. Yet I rarely hear this type of work discussed outside of talking with our customers.&lt;/p&gt;
+
+&lt;p&gt;It is important that best practice is discussed and strategies for working in large teams hammered out. We need thought leaders; we need the people who enjoy debating specifications; we need people who create new tools and ways of working and want to share them with us all. It’s important that there are people who have the time, energy, and space to do this—because people who are just working hard to make a living often don’t have time. The fact that it is perfectly normal on the web for companies to share the things they have learned, even releasing the source code of projects for other people to use, is one of the brilliant things about the world in which we work. It is something we all benefit from. &lt;/p&gt;
+
+&lt;h2&gt;Like talking to a wall&lt;/h2&gt;
+
+&lt;p&gt;My fear is that by allowing ourselves to believe that &lt;em&gt;everyone&lt;/em&gt; knows certain things, or &lt;em&gt;everyone&lt;/em&gt; is working in a certain way, we stop producing great materials for the generalists who create small websites, on their own, with a tiny budget. &lt;/p&gt;
+
+&lt;p&gt;For example, when I see someone in support struggling with an issue that is front-end development and not related to our software at all, I want to be able to send them to a straightforward CSS or JavaScript resource. I know that at the point they post to our forum that person is stressed because they have to deliver a site by the end of the week. It would be completely unhelpful to preach at them about modern development techniques, or send them to a forum where everyone will tell them they should be using OOCSS techniques, a preprocessor, and installing Grunt. Learning all of these tools and practices may very well improve that person’s workflow, however the point at which they are just trying to get a simple thing done is not the point at which they will be receptive to learning them. Making assumptions such as that everyone is using Sass or everyone understands how to clone a project on Github makes potentially helpful resources useless to the person who just needs to achieve an end result today.&lt;/p&gt;
+
+&lt;p&gt;When we assume that everyone is working in a similar place to us, we risk masking the important things behind a layer of opinion about the “right” way to do things. We risk creating a barrier to knowledge by bundling accessibility with workflow and solid good practice with personal preferences. It then can all be dismissed as irrelevant in one batch, by a person who builds a website a week for a few hundred dollars for a business who couldn’t afford anything else. That’s no way to encourage the wide adoption of modern methods of building the web.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/q8kOgfPN0Jg" height="1" width="1"/&gt;</description>
+      <dc:subject><![CDATA[<a href="/topic/industry">Industry</a>, <a href="/topic/state-of-the-web">State of the Web</a>]]></dc:subject>
+      <dc:date>2014-03-27T12:30:25+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/column/our-enclosed-space</feedburner:origLink></item>
+	
+		
+    <item>
+      <title><![CDATA[Content-out Layout]]></title>
+      <author>Nathan Ford</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/DF9QAniypaA/content-out-layout</link>
+      <guid isPermaLink="false">http://alistapart.com/article/content-out-layout</guid>
+      <description>&lt;p&gt;Grids serve well to divide up a predefined canvas and guide how content fits onto a page, but when designing for the web’s fluid nature, we need something more… well, &lt;em&gt;responsive&lt;/em&gt;. Enter ratios, which architects, sculptors, and book designers have all used in their work to help set the tone for their compositions, and to scale their material from sketch to final build. We can apply a similar process on the web by focusing on the tone and shape of our &lt;a href="http://www.markboulton.co.uk/journal/anewcanon"&gt;content first&lt;/a&gt;, then working outward to design fluid, ratio-based grid systems that invite harmony between content, layout, and screen.&lt;/p&gt;
+
+&lt;h2&gt;Columns are boring. Build with relationships.&lt;/h2&gt;
+
+&lt;p&gt;Layout choices can set the tone for our designs. As graphic designer Anne Burdick liked to teach, “the structure of the page can be seen as the embodiment of a particular philosophical perspective.&amp;#8221;&lt;sup data-footnote&gt;1&lt;/sup&gt; Do we favor order for our content? Or does it require a humanist touch? Should we tempt chaos? Whatever the tone, each can be successfully introduced in your layout through the use of a ratio: even (1:1), golden (1:1.618), or random proportions (no ratio), respectively.&lt;/p&gt;
+
+&lt;p&gt;Our chosen ratio will be the DNA from which all of our layout decisions are formed. This one number will connect every element of our design, and by adjusting it, we will be able to dramatically affect the tone of our designs. Ratios with a lower proportion—or smaller difference between numbers—will yield subtler layout differences, and work well for nuanced, quieter content like personal blogs or long reads. Greater proportions energize a composition with dramatic size differences, perfect for more dynamic content.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-1-even.jpg" alt="" /&gt;
+&lt;figcaption&gt;An even-sized array of images is orderly and sturdy.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-2-golden.jpg" alt="" /&gt;
+&lt;figcaption&gt;A golden ratio-based array feels organic and dynamic.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-3-chaotic.jpg" alt="" /&gt;
+&lt;figcaption&gt;A chaotic array is interesting and a bit unnerving.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3&gt;Rational Ratios&lt;/h3&gt;
+
+&lt;p&gt;A ratio can consist of any two numbers, giving us an infinite palette of possibilities, but to narrow things down it might be best to start with some familiar territory. Rational ratios are friendly enough, as the math isn’t too scary:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;Even&lt;/td&gt;
+&lt;td&gt;1:1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Halves&lt;/td&gt;
+&lt;td&gt;1:2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Thirds&lt;/td&gt;
+&lt;td&gt;1:3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fourths&lt;/td&gt;
+&lt;td&gt;1:4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The &lt;a href="http://en.wikipedia.org/wiki/Rule_of_thirds"&gt;Rule of Thirds&lt;/a&gt; is a well-known example of the power of rational ratios in layout. Highly structured content—like arrays of images or videos, or text with a neutral or formal tone—is represented best by a rational ratio. These ratios work well when designing for symmetry, but can be used for asymmetrical layouts as well.&lt;/p&gt;
+
+&lt;h3&gt;Irrational Ratios&lt;/h3&gt;
+
+&lt;p&gt;In &lt;cite&gt;The Book of Rectangles, Spatial Law and Gestures of The Orthogons Described&lt;/cite&gt; (1956), Czech designer and architect Wolfgang von Wersin compiled a set of &lt;a href="http://en.wikipedia.org/wiki/Dynamic_rectangle"&gt;dynamic ratios&lt;/a&gt; used by artists, architects, and calligraphers throughout history to guide their compositions. According to Wersin, it was believed that “nothing excels these proportions.” Not a bad place to start, then.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;Quadrat (or Square/Even)&lt;/td&gt;
+&lt;td&gt;1:1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hemidiagon&lt;/td&gt;
+&lt;td&gt;1:1.118&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Trion&lt;/td&gt;
+&lt;td&gt;1:1.154&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Quadriagon&lt;/td&gt;
+&lt;td&gt;1:1.207&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Biauron&lt;/td&gt;
+&lt;td&gt;1:1.236&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Penton&lt;/td&gt;
+&lt;td&gt;1:1.272&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Diagon&lt;/td&gt;
+&lt;td&gt;1:1.414&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bipenton&lt;/td&gt;
+&lt;td&gt;1:1.458&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hemiolion&lt;/td&gt;
+&lt;td&gt;1:1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Auron (the golden ratio)&lt;/td&gt;
+&lt;td&gt;1:1.618&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hecton (or Sixton)&lt;/td&gt;
+&lt;td&gt;1:1.732&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Doppelquadrat (Halves)&lt;/td&gt;
+&lt;td&gt;1:2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;figcaption&gt;Wersin’s 12 “orthagons” with ratios (&lt;a href="http://matthewmattingly.com/sites/default/files/hor-ratio%20instructions%2013.pdf"&gt;PDF&lt;/a&gt;)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The most famous irrational ratio in design is, of course, the &lt;a href="http://en.wikipedia.org/wiki/Golden_ratio"&gt;golden ratio&lt;/a&gt; (the “Auron,” according to Wersin), which is derived from patterns in nature and the human form. Irrational ratios give us smaller increments in proportions, and their idiosyncratic relationships work best in asymmetrical layouts. &lt;/p&gt;
+
+&lt;h3&gt;What else?&lt;/h3&gt;
+
+&lt;p&gt;On its own, a ratio is not enough to create an engaging composition. Luckily, pure geometry is not our only guide here. I’ve always loved &lt;a href="http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326"&gt;Bringhurst’s concept&lt;/a&gt; of choosing typefaces based on who designed them, and where. Perhaps a similar methodology can be applied to layout, where we derive ratios from tangential influences like &lt;a href="http://blog.typekit.com/2014/02/26/deriving-layout-from-your-typeface/"&gt;type choices&lt;/a&gt;, or even &lt;a href="http://24ways.org/2011/composing-the-new-canon/"&gt;music&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h2&gt;Working within a scale&lt;/h2&gt;
+
+&lt;p&gt;Successful compositions use variety to create hierarchy and movement. Using our chosen ratio, we can extrapolate an array of sizes much like notes on a musical scale, then build our layouts using the “notes”—or widths—from that scale. We can then repeat and skip around the scale to create a kind of visual melody.&lt;/p&gt;
+
+&lt;p&gt;To build our scale, we first select a base unit. I would suggest using your typography’s base font-size to further connect the proportions of your layout to your content. Let’s use 1em to keep the math simple. We then multiply our base unit by the number on the right side of our ratio to generate the next size up the scale, and repeat until we have enough size variants to build our layout. Eight should do.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-5-golden-notes.jpg" alt="" /&gt;
+&lt;figcaption&gt;Eight “notes” generated by the golden ratio.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;By deciding sizes based on a scale, we can choose relationships that better fit the tone of our design. Large leaps across the scale can be dramatic. Small steps can be more nuanced than in traditional columnar layouts. No matter the size of the change, the result is geometrically connected by our ratio.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-6-even-building.gif" alt="" /&gt;
+&lt;figcaption&gt;An array of images on an even six-column grid.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-7-golden-building.gif" alt="" /&gt;
+&lt;figcaption&gt;An array of images on a “golden” six-column grid.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3&gt;Lightening the cognitive load&lt;/h3&gt;
+
+&lt;p&gt;When working with ratios and scales, your layout decisions will become more strictly defined. For example, if we were laying out the content of a blog with the common image-plus-copy pattern (I call this a “blurb”), three or more columns are needed in an even-column grid to give any size distinction between the elements.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-8-even-blurb.gif" alt="" /&gt;
+&lt;figcaption&gt;A blurb on an even three-column grid.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In a ratio-based grid, only two columns would be necessary here. Since blogs are intended to be a more personal expression, I think the golden ratio, with its humanist proportions, would be appropriate.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-8a-golden-blurb.gif" alt="" /&gt;
+&lt;figcaption&gt;A blurb on a golden two-column grid.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Each text width is 2.618 times larger than its corresponding image, or two steps up on our scale.&lt;/p&gt;
+
+&lt;p&gt;Reducing columns helps us out in two ways, giving us:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;more layout clarity: hierarchy and alignment are strengthened by the restricted threshold options;&lt;/li&gt;
+&lt;li&gt;fewer decisions when designing: constraints keep our minds free to focus on bigger issues like content and usability.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our simpler, ratio-based blurb grid codifies a relationship between two elements based on the shape of the content. Using this relationship as a start, we can now flesh out a fluid, content-based grid system.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-9-golden-blurb.jpg" alt="" /&gt;
+&lt;figcaption&gt;Our blurb grid.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Grids within grids&lt;/h2&gt;
+
+&lt;p&gt;We can now design simpler grids that build upon and within each other, sharing a common ratio to keep harmony between their various contexts. I call grids like the one used for our blurb example a “content grid.” Content grids define relationships within a portable piece of content and work well for articles, sidebar modules, and other reusable elements of a design system. &lt;/p&gt;
+
+&lt;p&gt;To divide up the available viewport space, we can use a global “layout grid” that behaves more like the grids we’ve been using on the web for years now.&lt;/p&gt;
+
+&lt;h3&gt;A system emerges&lt;/h3&gt;
+
+&lt;p&gt;Continuing our blog example, we’ll use our scale to derive another content grid for our posts. In a typical blog post, we have a large image, the body of text, social media links, inline images, and some supporting content pulled out into the margins. By trying various arrangements from our scale, we can arrive at a grid that accommodates our content needs. &lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-10-golden-article.jpg" alt="" /&gt;
+&lt;figcaption&gt;A four-column article grid using 1 and 2 from our scale. The first, thinner column will house a social module, while all four columns give us the opportunity to align our posts’ elements as appropriate.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To convert these widths into fluid CSS percentages, we just need to total the corresponding widths from our scale, and then convert each column using &lt;a href="http://alistapart.com/article/fluidgrids"&gt;Ethan Marcotte’s famous formula&lt;/a&gt;:&lt;/p&gt;
+
+&lt;figure class="text"&gt;
+&lt;p&gt;target ÷ context = result&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;…with “target” being a column width and “context” being the sum of all columns used in the grid. (Or if you’re braving &lt;a href="http://css-tricks.com/snippets/css/a-guide-to-flexbox/"&gt;flex-box&lt;/a&gt; for layout, you can just use the exact ratio numbers from your scale.)&lt;/p&gt;
+
+&lt;p&gt;We can build a simple three-section “layout grid” to accommodate our larger content sections: an area for branding and navigation, an area for the main body of content, and a third area for related and featured content links. Our main content area likely needs to be much wider to house our post content, and the navigation area much thinner. We’ll find column widths from our scale that feel right for our layout, giving the appropriate room for each section.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-11-golden-layout.jpg" alt="" /&gt;
+&lt;figcaption&gt;A symmetrical, three-column layout grid using 1 and 3 from our scale.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Finally, we place our content grids (the article grid and our blurb grid from earlier) into our layout grid, creating a layout that is both fluid and completely driven by our content. (&lt;a href="/d/392/content-out-layout/demos/blog-golden.html"&gt;View the blog demo&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-12-golden-blog.gif" alt="" /&gt;
+&lt;figcaption&gt;Our new, golden ratio-based, content-out blog layout.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For comparison, I also built this same layout on Twitter Bootstrap’s 12-column grid. (&lt;a href="/d/392/content-out-layout/demos/blog-even.html"&gt;View the Bootstrap blog demo&lt;/a&gt;.) While fairly similar, the ratio-based layout holds up better at any random size.&lt;/p&gt;
+
+&lt;h2&gt;Fitting to constraints&lt;/h2&gt;
+
+&lt;p&gt;Adapting our layout to various viewports now becomes much simpler, as we have fewer variables to consider. For this process, we can build a fluid prototype in the browser, then scrutinize where the layout starts to falter when resizing the window. &lt;/p&gt;
+
+&lt;h3&gt;Identifying the usual suspects&lt;/h3&gt;
+
+&lt;p&gt;As the viewport stretches and narrows, our relationships will strain and crack, especially at sizes &lt;a href="http://www.markboulton.co.uk/journal/theinbetween"&gt;in between typically targeted device sizes&lt;/a&gt; like “tablet” and “desktop.” After exploring how fluid layouts crumble on many well-trafficked sites, I’ve isolated some common issues that signify where a &lt;a href="http://alistapart.com/article/the-infinite-grid"&gt;change in grid&lt;/a&gt; is needed:&lt;/p&gt;
+
+&lt;h4&gt;7s&lt;/h4&gt;
+
+&lt;p&gt;Sevens find an image shortened as its width is scaled down, and adjacent text squished to a tall, unreadable measure. The resulting form resembles a “7,” and creates a conspicuous square of white space beneath the image. This is especially distracting when repeated across a layout. &lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-13-sevens.gif" alt="" /&gt;
+&lt;figcaption&gt;Examples of the 7 pattern, and the negative space created.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4&gt;Drifts&lt;/h4&gt;
+
+&lt;p&gt;Drifts are so far removed from their related content that they no longer have any relationship to anything. They may wind up paired with other disparate pieces of content flotsam, or just drift all by their lonesome. Across a layout, drifts destroy hierarchy and cause troubling rivers of negative space to creep in.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-14-drifters.gif" alt="" /&gt;
+&lt;figcaption&gt;Images have drifted away from content, forming their own column, while their headlines and meta content lose any visual relevance to each other.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4&gt;Pinches&lt;/h4&gt;
+
+&lt;p&gt;Pinches happen as elements get too close to other pieces of content. Relationships are destroyed as the viewer makes incorrect associations: images pair with the wrong headline, links run into a list of their own creation. In extreme cases, content collides—at the cost of all readability.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="/d/392/content-out-layout/Fig-15-pinchers.gif" alt="" /&gt;
+&lt;figcaption&gt;Pinches cause visual hotspots that distract the eye and confuse relationships as proximity overpowers placement.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3&gt;Finding elemental constraints&lt;/h3&gt;
+
+&lt;p&gt;After adjusting your layouts for fluidity, certain elements will need special attention. Paragraphs should maintain a readable measure, ads should maintain size and relative position, and images should not enlarge beyond what their resolution will allow. Setting a specific &lt;em&gt;width&lt;/em&gt; is an easy fix, but does not truly embrace fluidity. Instead, we can set a &lt;code&gt;min-width&lt;/code&gt; and/or &lt;code&gt;max-width&lt;/code&gt; in our CSS to maintain the integrity of this content.&lt;/p&gt;
+
+&lt;h2&gt;A fitter method&lt;/h2&gt;
+
+&lt;figure class="quote"&gt;
+&lt;blockquote&gt;The use of the grid as an ordering system is the expression of a certain mental attitude inasmuch as it shows that the designer conceives his work in terms that are constructive and oriented to the future.&lt;/blockquote&gt;
+&lt;figcaption&gt;Josef Muller-Brockmann&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A ratio-based, modular approach to grids allows us to navigate a medium where we cannot know the container size, nor what type of content will flow into that container. We can build layout systems from our content, and rely on ratios to keep harmonious compositions from these disparate parts. From there, a keen understanding of how fluid designs fail can show us when to adapt these systems, and when to add constraints.&amp;nbsp; &lt;/p&gt;
+
+&lt;p&gt;In &lt;a href="http://alistapart.com/article/fluidgrids"&gt;2009&lt;/a&gt;, and again in &lt;a href="http://alistapart.com/article/responsive-web-design/"&gt;2010&lt;/a&gt;, Ethan Marcotte gave us the tools with which to respond. In &lt;a href="http://www.markboulton.co.uk/journal/anewcanon"&gt;2011&lt;/a&gt;, Mark Boulton gave us a guiding philosophy. By weaving these highly influential ideas together with a pliable method, we can move towards more sophisticated layouts tailored to the needs of our content, patterned with unique character, and perfectly suited to the nature of our ever-changing web.&lt;/p&gt;&lt;h3&gt;Footnotes&lt;/h3&gt;&lt;ul class="the-footnotes"&gt;&lt;li id="note1"&gt;1. Burdick, Anne, Stephen Farrell. “An interview with Stephen Farrell” &lt;cite&gt;Emigre&lt;/cite&gt; 37 (1996). Print.&lt;/li&gt;&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/DF9QAniypaA" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-03-25T12:00:35+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/article/content-out-layout</feedburner:origLink></item>
+    
+    <item>
+      <title><![CDATA[People Skills for Web Workers]]></title>
+      <author>Jonathan Kahn</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/Eanvws77J-A/people-skills-for-web-workers</link>
+      <guid isPermaLink="false">http://alistapart.com/article/people-skills-for-web-workers</guid>
+      <description>&lt;p&gt;The web touches everything an organization does—marketing to customer service, product development to branding, internal communications to recruitment. This is the era of cross-platform digital services, fast networks, and mobile devices. Sounds like the ideal time to be a person who makes websites.&lt;/p&gt;
+
+&lt;p&gt;So why do we feel frustrated so often? Why do we experience &lt;a href="http://alistapart.com/article/burnout"&gt;burnout&lt;/a&gt; or &lt;a href="http://alistapart.com/article/a-moment-to-breathe"&gt;depression&lt;/a&gt;? What makes it difficult to do work that has meaning, that satisfies us?&lt;/p&gt;
+
+&lt;p&gt;The problem is that we need to collaborate, but we haven’t focused on developing our people skills.&lt;/p&gt;
+
+&lt;p&gt;Back in the day, we could get by with technical skills alone. If you could get HTML and CSS to work across browsers, you’d find work, and you might even break new ground. Technical skills still matter, but today making digital services that meet users’ needs also depends on our ability to collaborate across many types of boundaries:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Disciplines like interaction design, content, front-end and backend development, user research, and product management&lt;/li&gt;
+&lt;li&gt;Departments in the organization like marketing, sales, IT, communications, and customer service&lt;/li&gt;
+&lt;li&gt;Channels like websites, native apps, social media, print, and the call center&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;People skills are as difficult to learn as technical skills&lt;/h2&gt;
+
+&lt;p&gt;Think back to when you first learned a technical skill like CSS or JavaScript. How did you feel? If you’re like most people, you felt scared and overwhelmed. And it never ends: however accomplished you are today, &lt;a href="http://alistapart.com/column/never-heard-of-it"&gt;there’s always more to learn&lt;/a&gt;. That’s why you read sites like &lt;cite&gt;A List Apart&lt;/cite&gt;, follow discussions on social media, and attend conferences: to keep learning.&lt;/p&gt;
+
+&lt;p&gt;The same is true of people skills—often called “soft skills” in business—like coaching, listening, facilitation, and leadership. There’s a myth that you either have these skills or you don’t—which Meri Williams calls “&lt;a href="http://blog.geekmanager.co.uk/2013/11/17/rejecting-the-soft-skills-fairy/"&gt;the soft skills fairy&lt;/a&gt;.” But that’s like saying, “You can either code JavaScript or you can’t.” You didn’t fall out of bed with technical skills, and the same is true of people skills.&lt;/p&gt;
+
+&lt;p&gt;Learning people skills is challenging, but when you take the time to develop them, it’ll seem like you’ve gained a superpower—one that allows you to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;find common ground with people who have different perspectives, like when marketing demands its latest campaign go on the homepage, regardless of the user experience;&lt;/li&gt;
+&lt;li&gt;handle stressful situations—like difficult conversations between backend developers and content editors who need to use the CMS—with grace and compassion;&lt;/li&gt;
+&lt;li&gt;feel confident about your contributions without criticizing others, e.g., when your product team implements an agile process and you’re concerned that your area of expertise might be sidelined.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Behind each of these scenarios are collaboration problems. Let’s talk about four of the most common ones, and the people skills that can help with each.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;You don’t get appreciation for your contributions.&lt;/li&gt;
+&lt;li&gt;You struggle to keep up and know everything.&lt;/li&gt;
+&lt;li&gt;You experience conflict with people who are scared of change.&lt;/li&gt;
+&lt;li&gt;Your organization can’t adapt.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;1. You don&amp;#8217;t get appreciation for your contributions&lt;/h2&gt;
+
+&lt;figure class="quote"&gt;
+&lt;blockquote&gt;Judgments of others are alienated expressions of our own unmet needs.&lt;/blockquote&gt;
+&lt;figcaption&gt;Marshall B. Rosenberg, &lt;cite&gt;&lt;a href="http://www.amazon.com/Nonviolent-Communication-A-Language-Life/dp/1892005034"&gt;Nonviolent Communication: A Language of Life&lt;/a&gt;&lt;/cite&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Although it’s counterintuitive, the first person you need to look out for when you want to collaborate is yourself. Everyone needs appreciation for their contributions. When that need isn’t met, we feel frustrated or angry, and we start judging others.&lt;/p&gt;
+
+&lt;p&gt;For example, imagine you’re presenting a prototype of a mobile application to your team. They seem to object, saying that the app would take too long to develop and isn’t “intuitive.” Your defensive instinct might be to tell them that they’re wrong—this is the way we “should” do it—while feeling frustrated because they’re rejecting your work. Notice the judgment? These judgmental behaviors lead to conflict, which prevents collaboration.&lt;/p&gt;
+
+&lt;h3&gt;Learn to communicate without judgment&lt;/h3&gt;
+
+&lt;p&gt;You can begin to spot this behavior by looking for language that implies people are “bad” or doing things “wrong,” or that tells people what they “should” do. You may also notice self-judgment, where you tell yourself you’re wrong, or that your work sucks. The jargon term is “negative self-talk” and we all do it.&lt;/p&gt;
+
+&lt;p&gt;Rosenberg’s &lt;a href="http://en.wikipedia.org/wiki/Nonviolent_Communication"&gt;Nonviolent Communication&lt;/a&gt; (NVC) model helps us identify these moments before they lead to conflict by focusing on four steps: observations, feelings, needs, and requests. You can observe that your colleagues offered “feedback” (rather than “criticism,” which contains a judgment). Then you can identify your feeling, in this case frustration. (If you’re stuck on “angry” or “upset,” try the &lt;a href="https://www.cnvc.org/Training/feelings-inventory"&gt;NVC list of feelings&lt;/a&gt; to get more specific.) Next, figure out what you need: is it respect, appreciation, contribution, autonomy, growth? You may have several unmet needs: try &lt;a href="https://www.cnvc.org/Training/needs-inventory"&gt;this list&lt;/a&gt; for ideas.&lt;/p&gt;
+
+&lt;p&gt;Finally, put it all together into a request. You could say, “You shared your feedback about the prototype. I’m feeling frustrated because I need appreciation for my contribution. Would you be willing to share areas where the prototype meets user needs, as well as those where it may not?” Notice that you’re taking responsibility for your own feelings and needs.&lt;/p&gt;
+
+&lt;p&gt;NVC is difficult to pull off in the heat of the moment, so you need to practice. Get started by &lt;a href="http://www.amazon.com/Nonviolent-Communication-A-Language-Life/dp/1892005034"&gt;reading Rosenberg’s book&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;2. You struggle to keep up and know everything&lt;/h2&gt;
+
+&lt;p&gt;When we collaborate, everyone shares control and no one knows exactly where they’re going. It’s uncomfortable because we’re leaving what we know and stepping into discovery. We need trust to tolerate this discomfort together. When we aren’t confident about our expertise—when we feel insecure—we can’t build trust, so we find collaboration difficult.&lt;/p&gt;
+
+&lt;p&gt;Your colleagues and clients look to you as an expert: someone who can tell them how to do digital “properly.” But technology changes fast. New mobile platforms, new ways of working (Mobile First, Content First, Lean UX), and new technologies (Sass, responsive images, server-side JavaScript) appear all the time.&lt;/p&gt;
+
+&lt;p&gt;People want the “right” answer, the solution with proven return on investment, the fail-safe plan. Whether it’s a fixed budget, the “right” CMS for the corporate website, or the “best” mix of mobile platforms, people are asking you for certainty. You don’t have all the answers, so you can’t offer certainty without faking it. And you’re afraid that your colleagues won’t accept you unless you pretend to know everything. You feel insecure because you have an unmet need for acceptance, and it prevents you from building the trust you need with your team or client.&lt;/p&gt;
+
+&lt;h3&gt;Learn to coach yourself and others&lt;/h3&gt;
+
+&lt;p&gt;Instead of feeling insecure, you can choose to tell yourself that it’s okay not to have all the answers, and use coaching techniques to identify both your strengths and the areas you would like to develop. You can also learn to coach your colleagues. This will help you meet your need for acceptance because you’ll be providing real value to them, instead of pretending to have all the answers.&lt;/p&gt;
+
+&lt;p&gt;Coaching others means acknowledging that we we can’t “fix” other people’s problems and instead supporting them to make decisions about their own development. This allows us to get real about skills and growth while also being kind.&lt;/p&gt;
+
+&lt;p&gt;Get started with the &lt;a href="http://en.wikipedia.org/wiki/GROW_model"&gt;GROW model&lt;/a&gt;, which is a structured conversation based on a set of questions. Notice that the coach doesn’t offer their own ideas or fixes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;Goal&lt;/i&gt;: Where do you want to be, and how will you know when you get there?&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Reality&lt;/i&gt;: Where are you now? How far away is the goal, and what are the challenges?&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Options&lt;/i&gt;: How could you overcome these challenges to get nearer to the goal?&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Way forward&lt;/i&gt;: What action steps will you take to carry out your preferred option?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can both learn to coach other people and ask for coaching yourself. For yourself, this means being honest about the areas you want to develop and being brave enough to ask for help. You can even buddy up with a colleague and coach each other using this tool.&lt;/p&gt;
+
+&lt;h2&gt;3. You experience conflict with people who are scared of change&lt;/h2&gt;
+
+&lt;p&gt;The internet is a symbol of disruption for many people: marketers are nervous of the shift from mass media to direct customer relationships, salespeople worry that websites make their skills obsolete, and publishers’ entire business models are threatened by the decline of print. We want to do digital work we can be proud of, but we’re on the front line of this disruption—a front line that’s thick with unmet needs and the feelings they create: anger, frustration, and fear.&lt;/p&gt;
+
+&lt;p&gt;Our culture makes things worse. We try to avoid conflict, as if ignoring it will make it go away. We tiptoe around sensitive issues or send long emails that we hope nobody will read instead of engaging face-to-face. We agree to a spec we know will never work, because it seems easier than risking an honest conversation. We choose to avoid “difficult conversations” instead of doing what the project needs.&lt;/p&gt;
+
+&lt;h3&gt;Learn to turn conflict into collaboration&lt;/h3&gt;
+
+&lt;p&gt;Imagine a conflict situation: the IT director won’t approve the budget for your new cloud-based web server. Ask yourself what the other person is afraid of. What don’t they know? Why do they perceive the situation differently? To turn conflict into collaboration, you need to listen with empathy.&lt;/p&gt;
+
+&lt;p&gt;Listening is a superpower. When you listen to someone with empathy, you meet their need for understanding, which makes them more likely to listen to &lt;em&gt;you&lt;/em&gt;. When you see shared humanity—that is, when you realize the person you’re talking to is a human being—you can always find common ground.&lt;/p&gt;
+
+&lt;p&gt;Web designers talk about having empathy for users. To overcome conflict, we need to have empathy for our clients and colleagues, too. When our needs for trust and respect are not met, we feel tense, as if we’re about to fight. That makes it difficult to listen with empathy. We can get better with practice. To get started, check out the &lt;a href="http://en.wikipedia.org/wiki/Active_listening"&gt;active listening technique&lt;/a&gt;, where you listen, reflect what you heard the other person say, and clarify your understanding.&lt;/p&gt;
+
+&lt;h2&gt;4. Your organization can&amp;#8217;t adapt&lt;/h2&gt;
+
+&lt;p&gt;Our organizations are structured like industrial factories, with each department separated and optimized, working in isolation. Often digital work seems like diplomacy, as you try to get departments to collaborate instead of fighting over turf. If the team designing the mobile application won’t talk to the desktop website team, what hope do you have? You can’t change your organization’s structure on your own, so why even try?&lt;/p&gt;
+
+&lt;p&gt;I’ve fallen into the trap of complaining about culture as a way to avoid leading. If I say, “The culture here is the problem,” that’s a version of, “You’re doing it wrong”—i.e., somebody else needs to change. Change only happens when individuals choose to lead. Even if your organization’s culture is blocking collaboration, you can help it to adapt by leading change on a small scale.&lt;/p&gt;
+
+&lt;h3&gt;Learn to lead by being honest&lt;/h3&gt;
+
+&lt;p&gt;You might think that to lead your colleagues through change, you need to present strength, crush opposition, and have a bullet-proof plan. You’ve probably seen managers behaving like this.&lt;/p&gt;
+
+&lt;p&gt;But being aggressive is actually a defensive response to feeling insecure. You’re trying to build yourself up by putting other people down. This makes people feel resentful and afraid, which stops them from listening to you.&lt;/p&gt;
+
+&lt;p&gt;In her book &lt;cite&gt;&lt;a href="http://www.amazon.co.uk/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592407331"&gt;Daring Greatly&lt;/a&gt;&lt;/cite&gt;, Brené Brown teaches that showing vulnerability is the true indicator of courage. It takes courage to be yourself, to admit that you’re imperfect. If you admit that you don’t have all the answers, people will trust you, and you’ll inspire them to be brave, too.&lt;/p&gt;
+
+&lt;p&gt;Being a leader often means being the first person to listen. Share your vision—e.g., designing a digital service that puts users’ needs ahead of organizational structure, and makes a profit too—and listen to your colleagues’ ideas, feelings, and needs. Overcome your insecurity, take a risk, and be brave. It could be as simple as proposing an agile process for your next project, admitting that you don’t know whether it will work, and convincing people to try it by building trust. Or you might bring together a multidisciplinary team from across the organization and work up a minimum viable product, while convincing various stakeholders to trust you. The outcome may surprise you.&lt;/p&gt;
+
+&lt;h2&gt;People skills are web skills&lt;/h2&gt;
+
+&lt;p&gt;As the web continues to transform our society—in ways that both excite us and scare us—we need more than new technologies to keep up. We need collaboration.&lt;/p&gt;
+
+&lt;p&gt;Now that you understand how people skills can enable collaboration, you have an opportunity to change your work, and perhaps your organization. Invest your time in people skills and you might just change the world.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/Eanvws77J-A" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-03-25T12:00:58+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/article/people-skills-for-web-workers</feedburner:origLink></item>
+    
+	
+	    <item>
+      <title><![CDATA[Save Your Eyes with f.lux]]></title>
+      <author>Anthony Colangelo</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/UiSeEDmDa1Q/save-your-eyes-with-flux</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/save-your-eyes-with-flux</guid>
+      <description>&lt;p&gt;I never thought I felt eye strain from looking at big, bright screens all day—I thought my young eyes were invincible. Then I started getting sharp headaches at the end of every day, and I realized I needed to change something.&lt;/p&gt;
+
+&lt;p&gt;I decided to finally take the jump and start using &lt;a href="http://justgetflux.com"&gt;f.lux&lt;/a&gt;. f.lux is an app that changes the color temperature of your display, adapting the light you see to the time of day, which helps to reduce eye strain. There&amp;#8217;s a &lt;a href="http://justgetflux.com/news/pages/mac/"&gt;new beta out for Mac&lt;/a&gt; that brings some really fantastic improvements and enhancements (don&amp;#8217;t worry, there&amp;#8217;s &lt;a href="http://justgetflux.com/news/2013/05/29/beta.html"&gt;a Windows version&lt;/a&gt; too!).&lt;/p&gt;
+
+&lt;p&gt;In the morning and afternoon, you&amp;#8217;ll see the blue-ish colored light that your screen normally pushes out. As the sun sets, the light will shift to a more reddish color, and when night falls, it&amp;#8217;ll become an even deeper red. Every color step is customizable, so you decide how red-shifted you&amp;#8217;d like each phase to be—I like mine on the deeper end of the scale.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s normal to see blue light during the day, but as it gets darker, that light is harsh on our eyes. Red light is &lt;a href="http://justgetflux.com/research.html"&gt;easier on your eyes,&lt;/a&gt; especially at night—it&amp;#8217;s why &lt;a href="http://en.wikipedia.org/wiki/Night_vision#Biological_night_vision"&gt;red lights are used to preserve vision at night&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When I tell people in our industry about f.lux, I often hear something like, &amp;quot;But what if I&amp;#8217;m doing color-sensitive work?&amp;quot; The newest f.lux beta has a feature that allows you to disable f.lux in certain applications. As you switch into an application where you’ve disabled f.lux, your screen will slowly transition to normal colors. The smooth transition will help prepare your eyes for the blue wave of light you&amp;#8217;re about to get hit with, so it&amp;#8217;s not too jarring.&lt;/p&gt;
+
+&lt;p&gt;For anyone who spends hours a day looking at a screen, f.lux is a must-have. We spend a lot of time and effort making sure we use ergonomically correct keyboards, chairs, and desks, so it&amp;#8217;s time we gave our eyes a similar level of treatment.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/UiSeEDmDa1Q" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-03-24T12:30:46+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/save-your-eyes-with-flux</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Cennydd Bowles Makes a Case for Android]]></title>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/gULCdrjLWoI/why-dont-designers-take-android-seriously</link>
+      <guid isPermaLink="false">http://www.cennydd.co.uk/2014/why-dont-designers-take-android-seriously</guid>
+      <description>&lt;a href="http://www.cennydd.co.uk/2014/why-dont-designers-take-android-seriously" style="font-size: 18px;"&gt;» Cennydd Bowles Makes a Case for Android&lt;/a&gt;&lt;br&gt;&lt;br&gt;Cennydd believes Android will be the dominant platform in the next decade, and has compiled his responses to the main arguments against his stance.&lt;br&gt;&lt;br&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/gULCdrjLWoI" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-03-23T20:19:05+00:00</dc:date>
+    <feedburner:origLink>http://www.cennydd.co.uk/2014/why-dont-designers-take-android-seriously</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[Laura Kalbag on Freelance Design: Inspiration]]></title>
+      <author>Laura Kalbag</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/SuBPLbaQW2U/inspiration</link>
+      <guid isPermaLink="false">http://alistapart.com/column/inspiration</guid>
+      <description>&lt;p&gt;“Where do you get your inspiration from?” It’s an odd question that designers ask each other. But it’s not asking what motivates us to do our work, or what makes us want to be designers in the first place.&lt;/p&gt;
+
+&lt;h2&gt;What is inspiration?&lt;/h2&gt;
+
+&lt;p&gt;When we’re asked where we get our inspiration from, we’re usually being asked where we find that little seed of an idea that grows into a creative solution to a problem.&lt;/p&gt;
+
+&lt;p&gt;As a web designer, the expected answer is often a CSS or Responsive Web Design gallery website, and the underlying question is, Where do you pinch your best ideas from?&lt;/p&gt;
+
+&lt;p&gt;When I was in high school, art class exercises were usually formed of slavishly copying an artist’s work. We’d use the tools and techniques the artist used in order to better understand how and why the work was created. This helped us experience the process the artist used to create such work.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/Inspiration-Kalbag/eyes-for-web.jpg"&gt;
+&lt;figcaption&gt;A study of eyes in different paintings from my art class when I was 17.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Following these exercises, we would usually complete a piece of our own work, with subject matter of our choosing, but using the same tools and techniques as the artist. Here we were learning how to apply the artists’ thinking in the context of our own work.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="http://d.alistapart.com/Inspiration-Kalbag/christo_mug.jpg"&gt;
+&lt;figcaption&gt;A mug wrapped in paper and string, inspired by the style of Christo and Jeanne-Claude.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Researching solutions&lt;/h2&gt;
+
+&lt;p&gt;Every design problem is unique. The context, environment, audience, and goals will never be the same again. But the problems we’re solving can be &lt;em&gt;similar&lt;/em&gt; to those that went before. These similarities are what we can use to research potential solutions. When we’re researching the solutions through the experience and ideas of others, it’s like being back in art class again. We’re learning how it feels to use other designers’ tools and techniques, so that we can discover what might suit our own processes. Our wide-ranging explorations lead us each to find inspiration in a different artist or technique. Just as every design problem is unique, there’s no single designer, book, or gallery site that can solve every design problem.&lt;/p&gt;
+
+&lt;p&gt;Borrowing ideas isn’t a bad practice. We can research and learn from these resources, although to copy their aesthetics or functionality in their entirety &lt;em&gt;is&lt;/em&gt; bad practice. If we copy other designers’ work, regardless of the context of their origins or our projects, we won’t have learned anything, and it will likely result in poor work and an inappropriate solution.&lt;/p&gt;
+
+&lt;h2&gt;Evolving resources&lt;/h2&gt;
+
+&lt;p&gt;I was discussing inspiration with my friend &lt;a href="http://www.bevanstephens.com"&gt;Bevan Stephens&lt;/a&gt; a few weeks ago. We talked about how, at some point in our design careers, we seemed to stop looking for ideas in galleries and similar resources. We didn’t realize it at the time, but somehow we’d gained confidence, and felt we didn’t need to actively search for ideas from aesthetic showcases anymore.&lt;/p&gt;
+
+&lt;p&gt;When we start out, we are usually very conscious of every design decision we make. It takes time for us to familiarize ourselves with our preferred rules and patterns. The more experience we get, the more subconscious these design decisions become. We can make a decision without any conscious justification, although we can then unravel our reasoning in a perfectly clear way. I believe this confidence comes to all designers with time.&lt;/p&gt;
+
+&lt;p&gt;A similar thing happens with the way we research solutions. We spend a huge amount of time interacting with other designers’ work; in our research and in the products we use. Sometimes a solution, or an element of the execution, will stand out to us. We may just absorb the effectiveness (or ineffectiveness). Or we’ll remind ourselves to save it for later, in a notebook, some kind of resources library, or just in our heads.&lt;/p&gt;
+
+&lt;p&gt;The more experience we have, the greater the osmosis. The viewing and filing of the solutions becomes quicker, more automatic. We become more efficient at storing the information and ideas that we need.&lt;/p&gt;
+
+&lt;h2&gt;The exceptions&lt;/h2&gt;
+
+&lt;p&gt;Whilst I think I’m getting better at subconsciously storing ideas and potential solutions, occasionally I find myself returning to the design galleries. It’s not usually for a general browse, but more often for looking at a specific category, a particular type of website. I find myself needing to learn again. I seek out ideas from gallery sites when I’m feeling unsure. This usually happens when the context of a project is new to me. It’s a different type of site, product, audience, or approach. I need to supplement my mental library of ideas. I’m not blindly copying work like I might have done when I was starting out, I’m now better at identifying when I need more resources to help me understand a problem. I understand more about how to appropriate ideas and techniques without copying. Still, I need to bolster my confidence. I want to feel as though I know what I’m working with.&lt;/p&gt;
+
+&lt;p&gt;Design as a practice and process stays constant, but the technology, audiences and other outputs change around us. We will always be able to apply our skills of seeing, solving problems and making decisions, but the industry standards and best techniques are always changing. The evolving web means we need to keep learning. Still, we need to be smart about how we learn, and understand the difference between learning and copying so we don’t fall back on the work of others when we should be innovating for ourselves.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/SuBPLbaQW2U" height="1" width="1"/&gt;</description>
+      <dc:subject><![CDATA[<a href="/topic/design">Design</a>, <a href="/topic/creativity">Creativity</a>]]></dc:subject>
+      <dc:date>2014-03-20T11:30:35+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/column/inspiration</feedburner:origLink></item>
+	
+	    <item>
+      <title><![CDATA[A Q&amp;A on the Picture Element]]></title>
+      <author>Yoav Weiss, Mat Marquis, Marcos Caceres</author>
+      <link>http://feedproxy.google.com/~r/alistapart/main/~3/1hASEFZxm2U/picture-element-qa</link>
+      <guid isPermaLink="false">http://alistapart.com/blog/post/picture-element-qa</guid>
+      <description>&lt;p&gt;&lt;i&gt;The revival of the &lt;code&gt;picture&lt;/code&gt; element—the responsive images proposal that has seen the most support from the developer community—is exciting news, but there are still some outstanding questions about how the element will really work. &lt;a href="http://twitter.com/marcosc"&gt;Marcos Caceres&lt;/a&gt; and &lt;a href="http://twitter.com/yoavweiss"&gt;Yoav Weiss&lt;/a&gt; have put countless hours into the &lt;a href="http://responsiveimages.org/"&gt;Responsive Images Community Group&lt;/a&gt;’s efforts, and are now working toward &lt;code&gt;picture&lt;/code&gt; implementations in Firefox and Chrome, respectively. Mat Marquis asked them some questions.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;So, we’re getting &lt;code&gt;picture&lt;/code&gt; &lt;em&gt;and&lt;/em&gt; &lt;code&gt;srcset&lt;/code&gt;? I thought &lt;code&gt;srcset&lt;/code&gt; was bad?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; &lt;code&gt;srcset&lt;/code&gt; was never bad in itself—some parts of the syntax were just hard to understand, and it wasn’t able to handle an important use case: “&lt;a href="http://usecases.responsiveimages.org/#art-direction"&gt;art direction&lt;/a&gt;”. The &lt;code&gt;picture&lt;/code&gt; element works in conjunction with &lt;code&gt;srcset&lt;/code&gt;, giving developers a set of solutions for whatever problem they are trying to solve.&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;What happened to the &lt;code&gt;src-n&lt;/code&gt; proposal that was going around a short time ago?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; The &lt;code&gt;src-n&lt;/code&gt; proposal (put together by Google’s Tab Atkins and John Mellor) elegantly solved a lot of problems, but introduced some weird markup (the numbered attributes bit), which would have made a mess of browsers’ internals. Some WebKit folks went so far as to call it “a grotesque perversion of the HTML language.”&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;YW:&lt;/b&gt; The biggest innovation in &lt;code&gt;src-n&lt;/code&gt; was the &lt;code&gt;sizes&lt;/code&gt; attribute. This attribute allows you to specify the dimensions for a set of images and lets the browser take care of the math behind all the resource selection. We’ve incorporated that feature into the latest &lt;code&gt;picture&lt;/code&gt; proposal—the &lt;code&gt;src-n&lt;/code&gt; proposal was an important step in getting the complete solution that we have today.&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;I thought &lt;code&gt;picture&lt;/code&gt; was done-for—what brought it back?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; It was really the rejection of &lt;code&gt;src-n&lt;/code&gt; by WebKit that brought it back. By taking &lt;code&gt;picture&lt;/code&gt; off the standardization table, there was a new sense of urgency to finding a solution for responsive images.&lt;/p&gt;
+
+&lt;p&gt;Mozilla was quite keen on &lt;code&gt;src-n&lt;/code&gt;, as we thought that, despite being hard to implement, it did a fair job of addressing the problems developers were facing. But, when the WebKit community said no to &lt;code&gt;src-n&lt;/code&gt;, the Blink community backed out as well—the Blink folks weren’t sold on it to start with, so they weren’t apt to do something the WebKit folks were not keen on either. With Mozilla having rejected the original &lt;code&gt;srcset&lt;/code&gt; proposal, this really only left &lt;code&gt;picture&lt;/code&gt; on the table.&lt;/p&gt;
+
+&lt;p&gt;Then, a clever dude from Opera software—Simon Pieters—had an epiphany: what if we flip the way that browsers &lt;em&gt;process&lt;/em&gt; &lt;code&gt;picture&lt;/code&gt;? If we used the &lt;code&gt;picture&lt;/code&gt; element as sort of a controller for an old-fashioned &lt;code&gt;img&lt;/code&gt; element, we could get all the same functionality with way less implementation overhead.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;YW:&lt;/b&gt; The old proposal’s version of &lt;code&gt;picture&lt;/code&gt; acted like a better featured version of &lt;code&gt;img&lt;/code&gt; itself, in the new proposal the &lt;code&gt;picture&lt;/code&gt; element is there only to contain possible resources for the &lt;code&gt;img&lt;/code&gt; element, and assists it in choosing the right one.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;img&lt;/code&gt; can keep doing what it does best: loading and displaying a resource, and the new element just handles the parts that &lt;code&gt;img&lt;/code&gt; doesn’t excel at—namely, picking the most appropriate resource based on a combination of factors: viewport size, pixel density, and so on.&lt;/p&gt;
+
+&lt;p&gt;This design enables browsers to avoid re-implementation and re-testing of &lt;code&gt;img&lt;/code&gt;’s core functionality with &lt;code&gt;picture&lt;/code&gt;, and reduces the maintenance costs of the feature significantly.&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;Does &lt;code&gt;picture&lt;/code&gt; need to land before we can do any real performance testing, or are there tests in place before the element officially hits browsers?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; I think &lt;code&gt;picture&lt;/code&gt; will need to land before we can get any real numbers. However, given that &lt;code&gt;srcset&lt;/code&gt; is already in Chrome 34, sites might already be seeing some of the benefits that come from a responsive image solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;YW:&lt;/b&gt; &lt;i&gt;Some&lt;/i&gt; of the performance benefits can be measured by using today’s polyfills. For example, the data savings from using &lt;code&gt;picture&lt;/code&gt; are not likely to change significantly compared to the data savings benefits of using Picturefill, minus the actual polyfill download. One difference is that current polyfills have to work around browser-level optimizations—like prefetching sources—while a native solution will be able to take advantage of them.&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;How does the current implementation in Chrome differ from implementations in existing polyfills? Do I need to change my code to get it working natively or will it integrate seamlessly?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;YW:&lt;/b&gt; The Blink implementation is of &lt;code&gt;srcset&lt;/code&gt;’s DPR syntax, which is a subset of the original &lt;code&gt;srcset&lt;/code&gt; syntax. If the polyfill you use has implemented that syntax (the &lt;code&gt;x&lt;/code&gt; variant of &lt;code&gt;srcset&lt;/code&gt;), and does feature testing, it’s highly possible that you won’t have to modify your site’s syntax.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; As with any emerging standard, things can change quickly. There is always risk in prematurely adopting a solution before it becomes a standard. Fortunately, the high visibility and level of interest in this feature means the community is already updating their polyfills. For example, &lt;a href="http://twitter.com/scottjehl/"&gt;Scott Jehl&lt;/a&gt; is planning to &lt;a href="https://github.com/scottjehl/picturefill/issues/125"&gt;update Picturefill&lt;/a&gt; to support the new syntax and attributes of &lt;code&gt;picture&lt;/code&gt; soon.&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;Will the &lt;code&gt;type&lt;/code&gt; attribute on &lt;code&gt;source&lt;/code&gt; be supported when &lt;code&gt;picture&lt;/code&gt; is implemented in Chrome and Firefox?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; I don’t see any reason why it wouldn’t be. An important part of a responsive images solution is having the ability to use emerging image formats like WebP, particularly if using these formats will benefit users without excluding those still using legacy browsers. As a community, we need to make sure there is a solid test suite to check for support of the &lt;code&gt;type&lt;/code&gt; attribute—and we need to hold them accountable if the browsers don’t get it right!&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;YW:&lt;/b&gt; What Marcos said!&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;How interoperable will &lt;code&gt;picture&lt;/code&gt; be with &lt;a href="http://lists.w3.org/Archives/Public/public-respimg/2013Sep/0036.html"&gt;MQ variables&lt;/a&gt;?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; In most cases, as long as you can use the final MQ variable syntax anywhere you would use a media query normally, then it &lt;i&gt;should&lt;/i&gt;“just work”.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;YW:&lt;/b&gt; The latest &lt;a href="http://tabatkins.github.io/specs/css-aliases/"&gt;MQ variable proposal&lt;/a&gt;—dubbed “CSS aliases”—is still in its very early stages, but we’ve been thinking about how it might work with &lt;code&gt;picture&lt;/code&gt; already. Interoperability with &lt;code&gt;picture&lt;/code&gt; is going to be important for any MQ variable proposal.&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;Is bandwidth a consideration right now, or is this all mostly about viewport sizes and densities?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; Bandwidth detection &lt;em&gt;itself&lt;/em&gt; isn’t a relevant factor. Consider, when you go to a conference, the Wi-Fi you connect to has high bandwidth, yet you get slow speeds. Bandwidth is variable—particularly on cellular connections. Most of the time,what users care about is costs, particularly on mobile. I think what we want is for users to have the ability to tell the browser, “If I’m on my cellular plan, just give me the 1x images.”&lt;/p&gt;
+
+&lt;p&gt;This is the beauty of the declarative &lt;code&gt;picture&lt;/code&gt; solution: all developers have to do is provide a suitable set of images for the browser to choose from. It’s then on browsers to do the right thing, on behalf of the user.&lt;/p&gt;
+
+&lt;p&gt;You can expect that minimizing the cost of browsing is something we browser vendors will be competing on—a definite win for our users.&lt;p&gt;&lt;b&gt;YW:&lt;/b&gt; Initial implementations likely won’t take network quality into account—but as Marcos said, the solution’s markup provides all the information the browser needs to &lt;em&gt;later&lt;/em&gt; take that into account. All in all, the solution aims to give this control to the browsers, and through them, to the users themselves.&lt;/p&gt;
+
+&lt;p class="question"&gt;&lt;b&gt;Is it safe to use the &lt;code&gt;picture&lt;/code&gt; element in a production site, once these implementations launch?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;MC:&lt;/b&gt; I would wait a little bit—until there’s public confirmation from all the big browser vendors—before using &lt;code&gt;picture&lt;/code&gt; on a production site. I’d hate to see people include this prematurely, and a change to the markup come along later. With that caveat: the really nice thing about the new &lt;code&gt;picture&lt;/code&gt; markup is that developers must include an &lt;code&gt;img&lt;/code&gt; element for it to work. This means that by default—and with no exception—the fallback for &lt;code&gt;picture&lt;/code&gt; will work with legacy browsers. It’s then up to authors to include an optimized image for legacy browsers inside the &lt;code&gt;img&lt;/code&gt; element.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;YW:&lt;/b&gt; In general I agree with Marcos, but I guess it also depends on the polyfills available and their support for the new markup. Once Picturefill and other polyfills support the markup, it might be possible to roll the new markup out to live sites that we control—like our own—as long as we make sure that we can adapt quickly in the unlikely event that the markup changes.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/alistapart/main/~4/1hASEFZxm2U" height="1" width="1"/&gt;</description>
+      <dc:subject />
+      <dc:date>2014-03-17T12:30:54+00:00</dc:date>
+    <feedburner:origLink>http://alistapart.com/blog/post/picture-element-qa</feedburner:origLink></item>
+	
+    
+    </channel>
+</rss>

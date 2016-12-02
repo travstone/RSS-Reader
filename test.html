@@ -1,0 +1,27 @@
+<html>
+<head>
+</head>
+<body>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+	$.ajax({
+  		type:     "GET",
+  		dataType: "jsonp",
+		url: "http://feeds.dailykos.com/dailykos/index.xml",
+		beforeSend: function( xhr ) {
+			//xhr.overrideMimeType( "text/plain; charset=x-user-defined" );
+		},
+		success: function(data){
+			//console.log(data);
+			document.write(data);
+		}
+	})
+	.done(function( data ) {
+		if ( console && console.log ) {
+			console.log( "Sample of data:", data.slice( 0, 100 ) );
+		}
+	});
+
+</script>
+</body>
+</html>

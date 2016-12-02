@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="http://organizeseries.com/"
+	>
+
+<channel>
+	<title>SitePoint</title>
+	<atom:link href="http://www.sitepoint.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.sitepoint.com</link>
+	<description>Learn CSS &#124; HTML5 &#124; JavaScript &#124; Wordpress &#124; Tutorials-Web Development &#124; Reference &#124; Books and More</description>
+	<lastBuildDate>Thu, 24 Apr 2014 20:00:32 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>20 Useful Docs and Guides for Front-End Developers</title>
+		<link>http://www.sitepoint.com/20-docs-guides-front-end-developers/</link>
+		<comments>http://www.sitepoint.com/20-docs-guides-front-end-developers/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 20:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Louis Lazaris]]></dc:creator>
+				<category><![CDATA[APIs]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web standards]]></category>
+		<category><![CDATA[css reference]]></category>
+		<category><![CDATA[documenation]]></category>
+		<category><![CDATA[frontend guide]]></category>
+		<category><![CDATA[html5 apis]]></category>
+		<category><![CDATA[javascript reference]]></category>
+		<category><![CDATA[specification]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=80294</guid>
+		<description><![CDATA[<p><p>I come across so many interesting info-apps and documents in my daily research, so I thought I’d provide a list of those here.</p>
+
+<p>True, not everyone likes the “list post” or roundup, but hey, we can’t please everyone. And we don't do these types of posts too often anyhow.</p>
+
+<p>In this case, this is a great way to bookmark a few things maybe for some evening or weekend reading. I guarantee you’ll find at least a few links in here that you’ll want to come back to.</p>
+
+<p>Enjoy!</p>
+
+<h2 id="css-vocabulary"><a href="http://pumpula.net/p/apps/css-vocabulary/">1. CSS Vocabulary</a></h2>
+
+<p>A great point-and-click little app to get you up to speed with all the different parts of CSS syntax and what the proper name for them is.</p>
+
+<a href="http://pumpula.net/p/apps/css-vocabulary/"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/04/1398334744css-vocab.jpg" alt="CSS Vocabulary" width="800" height="230" class="aligncenter size-full wp-image-80295" /></a>
+
+<h2 id="liquidapsive"><a href="http://liquidapsive.com/">2. Liquidapsive</a></h2>
+
+<p>A very simple informational layout that, by means of a select box, lets you choose between Responsive, Adaptive, Liquid, and Static, so you can see what is the difference between the four layout types.</p>
+
+<a href="http://liquidapsive.com/"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/04/1398334761liquidapsive.jpg" alt="Liquidapsive" width="800" height="331" class="aligncenter size-full wp-image-80306" /></a>
+
+<p>I imagine this would be nice even to show to clients, so they can see how things adjust using the different styles.</p>
+
+<h2 id="superherojs"><a href="http://superherojs.com/">3. Superhero.js</a></h2>
+
+<p>A collection of the best articles, videos, and presentations on helping to maintain a large JavaScript code base.</p>
+
+<a href="http://superherojs.com/"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/04/1398334769superherojs.jpg" alt="Superhero.js" width="800" height="237" class="aligncenter size-full wp-image-80311" /></a>
+
+<p>Included are some general principle-type stuff, sources on testing, tools, performance, security, and more.</p>
+
+<h2 id="howtocoffeescriptcom"><a href="http://howtocoffeescript.com/">4. HowToCoffeeScript.com</a></h2>
+
+<p>A cheat sheet for learning and remembering CoffeScript syntax.</p>
+
+<a href="http://howtocoffeescript.com/"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/04/1398334752hotocoffescript.jpg" alt="HowToCoffeeScript.com" width="800" height="237" class="aligncenter size-full wp-image-80300" /></a>
+
+<h2 id="the-html-landscape"><a href="http://www.w3.org/html/landscape/">5. The HTML Landscape</a></h2>
+
+<p>This is pretty interesting. It’s a W3C document that describes the “perceptible differences” between three HTML specifications: WHATWG, W3C’s HTML5.0, and W3C’s HTML5.1.</p>
+
+<a href="http://www.w3.org/html/landscape/"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/04/1398334755html-landscape.jpg" alt="The HTML Landscape" width="800" height="206" class="aligncenter size-full wp-image-80302" /></a>
+
+<p>Might be a little overly technical, but you might be able to find some interesting new stuff here.</p></p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/20-docs-guides-front-end-developers/">20 Useful Docs and Guides for Front-End Developers</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/20-docs-guides-front-end-developers/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Creating Slick HTML Presentations Using reveal.js</title>
+		<link>http://www.sitepoint.com/creating-slick-html-presentations-using-reveal-js/</link>
+		<comments>http://www.sitepoint.com/creating-slick-html-presentations-using-reveal-js/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 19:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[Jay Raj]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[Tools and Libraries]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[reveal.js]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=79741</guid>
+		<description><![CDATA[<p>Doing presentations wasn't something new. But this time it had to be special, we had competition. Presentations are a way to create an overall impression. And, to create an impression we needed something different and impressive. Unlike the traditional ways of doing presentations, (PowerPoint, etc.), we decided to do it different this time. That was when we bumped into <a href="http://lab.hakim.se/reveal-js/#/">reveal.js</a>.
+
+reveal.js is a framework for creating beautiful presentations using HTML. It has a number of slick features like Markdown content, nested slides, PDF export, and JavaScript APIs for controlling the slide navigation. Presentations using reveal.js are written using HTML. There is also an <a href="https://slid.es">interface for those who aren't very tech savvy</a>.
+
+<h2 id="setting-up-revealjs">Setting Up reveal.js</h2>
+
+Before using reveal.js, you should have both <a href="http://nodejs.org/">Node.js</a> and <a href="http://gruntjs.com/getting-started#installing-the-cli">Grunt</a> installed on your machine. The next steps are to clone the <a href="https://github.com/hakimel/reveal.js.git">reveal.js repository</a> from GitHub, install all of the dependencies, and start the reveal server. The following list of commands are used to accomplish these steps.
+
+[code]
+git clone https://github.com/hakimel/reveal.js.git
+cd reveal.js
+npm install
+grunt serve
+[/code]
+
+Next, navigate your browser to <code>http://localhost:8000/</code> to view the presentation.
+
+<h2 id="creating-a-presentation">Creating a Presentation</h2>
+
+The following code listing is a bare bones reveal.js HTML page containing no presentation slides. Before the end of the <code>body</code> tag, we have a script which is the key to all presentation configurations. There are a number of options that we can configure. For example, we can optionally show presentation progress, enable transitions, and set a theme for our presentation. We'll dig deeper into that once we start adding slides to our presentation. 
+
+[html]
+< !DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  
+  <meta name="description" content="A framework for easily creating beautiful presentations using HTML"/>
+  <meta name="author" content="Hakim El Hattab"/>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <link rel="stylesheet" href="css/reveal.min.css"/>
+  <link rel="stylesheet" href="css/theme/default.css" id="theme"/>
+
+  <!-- For syntax highlighting -->
+  <link rel="stylesheet" href="lib/css/zenburn.css"/>
+
+  <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+  <script>
+    if (window.location.search.match(/print-pdf/gi)) {
+      var link = document.createElement('link');
+
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = 'css/print/pdf.css';
+      document.getElementsByTagName('head')[0].appendChild(link);
+    }
+  </script>
+
+  <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+  < ![endif]-->
+</head>
+<body>
+
+  <!-- Slides  content to be added here -->
+
+  <script src="lib/js/head.min.js"></script>
+  <script src="js/reveal.min.js"></script>
+  <script>
+    // Full list of configuration options available here:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+      controls: true,
+      progress: true,
+      history: true,
+      center: true,
+
+      theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+      transition: Reveal.getQueryHash().transition &#124;&#124; 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+      // Parallax scrolling
+      // parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+      // parallaxBackgroundSize: '2100px 900px',
+
+      // Optional libraries used to extend on reveal.js
+      dependencies: [{
+        src: 'lib/js/classList.js',
+        condition: function () {
+          return !document.body.classList;
+        }
+      }, {
+        src: 'plugin/markdown/marked.js',
+        condition: function () {
+          return !!document.querySelector('[data-markdown]');
+        }
+      }, {
+        src: 'plugin/markdown/markdown.js',
+        condition: function () {
+          return !!document.querySelector('[data-markdown]');
+        }
+      }, {
+        src: 'plugin/highlight/highlight.js',
+        async: true,
+        callback: function () {
+          hljs.initHighlightingOnLoad();
+        }
+      }, {
+        src: 'plugin/zoom-js/zoom.js',
+        async: true,
+        condition: function () {
+          return !!document.body.classList;
+        }
+      }, {
+        src: 'plugin/notes/notes.js',
+        async: true,
+        condition: function () {
+          return !!document.body.classList;
+        }
+      }]
+    });
+  </script>
+</body>
+</html>
+[/html]</p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/creating-slick-html-presentations-using-reveal-js/">Creating Slick HTML Presentations Using reveal.js</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/creating-slick-html-presentations-using-reveal-js/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Politics Often Hold the Community Back</title>
+		<link>http://www.sitepoint.com/interview-gary-hocken-matthew-setter/</link>
+		<comments>http://www.sitepoint.com/interview-gary-hocken-matthew-setter/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 16:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Matthew Setter]]></dc:creator>
+				<category><![CDATA[News & Opinion]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[gary hocken]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[matthew setter]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=79873</guid>
+		<description><![CDATA[<p><p>In this part of the interview series, I’m interviewing this channel’s editor, <a href="http://www.sitepoint.com/author/bskvorc/">Bruno Škvorc</a>, along with the feedback from Gary Hockin from <a href="https://roave.com">Roave</a>. We’ll start with Gary.</p><div class="se-section-delimiter"></div>
+
+<h2 id="gary-hockin">Gary Hockin</h2><div class="se-section-delimiter"></div>
+
+<h3 id="what-lead-you-to-php">What lead you to PHP?</h3>
+
+<p>Simply, classic ASP. I was working as a general dogsbody in a huge steelworks in Port Talbot, and we were paying thousands of pounds for licenses, to display data from an Oracle database on lots of screens. </p>
+
+<p>I started looking into ways of displaying that data on multiple screens for free - each machine had IE6 (at the time) so I explored ASP. </p>
+
+<p>From there I realised that I loved the role of web development and quickly learned PHP in my own time, as I realised then that open source was where the future was.</p><div class="se-section-delimiter"></div>
+
+<h3 id="what-have-been-the-things-about-php-that-bit-you">What have been the things about PHP that bit you?</h3>
+
+<p>In a positive way, originally it’s the fact that you can create these amazing interactive webpages which you can push to a $10 shared host and point your friends to it to play with. </p>
+
+<p>When I was a “kid” that was what kept me coming back to messing around with PHP, and ultimately why I shifted my career around it. More recently it’s the community. The community is simply amazing. </p><div class="se-section-delimiter"></div>
+
+<h3 id="what-have-been-the-highlights-or-redeeming-features">What have been the highlights or redeeming features</h3>
+
+<p>Of my career in PHP? I touched on it early, the community has been truly an epiphany for me. About 5 years ago I was sitting around as a Ghost Developer (<a href="http://www.troyhunt.com/2013/02/the-ghost-who-codes-how-anonymity-is.html">http://www.troyhunt.com/2013/02/the-ghost-who-codes-how-anonymity-is.html</a>), working in semi-object-oriented PHP, when I suddenly realised that someone <strong>HAD</strong> to have created a standard framework for building PHP applications. </p>
+
+<p>A quick Google led me to a list as long as your arm, but because we were already using Zend Guard on distributed servers I decided to use Zend Framework (1). From there I found the <a href="http://www.zftalk.com/">#zftalk  IRC channel</a>, and from there I got totally immersed in the ZF community. </p></p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/interview-gary-hocken-matthew-setter/">Politics Often Hold the Community Back</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/interview-gary-hocken-matthew-setter/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	
+		<series:name><![CDATA[Can Great Apps Be Written In PHP?]]></series:name>
+	</item>
+		<item>
+		<title>Clearing Floats: An Overview of Different clearfix Methods</title>
+		<link>http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/</link>
+		<comments>http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 15:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Nick Salloum]]></dc:creator>
+				<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[clear floats]]></category>
+		<category><![CDATA[clearing floats]]></category>
+		<category><![CDATA[collapsed container]]></category>
+		<category><![CDATA[css clearfix]]></category>
+		<category><![CDATA[micro clearfix]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=80252</guid>
+		<description><![CDATA[<p><p>Clearing floats has long been a common necessity in front-end development. It’s no surprise then that over the years, we’ve been exposed to multiple methods for clearing floats, nowadays more commonly known as “clearfix methods”. Before we dig into the various methods, let’s take a look at the problem that clearfix methods attempt to solve.</p>
+
+<p><strong>The scenario:</strong> <code>.el-1</code> and <code>.el-2</code> are floated side by side inside a <code>.container</code> element, and there’s a <code>.main</code> element after <code>.container</code>.</p>
+
+<p><strong>The desired outcome:</strong> We want <code>.container</code> to expand to the height of its child elements (i.e. the taller of either <code>.el-1</code> or <code>.el-2</code>), and we want <code>.main</code> to be after <code>.container</code>.</p>
+
+<p><strong>The actual outcome:</strong> <code>.container</code> collapses and takes on no height at all, as if there is nothing inside it, putting <code>.main</code> in an undesired location and potentially causing any backgrounds or borders on <code>.container</code> to be missing.</p>
+
+<p>Based on the above scenario, our markup may look something like this:</p>
+
+[code language="css"]
+<div class="container">
+  <div class="el-1">A long string of stuff here...</div>
+  <div class="el-2">A short string of stuff here...</div>
+</div>
+<div class="main">
+  Some stuff here...
+</div>
+[/code]
+
+<p>Then our CSS may look something like this:</p>
+
+[code language="css"]
+.el-1, .el-2 {
+  float: left;
+  width: 50%;
+}
+
+.el-1 {
+  /* styles for .el-1 here */
+}
+
+.el-2 {
+  /* styles for .el-2 here */
+}
+
+.main {
+  /* styles for .main here */
+}
+[/code]
+
+<p>Finally, the result is as shown in this demo:</p></p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/">Clearing Floats: An Overview of Different clearfix Methods</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Creating Rich Video Experiences with Popcorn.js</title>
+		<link>http://www.sitepoint.com/creating-rich-video-experiences-popcorn-js/</link>
+		<comments>http://www.sitepoint.com/creating-rich-video-experiences-popcorn-js/#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 19:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[Brad Barrow]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Tools and Libraries]]></category>
+		<category><![CDATA[Popcorn.js]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=79753</guid>
+		<description><![CDATA[<p>Considering just how easy it is to embed videos in websites it's a marvel that developers often stop at just that: plain old embedded videos. What if you could create an entire experience for your user that's directed by the video itself? With Popcorn.js you can do just that - and this article will teach you how.
+
+<h2 id="popcornjs-fundamentals">Popcorn.js Fundamentals</h2>
+
+Let's start small. We'll get Popcorn.js installed, and then get a "Hello World" example up and running in no time.
+
+<h3 id="1-create-a-simple-html-page">1. Create a Simple HTML Page</h3>
+
+We'll start off by creating an <code>index.html</code> file with the following content. The <code>.video</code> <code>div</code> is, unsurprisingly, where our video will eventually appear.
+
+[html]
+< !doctype html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="video"></div>
+  </body>
+</html>
+[/html]
+
+<h3 id="2-include-our-custom-styles">2. Include Our Custom Styles</h3>
+
+Next, let's include some basic styles for our project. The updated <code>head</code> section of the previous HTML page is shown below.
+
+[html]
+<head>
+  
+  <style>
+    .video, #map
+    {
+      width:300px;
+      height:200px;
+      float:left;
+    }
+  </style>
+</head>
+[/html]
+
+<h3 id="3-include-popcornjs">3. Include Popcorn.js</h3>
+
+Next, we need to include the Popcorn.js library itself. There are a number of options to choose from on the <a href="http://popcornjs.org/download">Popcorn.js download page</a>. We're going to use the 'complete' version, which includes all of the official Popcorn.js plugins. We'll use the minified version in this tutorial, but you can use the development version if you'd like to have a poke around the source. Note the additional imports in the following code sample.
+
+[html]
+<head>
+  
+  <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet"/>
+  <style>
+    ...
+  </style>
+  <script type="text/javascript" src="http://cdn.popcornjs.org/code/dist/popcorn-complete.min.js"></script>
+</head>
+[/html]
+
+<h3 id="4-create-and-include-appjs">4. Create and Include <code>app.js</code></h3>
+
+Next, let's create the main JavaScript file for our app. This is where we'll initialize our Popcorn.js instance. Create <code>app.js</code> and include it in your <code>index.html</code> file. The contents of <code>app.js</code> are shown below.
+
+[js]
+// Wait for the DOM to load
+window.onload = function() {
+  // Create popcorn instance from the YouTube video and insert it into the .video div
+  var pop = Popcorn.youtube(".video", "http//www.youtube.com/watch?v=x88Z5txBc7w");
+
+  // Play the video automatically
+  pop.play();
+};
+[/js]
+
+And, the updated <code>index.html</code> <code>head</code> section as shown here.
+
+[html]
+<head>
+  
+  <style>
+    ...
+  </style>
+  <script type="text/javascript" src="http://cdn.popcornjs.org/code/dist/popcorn-complete.min.js"></script>
+  <script type="text/javascript" src="app.js"></script>
+</head>
+[/html]
+
+In <code>app.js</code> we've used the <code>Popcorn</code> object's <code>youtube()</code> method to create a video instance from a YouTube URL. The first parameter is a selector for our <code>.video</code> <code>div</code>. This is where Popcorn.js will insert our video. The second parameter is the YouTube URL. At the end of the file, we call <code>pop.play()</code> which does exactly what it says - it plays our video.</p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/creating-rich-video-experiences-popcorn-js/">Creating Rich Video Experiences with Popcorn.js</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/creating-rich-video-experiences-popcorn-js/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Quick Browser Screenshot Testing at Modern.IE</title>
+		<link>http://www.sitepoint.com/quick-browser-screenshot-testing-modern-ie/</link>
+		<comments>http://www.sitepoint.com/quick-browser-screenshot-testing-modern-ie/#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 18:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[Craig Buckler]]></dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Statistics and Analysis]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[browser]]></category>
+		<category><![CDATA[screenshot]]></category>
+		<category><![CDATA[Testing]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=79922</guid>
+		<description><![CDATA[<p><em>This article was sponsored by <a href="http://www.modern.ie/">modern.IE</a>. Thank you for supporting the sponsors who make SitePoint possible!</em>
+
+Web developers understand the importance of rigorous testing on multiple mobile, tablet, and desktop browsers. We do. Honestly. It's simply that it takes too long! There are only so many hours in a day and testing often falls far down our list of priorities. We'll do it once we've implemented one more essential feature, read the latest SitePoint HTML5 article, grabbed a coffee and -- <em>oh</em> -- it's 5pm.
+
+Testing across multiple devices may be tedious but, the longer you leave it, the more difficult it becomes to fix the inevitable problems. You may have a great device lab or use <a href="/virtual-machine-browser-testing-modern-ie/">Virtual Machines from modern.IE</a> but the psychological jump from developer into tester mode is daunting.
+
+<h2>Easy Multi-Device Testing</h2>
+Fortunately, <a href="http://www.modern.ie/">modern.IE</a> has another solution for quick and dirty testing. The free <a href="http://modern.ie/screenshots">screenshot automation tool</a> powered by <a href="http://www.browserstack.com/">BrowserStack</a> loads your site on a range of mobile and desktop devices and presents captured screens within a matter of minutes. The process is simple and painless&#8230;
+
+Open <a href="http://modern.ie/screenshots">modern.ie/screenshots</a> in your browser:
+
+<a href="http://blogs.sitepointstatic.com/images/tech/944-modern.ie-screenshot-start.jpg"><img src="http://blogs.sitepointstatic.com/images/tech/944-modern.ie-screenshot-start.jpg" alt="test website" class="center" /></a>
+
+Enter the address of a page you want to test and hit enter:
+
+<a href="http://blogs.sitepointstatic.com/images/tech/944-modern.ie-screenshot-end.jpg"><img src="http://blogs.sitepointstatic.com/images/tech/944-modern.ie-screenshot-end.jpg" alt="test website" class="center" /></a>
+
+The results are generated and presented -- click any thumbnail to view the full-size image. Option buttons allow you to:
+
+<ul>
+<li>download a PDF containing all screenshots;</li>
+<li>share the results via email, Facebook or Twitter; and</li>
+<li>generate a poster of your site!</li>
+</ul>
+
+There are also links to further tools and help resources should you need them.</p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/quick-browser-screenshot-testing-modern-ie/">Quick Browser Screenshot Testing at Modern.IE</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/quick-browser-screenshot-testing-modern-ie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>PHP News You May Have Missed</title>
+		<link>http://www.sitepoint.com/news-may-missed/</link>
+		<comments>http://www.sitepoint.com/news-may-missed/#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 16:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[Bruno Skvorc]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[News & Opinion]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[crm]]></category>
+		<category><![CDATA[GAE]]></category>
+		<category><![CDATA[impresspages]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[orocrm]]></category>
+		<category><![CDATA[phalcon]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[WordPress]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=80232</guid>
+		<description><![CDATA[<p><p>The last month or two have been chock full of small news and releases not warranting a full story in their own right but still interesting, I’ve decided to make a small compilation and direct your attention to the interesting developments around us. Just because we don’t cover something immediately, doesn’t mean we don’t notice or care :) </p>
+
+<h3 id="ubuntu-1404-lts">Ubuntu 14.04. LTS</h3>
+
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/04/139820752801.png" alt="enter image description here" title=""/></p>
+
+<p>Not so much PHP related, but still fairly important for our channel and future development purposes, the release of Ubuntu Server 14.04 LTS kind of flew by most people. This release will be supported by Canonical until 2019, which is a big deal as we can now all switch to this newest version as soon as it’s vetted by hardcore users. Stay tuned for upcoming Vagrant boxes predefined for 14.04. soon - we’ll be custom building and publishing some soon.</p>
+
+<p>You can download the server version <a href="http://www.ubuntu.com/download/server">here</a> and there’s a default Vagrant box available <a href="https://cloud-images.ubuntu.com/vagrant/trusty/">here</a>.</p>
+
+<h3 id="gae-191-193">GAE 1.9.1 - 1.9.3</h3>
+
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/04/1398207574google-app-engine.png" alt="enter image description here" title=""/></p>
+
+<p>Google App Engine has reached minor version 1.9.3., adding some more features and upgrades since the last time <a href="http://www.sitepoint.com/googleappengine-1-9-0-php-updates/">we talked about it</a>:</p>
+
+<ul>
+<li>bug fixes regarding Zend Framework, null characters in URLFetch, failed file uploads to Cloud Storage, long POST data, unlimited upload sizes and the <code>fnmatch()</code> function </li>
+<li>ability to embed images in emails via the Content-Id header was added</li>
+<li>the zip module is included by default now</li>
+</ul>
+
+<p>The SDK has been updated and you can take it for a spin immediately. To see how you can do that, <a href="http://www.sitepoint.com/google-app-engine-php-getting-started/">check out my previous article on GAE</a>.</p></p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/news-may-missed/">PHP News You May Have Missed</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/news-may-missed/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>Reading Ruby for Professional Development</title>
+		<link>http://www.sitepoint.com/reading-ruby-professional-development/</link>
+		<comments>http://www.sitepoint.com/reading-ruby-professional-development/#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 14:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Karl Stolley]]></dc:creator>
+				<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Ruby]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=80012</guid>
+		<description><![CDATA[<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/04/1397907866Fotolia_62091995_Subscription_XXL-300x300.jpg" alt="Female Software Engineer" width="300" height="300" class="alignleft size-medium wp-image-80013" /><p>Peter Seibel recently blogged to challenge the idea of <a href="http://www.gigamonkeys.com/code-reading/">reading code for reading’s sake</a>. “Code is not literature and we are not readers,” he concluded. “Rather, interesting pieces of code are specimens and we are naturalists.”</p>
+
+<p>That’s partially true. Interesting pieces of code are specimens. Yanked from their context in programs or frameworks, lines of code become like dead bugs on pins in boxes.</p>
+
+<p>It might be nice to sit around with a snifter of brandy and discuss a dozen lines of code as though they were some exotic insect or even poetry, but few developers can afford that luxury. Developers have jobs to do and problems to solve that are embedded in thousands of lines of supporting code. Often, these lines are built by numerous developers attempting to address a set of problems that evolve unpredictably over time.</p>
+
+<p>But that’s not to say that developers don’t read source code. Reading is actually the first thing that goes into solving most problems. Sometimes it might be necessary to, first, pick apart a stack trace or grep through any log files that might be on hand. But then it’s on to reading the suspect portions of the source code, and the detective work begins.</p></p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/reading-ruby-professional-development/">Reading Ruby for Professional Development</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/reading-ruby-professional-development/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Proven: Great Copywriters Wield Great Power</title>
+		<link>http://www.sitepoint.com/proven-copywriters-power/</link>
+		<comments>http://www.sitepoint.com/proven-copywriters-power/#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 09:32:27 +0000</pubDate>
+		<dc:creator><![CDATA[Julia Fayre]]></dc:creator>
+				<category><![CDATA[Content management]]></category>
+		<category><![CDATA[Content Marketing]]></category>
+		<category><![CDATA[Content strategy]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Web Design]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=79965</guid>
+		<description><![CDATA[<p><p>You can convince anyone. 
+
+</p><p>Scroll down to the second point in this article to find what you need the most to become a powerful copywriter.
+
+</p><p>In this article, I will show you how persuasive copywriting can be one of the most powerful tools to draw your customers into your website, and convince them to make a choice -- preferably, a decision to do business with you.
+
+</p><p>Once they have landed on your website, the design and copy take over. It is now the magic of words and visuals that will keep them exploring. Conversion-centered design (as opposed to user-centered design) aims to reduce the number of leaks from your site and help the customer complete a task. 
+
+</p><p>We'll talk about visuals in another post, but for now, let's look at the power of a talented copywriter.
+
+<h3>1. They Can Control Your Mind</h3>
+
+</p><p>Research has shown that the top five words that grab attention are:
+
+</p><p><strong>You or your name</strong> - People are becoming wary of these words because annoying spam e-mails have overused these. 
+
+</p><p>Nevertheless, if used carefully, your name is still very persuasive. It is human nature to respond to your name. Sometimes it makes you suspicious how they got to know you; sometimes it makes you curious; sometimes it gives you the feeling that it is personal - only for you.</p></p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/proven-copywriters-power/">Proven: Great Copywriters Wield Great Power</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/proven-copywriters-power/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>An Introduction to the Web Notifications API</title>
+		<link>http://www.sitepoint.com/introduction-web-notifications-api/</link>
+		<comments>http://www.sitepoint.com/introduction-web-notifications-api/#comments</comments>
+		<pubDate>Tue, 22 Apr 2014 19:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[Aurelio De Rosa]]></dc:creator>
+				<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Raw Javascript]]></category>
+		<category><![CDATA[notifications]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=80068</guid>
+		<description><![CDATA[<p>The time of the 56kb connections has faded out of memory for a lot of people (mobile users not withstanding). It was a time when browsers that could open a single page where enough, and no one could even predict a future with multi-tabbed browsing. Today, we're overwhelmed by social networks, posts, replies, comments, photos, videos, and much more. Several systems have been created to overcome the need to look at every single tab to check for new activities. One of these methods are notifications, which are very widespread on different websites.
+
+Until not too long ago, every developer had to implement notifications on their own, resulting in a whole set of different solutions. The W3C has defined an API to solve this problem in a standard way called the <a href="http://www.w3.org/TR/notifications/" target="_blank">Web Notifications API</a>.
+
+On mobile devices we're very familiar with the concept of notifications. Try to be offline for a couple of hours and, as soon as you connect to the Internet, you'll be overwhelmed by notifications from the different apps installed on your device. It'd be great to have the same mechanism, like the Web Notifications API, for our web pages that work seamlessly on desktop and mobile devices.
+
+<img src="http://image.slidesharecdn.com/death-to-bullshit-reasonsto-130903095149-/95/slide-51-638.jpg?cb=1378271621" />
+<small>Image shamelessly stolen from the presentation of Brad Frost, <a href="http://www.slideshare.net/bradfrostweb/death-to-bullshit-now-with-80-more-bullshit" target="_blank">Death to Bullshit</a></small>
+
+<h2>What is the Web Notifications API</h2>
+
+The Web Notifications API is defined as <q cite="http://www.w3.org/TR/notifications/">an API for end-user notifications. A notification allows alerting the user outside the context of a web page of an occurrence, such as the delivery of email.</q> The specifications don't describe how and where a UA should display these notifications. Therefore, we'll see different styles on different browsers and, based on the device we're using, we'll see the notifications in different places (for example on mobile we may see them in the notifications bar). It's worth noting that before you can show a notification, the browser shows an alert to the the user, who must explicitly give his/her consensus.
+
+<img src="notification.jpg" alt="An example of a notification using the Web Notifications API on Firefox" />
+<small>An example of a notification using the Web Notifications API on Firefox</small>
+
+This API has been around for a while, to the point that the specifications have changed several times. The specification has known two major versions. The first version was implemented in older versions of Chrome and Firefox. Now, the specification seem stable, although as of April, 19th 2014 it's still a W3C Working Draft.
+
+Thinking of some use cases for such an API isn't very hard. For example, you may want to receive a notification as soon as you receive an email. You may also want to be notified if someone mentions you in a Tweet, or posts a photo of you on Facebook or Google+.
+
+Now that we know what this API is, and what it's good for, let's delve into the description of its methods, properties, and events.
+
+<h2>Methods, Properties, and Events</h2>
+
+The Web Notifications API is exposed through the <code>Notification</code> property of the <code>window</code> object. This is a constructor that allows us to create a notification instance. It accepts two parameters - a string containing the title of the notification, and an optional object of settings. Before we see how we can create an instance, let's look at the settings we can specify:
+
+<ul>
+ <li><code>body</code>: A string used to further specify the purpose of the notification.</li>
+ <li><code>lang</code>: Specifies the language of the notification. Its value must be compliant with the <a href="http://tools.ietf.org/html/bcp47" target="_blank">BCP 47 standard</a>. Examples of valid strings are <code>en-US</code> and <code>it-IT</code>.</li>
+ <li><code>dir</code>: Defines the direction of the message's text. Its value can be <code>auto</code> meaning that the direction is based on the browser's settings, <code>ltr</code> to specify a left-to-right direction (for European languages), or <code>rtl</code> to specify a right-to-left direction (for some Asian languages).</li>
+ <li><code>tag</code>: A string that is used as an ID that can be employed to retrieve, replace, or remove the notification.</li>
+ <li><code>icon</code>: Specifies the URL of an image that will be used as the notification's icon.</li>
+</ul>
+
+To create an instance of a <code>Notification</code> object, we should write a statement like the following:
+
+[js]
+var notification = new Notification('Email received', {
+  body: 'You have a total of 3 unread emails'
+});
+[/js]
+
+Pretty easy, isn't it? 
+
+It turns out that the settings we've just learned are also available as read-only properties of a notification instance. In addition, the <code>Notification</code> object exposes a property called <code>permission</code>. <code>permission</code> contains a string representing the current permission to display notifications. Its value can be one of the followings: <code>denied</code>, which means that the user has denied notifications, <code>granted</code>, which means the user has given permission, or <code>default</code>, which means the user choice is unknown.
+
+This API exposes two methods: <code>requestPermission()</code> and <code>close()</code>. As the names suggest, the former is used to request the permission to show notifications to the user, while the latter programmatically closes a notification. <code>requestPermission()</code> is a method of the <code>Notification</code> object and accepts an optional callback that is executed when the user accepts or denies permission. The choice is passed to the callback as a parameter, and the value can be <code>granted</code>, <code>denied</code>, or <code>default</code>.
+<code>close()</code> is an instance method and doesn't accept any parameters.
+
+Sometimes we may need to perform an action as soon as the status of the notification changes. For example, we may want to know if the user has clicked the notification, or when it is closed. To do that, we can attach a handler to one of the four events exposed:
+
+<ul>
+ <li><code>onclick</code>: Fired when the user clicks on the notification.</li>
+ <li><code>onclose</code>: Fired as soon as the user or the brower closes the notification.</li>
+ <li><code>onerror</code>: Fired if an error occurs with the notification.</li>
+ <li><code>onshow</code>: Fired when the notification is shown.</li>
+</ul>
+
+A basic example of using these events is shown below.
+
+[js]
+var notification = new Notification('Email received', {
+  body: 'You have a total of 3 unread emails'
+});
+
+notification.onshow = function() {
+  console.log('Notification shown');
+};
+[/js]</p><p><em>Continue reading %<a rel="nofollow" href="http://www.sitepoint.com/introduction-web-notifications-api/">An Introduction to the Web Notifications API</a>%</em></p>]]></description>
+		<wfw:commentRss>http://www.sitepoint.com/introduction-web-notifications-api/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using memcached
+Object Caching 866/880 objects using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: dab1nmslvvntp.cloudfront.net
+
+ Served from: www.sitepoint.com @ 2014-04-24 21:10:10 by W3 Total Cache -->

@@ -1,0 +1,11 @@
+id=rss-slashdot-org-Slashdot-slashdot,title=Slashdot,url=http://rss.slashdot.org/Slashdot/slashdot,localFile=feeds/rss-slashdot-org-Slashdot-slashdot.xml
+id=feeds-dailykos-com-dailykos-index,title=Daily Kos,url=http://feeds.dailykos.com/dailykos/index.xml,localFile=feeds/feeds-dailykos-com-dailykos-index.xml
+id=feeds-feedburner-com-TechCrunch,title=TechCrunch,url=http://feeds.feedburner.com/TechCrunch,localFile=feeds/feeds-feedburner-com-TechCrunch.xml
+id=feeds-feedburner-com-motherjones-BlogsAndArticles,title=MoJo Blogs and Articles | Mother Jones,url=http://feeds.feedburner.com/motherjones/BlogsAndArticles,localFile=feeds/feeds-feedburner-com-motherjones-BlogsAndArticles.xml
+id=feeds-arstechnica-com-arstechnica-index,title=Ars Technica,url=http://feeds.arstechnica.com/arstechnica/index,localFile=feeds/feeds-arstechnica-com-arstechnica-index.xml
+id=news-ycombinator-com-rss,title=Hacker News,url=https://news.ycombinator.com/rss,localFile=feeds/news-ycombinator-com-rss.xml
+id=feeds-theguardian-com-theguardian-world-rss,title=World news and comment from the Guardian | The Guardian,url=http://feeds.theguardian.com/theguardian/world/rss,localFile=feeds/feeds-theguardian-com-theguardian-world-rss.xml
+id=feeds-bbci-co-uk-news-rss,title=BBC News - Home,url=http://feeds.bbci.co.uk/news/rss.xml,localFile=feeds/feeds-bbci-co-uk-news-rss.xml
+id=feeds-feedburner-com-alistapart-main,title=A List Apart: The Full Feed,url=http://feeds.feedburner.com/alistapart/main,localFile=feeds/feeds-feedburner-com-alistapart-main.xml
+id=articles-sitepoint-com-feed,title=SitePoint,url=http://articles.sitepoint.com/feed,localFile=feeds/articles-sitepoint-com-feed.xml
+id=xkcd-com-rss,title=xkcd.com,url=http://xkcd.com/rss.xml,localFile=feeds/xkcd-com-rss.xml

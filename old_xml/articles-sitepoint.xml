@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="http://organizeseries.com/"
+	>
+
+<channel>
+	<title>SitePoint</title>
+	<atom:link href="http://www.sitepoint.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.sitepoint.com</link>
+	<description>Learn CSS &#124; HTML5 &#124; JavaScript &#124; Wordpress &#124; Tutorials-Web Development &#124; Reference &#124; Books and More</description>
+	<lastBuildDate>Wed, 20 Nov 2013 23:06:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.6.1</generator>
+		<item>
+		<title>Talk Ruby with the Experts:The Transcript</title>
+		<link>http://www.sitepoint.com/talk-ruby-expertsthe-transcript/</link>
+		<comments>http://www.sitepoint.com/talk-ruby-expertsthe-transcript/#comments</comments>
+		<pubDate>Wed, 20 Nov 2013 23:06:55 +0000</pubDate>
+		<dc:creator>Sarah Hawk</dc:creator>
+				<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[talk with the experts]]></category>
+		<category><![CDATA[TWTE]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=73347</guid>
+		<description><![CDATA[<p>Today was one of the more exciting Talk with the Experts sessions that I&#8217;ve moderated in a while, but it had nothing to do with either the subject (which was Ruby) or the experts (who were our very own Mal Curtis and Alex Smith). It was because we used the live code window. If you [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/talk-ruby-expertsthe-transcript/">Talk Ruby with the Experts:</br>The Transcript</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Today was one of the more exciting <a href="https://learnable.com/twte" title="Talk with the Experts" target="_blank">Talk with the Experts</a> sessions that I&#8217;ve moderated in a while, but it had nothing to do with either the subject (which was Ruby) or the experts (who were our very own Mal Curtis and Alex Smith). It was because we used the live code window. If you haven&#8217;t yet had a chance to get along to a session to see it in action, here a screenshot.</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/TWTEinterface.png" alt="Talk with the Experts interface" width="800" height="413" class="aligncenter size-full wp-image-73348" /></p>
+<p>The hour flew by, as they always seem to, and some great questions came up. If you missed out on the session today because you didn&#8217;t know it was on, make sure you sign up for email reminders of future sessions <a href="https://learnable.com/twte" title="Talk with the Experts" target="_blank">here</a>. Next week is not to be missed – we&#8217;re talking <strong>Foundation</strong> (by Zurb) – the responsive framework that we used to build the new SitePoint and Learnable sites. That chat will kick off at 12:30pm PST on Wed 27 Nov or you can find out what time it will be at your place <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Talk+Foundation+with+the+Experts&#038;iso=20131128T0730&#038;p1=152&#038;ah=1" title="Time zone converter" target="_blank">here</a>.</p>
+<p>And now, for those of you that are interested in what we talked about this morning, you can read the full transcript here. Enjoy!</p>
+<p> <strong><span class="irc-date">[21:01]</span> <span class="irc-black">&lt;MalCurtis&gt; Ruby is a dynamic programming language with a very readable and expressive syntax</span></strong><br /><strong> <span class="irc-date">[21:02]</span> <span class="irc-black">&lt;MalCurtis&gt; Ruby was made popular by the framework Rails (Ruby on Rails)</span></strong><br /><strong> <span class="irc-date">[21:02]</span> <span class="irc-black">&lt;MalCurtis&gt; Oh, and part of its charm is having a great community of open source projects </span></strong><br /><strong> <span class="irc-date">[21:03]</span> <span class="irc-black">&lt;MalCurtis&gt; pretty much anything you want is available as a gem (Ruby&#8217;s way of packaging code)</span></strong><br /><strong> <span class="irc-date">[21:03]</span> <span class="irc-black">&lt;MalCurtis&gt; So&hellip; does anybody have any questions?</span></strong><br /> <span class="irc-date">[21:03]</span> <span class="irc-black">&lt;ParkinT&gt; And the Ruby &#8216;Make&#8217; utility, Rake, contains many useful tasks</span><br /> <span class="irc-date">[21:03]</span> <span class="irc-black">&lt;HAWK&gt; Go for it Banago&#8230;</span><br /> <span class="irc-date">[21:04]</span> <span class="irc-black">&lt;jack&gt; hello, how framework work? and what is the relation between framework and programming language?</span><br /> <span class="irc-date">[21:04]</span> <span class="irc-black">&lt;hi&gt; is it better to use gems or to download a repo?</span><br /> <span class="irc-date">[21:05]</span> <span class="irc-black">&lt;Banago&gt; I&#8217;m a PHP developer basically. I nowadays use a PHP framework called Laravel which is very similar to Rails in style. Also PHP has now packages which is the same things as Gems for Ruby. My question would by what would be a good reason for me to learn Ruby (+ Rails) with the tools I&#8217;ve got at my disposal now on the PHP world?</span><br /> <strong><span class="irc-date">[21:05]</span> <span class="irc-black">&lt;MalCurtis&gt; Rails, the framework, is written in Ruby, so it runs ruby code</span></strong><br /> <span class="irc-date">[21:05]</span> <span class="irc-black">&lt;TRParkin&gt; @hi, better to use gems. Downloading repo is not used how you would think</span><br /> <strong><span class="irc-date">[21:05]</span> <span class="irc-black">&lt;MalCurtis&gt; You write your own ruby code, but use the classes and structure that Rails has provided for you</span></strong><br /> <span class="irc-date">[21:05]</span> <span class="irc-black">&lt;ParkinT&gt; Rails is also very &#8216;opinionated&#8217;</span><br /> <strong><span class="irc-date">[21:05]</span> <span class="irc-black">&lt;MalCurtis&gt; hi, often a repo IS a gem</span></strong><br /> <span class="irc-date">[21:05]</span> <span class="irc-black">&lt;ParkinT&gt; Meaning, it has ideas about how things should work and those &#8220;Defaults&#8221; are strongly recommended</span><br /> <strong><span class="irc-date">[21:06]</span> <span class="irc-black">&lt;MalCurtis&gt; For example, using the tool bundler, you can install a gem from a git repo by passing it as an option</span></strong><br /> <span class="irc-date">[21:06]</span> <span class="irc-black">&lt;TRParkin&gt; Banago, I did PHP for years before learning Ruby/Rails. PHP seems nice to use and easy&#8230;until you realize how pleasant writing ruby code is</span><br /> <span class="irc-date">[21:06]</span> <span class="irc-black">&lt;TRParkin&gt; Ruby is a fun and intuitive language, much more enjoyable than PHP imo</span><br /> <span class="irc-date">[21:07]</span> <span class="irc-black">&lt;Banago&gt; PHP is now very enjoyable with Laravel &#8211; I mean it.</span><br /> <strong><span class="irc-date">[21:07]</span> <span class="irc-black">&lt;MalCurtis&gt; What ruby provides is an incredibly large community of open source projects</span></strong><br /><strong> <span class="irc-date">[21:07]</span> <span class="irc-black">&lt;hi&gt; tool builder?</span></strong><br /> <span class="irc-date">[21:07]</span> <span class="irc-black">&lt;ParkinT&gt; I *do* believe Ruby is easier IF you are a native speaker of the English language. Because it &#8216;expresses&#8217; itself much like English sentences.</span><br /> <strong><span class="irc-date">[21:07]</span> <span class="irc-black">&lt;MalCurtis&gt; It&#8217;s also slightly more capable that PHP in that it has a full REPL console, so you can start a console and run code</span></strong><br /> <strong><span class="irc-date">[21:08]</span> <span class="irc-black">&lt;MalCurtis&gt; PHP has come a long way with these new frameworks, but it can still be a nightmare to manage dependencies etc</span></strong><br /> <em><strong><span class="irc-date">[21:08]</span> <span class="irc-black">&lt;ags&gt; @Banago speed of development and the culture of rigorous testing in a much more expressive language than PHP would be a good reason to look into Ruby / Rails</span></strong></em><br /> <span class="irc-date">[21:08]</span> <span class="irc-black">&lt;TRParkin&gt; @Banago, sounds like you are happy where you&#8217;re at, which is good to hear. But a quick look at Laravel looks like you are well positioned to pick up Rails quickly but Ruby is much different than PHP</span><br /> <span class="irc-date">[21:09]</span> <span class="irc-black">&lt;TRParkin&gt; everything in ruby is an object, for example. Even numbers (integers). Where as PHP is a more traditional language. This difference gives you some incredible power in Ruby.</span><br /> <span class="irc-date">[21:09]</span> <span class="irc-black">&lt;ParkinT&gt; In comparison between languages &#8211; in order to be fair &#8211; realize the relative AGE of each. PHP is far older than Ruby.</span><br /> <span class="irc-date">[21:09]</span> <span class="irc-black">&lt;TRParkin&gt; @Banago, so you may not gain much from Rails vs Laravel (I still think you&#8217;d prefer Rails) but Ruby vs PHP would be your major difference and where you&#8217;d see a big difference</span><br /> <strong><span class="irc-date">[21:09]</span> <span class="irc-black">&lt;MalCurtis&gt; yea, &#8216;everything is an object&#8217; is great from day one</span></strong><br /> <span class="irc-date">[21:10]</span> <span class="irc-black">&lt;Banago&gt; MalCurtis PHP has now Composer for dependencies which is really cool. TRParkin yep, I think I can pick up the framework really easy. I don&#8217;t know much about the language per se :)</span><br /> <strong><span class="irc-date">[21:10]</span> <span class="irc-black">&lt;MalCurtis&gt; Dealing with strings for example</span></strong><br /> <span class="irc-date">[21:10]</span> <span class="irc-black">&lt;TRParkin&gt; Very true ParkinT</span><br /> <span class="irc-date">[21:10]</span> <span class="irc-black">&lt;Banago&gt; I like the &#8220;Everything is an Object&#8221; thing</span><br /> <strong><span class="irc-date">[21:10]</span> <span class="irc-black">&lt;MalCurtis&gt; substr(&#8220;some string&#8221;, 1, 2) vs &#8220;some string&#8221;.substr(1,2)</span></strong><br /><strong> <span class="irc-date">[21:10]</span> <span class="irc-black">&lt;MalCurtis&gt; ^ that may not be the actual method names!</span></strong><br /> <em><strong><span class="irc-date">[21:10]</span> <span class="irc-black">&lt;ags&gt; Yeah, the features of the language allow you to build much nicer abstractions that aren&#8217;t really possible with PHP</span></strong></em><br /><em><strong> <span class="irc-date">[21:11]</span> <span class="irc-black">&lt;ags&gt; for example, blocks enabling tools like RSpec to have the english-like DSL they do</span></strong></em><br /> <span class="irc-date">[21:11]</span> <span class="irc-black">&lt;ParkinT&gt; Speaking of strings. I like the fact that you can reference an index &#8220;from the end&#8221; using minus.</span><br /> <span class="irc-date">[21:11]</span> <span class="irc-black">&lt;Banago&gt; @ags, can you elaborate on that?</span><br /> <span class="irc-date">[21:11]</span> <span class="irc-black">&lt;Randyman5775&gt; I&#8217;ll display my total ignorance of Ruby &#8212; Does it require a file loaded to the server like PHP?</span><br /> <strong><span class="irc-date">[21:11]</span> <span class="irc-black">&lt;MalCurtis&gt; Banago, yep &#8211; composer is great. One of the problems I have with PHP is that there&#8217;s no real style convention, so libraries are often very different and not intuitive to pick up</span></strong><br /> <span class="irc-date">[21:11]</span> <span class="irc-black">&lt;ParkinT&gt; For example &#8220;Ruby Language&#8221;[5] returns &#8220;L&#8221; and Ruby Language&#8221;[-5] returns &#8220;g&#8221;</span><br /> <strong><span class="irc-date">[21:12]</span> <span class="irc-black">&lt;MalCurtis&gt; Randyman5775 Yep, you still need to write your code into files, just like normal. Ruby files have a .rb extension</span></strong><br /> <span class="irc-date">[21:12]</span> <span class="irc-black">&lt;TRParkin&gt; Randyman5775, yes you did need to have Ruby and Rails installed and be running a web server. You can also run it locally.</span><br /> <strong><span class="irc-date">[21:12]</span> <span class="irc-black">&lt;MalCurtis&gt; What Rails does (rather than Ruby) is provide a folder structure and convention for how those files are organized</span></strong><br /> <span class="irc-date">[21:12]</span> <span class="irc-black">&lt;Banago&gt; Oh, MalCurtis we have php-fig.org for style standar now :)</span><br /> <strong><span class="irc-date">[21:12]</span> <span class="irc-black">&lt;MalCurtis&gt; and what classes you should put in them</span></strong><br /> <strong><span class="irc-date">[21:13]</span> <span class="irc-black">&lt;MalCurtis&gt; Banago, creating a style standard is one thing. Having a community of packages that actually follow it is a very very different thing.</span></strong><br /><strong> <span class="irc-date">[21:13]</span> <span class="irc-black">&lt;MalCurtis&gt; Saved editor: <a href="https://gist.github.com/7571147">https://gist.github.com/7571147</a></span></strong><br /> <span class="irc-date">[21:13]</span> <span class="irc-black">&lt;Banago&gt; I don&#8217;t want to continue this topic, but all(most) the packages on Packagest follow the standard</span><br /> <em><strong><span class="irc-date">[21:14]</span> <span class="irc-black">&lt;ags&gt; @Banago sure &#8211; so Ruby has &#8216;blocks&#8217;, which is syntax for passing around closures (which are objects, Procs, in Ruby). Because it&#8217;s such a core part of the language you can write DSLs that read like english</span></strong></em><br /> <span class="irc-date">[21:14]</span> <span class="irc-black">&lt;jc1arke&gt; @MalCurtis that has always been the issue in PHP. but even more so with 3rd party Gems that has the potential of overwriting if the module space isn&#8217;t correctly followed, not true?</span><br /> <strong><span class="irc-date">[21:14]</span> <span class="irc-black">&lt;MalCurtis&gt; Banago, fair enough, it&#8217;s been a while since I&#8217;ve used PHP heavily</span></strong><br /> <span class="irc-date">[21:14]</span> <span class="irc-black">&lt;ParkinT&gt; Well stated, ags</span><br /> <em><strong><span class="irc-date">[21:14]</span> <span class="irc-black">&lt;ags&gt; like that example with &#8220;describe&#8221;, where describe is actually a method that accepts a description and a block</span></strong></em><br /> <span class="irc-date">[21:14]</span> <span class="irc-black">&lt;Banago&gt; I kind of guessed it. I have no reason to do compressions, just want to learn another language :)</span><br /> <strong><span class="irc-date">[21:15]</span> <span class="irc-black">&lt;MalCurtis&gt; jc1arke yep that&#8217;s always possible! I&#8217;ve never actually seen it though. I recommend always having at least a cursory look at code you&#8217;re going to include in your projects</span></strong><br /> <span class="irc-date">[21:15]</span> <span class="irc-black">&lt;TRParkin&gt; @Banago, Ruby is a great language. I think you&#8217;d enjoy learning it and seeing the differences with PHP.</span><br /> <span class="irc-date">[21:15]</span> <span class="irc-black">&lt;jc1arke&gt; MalCurtis had it recently with the aws-sdk combined with Goliath, had to write a AWS plugin for Goliath in order for them to play nice</span><br /> <strong><span class="irc-date">[21:16]</span> <span class="irc-black">&lt;MalCurtis&gt; Was that aws-sdk or Goliath? Seems odd, was it core lib classes they overwrote?</span></strong><br /> <span class="irc-date">[21:17]</span> <span class="irc-black">&lt;jc1arke&gt; MalCurtis Goliath was replacing the dynamodb model handlers with its own model handling, which caused a bit of a pain for us in the office. figured it out eventually, wrote the plugin and it sorted it all out</span><br /> <span class="irc-date">[21:17]</span> <span class="irc-black">&lt;jc1arke&gt; specifically on &#8220;dynamodb.describe_table&#8221;</span><br /> <span class="irc-date">[21:17]</span> <span class="irc-black">&lt;Steve&gt; hey everyone, ruby beginner here. Is it worth learning rails 3 now that 4 is out or should I just focus on 4?</span><br /> <strong><span class="irc-date">[21:17]</span> <span class="irc-black">&lt;MalCurtis&gt; Wow, that&#8217;s very odd. I didn&#8217;t realise Goliath was anything more than a web server</span></strong><br /><strong> <span class="irc-date">[21:18]</span> <span class="irc-black">&lt;MalCurtis&gt; @Steve learn 4, BUT the differences aren&#8217;t that big</span></strong><br /><em><strong> <span class="irc-date">[21:18]</span> <span class="irc-black">&lt;ags&gt; @Steve you&#8217;ll find a lot more documentation on 3, but learn 4</span></strong></em><br /><strong> <span class="irc-date">[21:18]</span> <span class="irc-black">&lt;MalCurtis&gt; 2 -&gt; 3 was a big jumpt</span></strong><br /> <span class="irc-date">[21:18]</span> <span class="irc-black">&lt;jc1arke&gt; MalCurtis same here, learnt it the hard way ;)</span><br /> <strong><span class="irc-date">[21:18]</span> <span class="irc-black">&lt;MalCurtis&gt; and a lot of code for 2 wouldn&#8217;t work on 3</span></strong><br /><strong> <span class="irc-date">[21:18]</span> <span class="irc-black">&lt;MalCurtis&gt; But 3-4 is a pretty similar setup</span></strong><br /> <span class="irc-date">[21:19]</span> <span class="irc-black">&lt;ParkinT&gt; Let me interject, regardless of which version of Rails, be sure to get a fundamental understanding of Ruby first</span><br /> <strong><span class="irc-date">[21:19]</span> <span class="irc-black">&lt;MalCurtis&gt; ParkinT makes a good point. If you jump into Rails it can be easy to get confused as to what is &#8216;Rails&#8217; and what is &#8216;Ruby&#8217;</span></strong><br /> <span class="irc-date">[21:19]</span> <span class="irc-black">&lt;Steve&gt; Thanks! ParkinT agreed, need to understand the language before I turn on the magic!</span><br /> <span class="irc-date">[21:19]</span> <span class="irc-black">&lt;ParkinT&gt; This is where many people are confused by the difference between the language (Ruby) and the framework (Rails)</span><br /> <em><strong><span class="irc-date">[21:20]</span> <span class="irc-black">&lt;ags&gt; Many people pick up Ruby while learning Rails (I did), but you&#8217;ll have a greater appreciation and understanding for Rails if you learn Ruby first</span></strong></em><br /> <strong><span class="irc-date">[21:20]</span> <span class="irc-black">&lt;MalCurtis&gt; Because of Ruby&#8217;s dynamic abilities, you can understandably get confused</span></strong><br /> <span class="irc-date">[21:20]</span> <span class="irc-black">&lt;ParkinT&gt; Absolutely! @ags, that seems to be the common story</span><br /> <span class="irc-date">[21:20]</span> <span class="irc-black">&lt;Randyman5775&gt; here&#8217;s a link to Ruby&#8217;s webpage. they have some starter info &#8212; <a href="https://www.ruby-lang.org/en/">https://www.ruby-lang.org/en/</a></span><br /> <strong><span class="irc-date">[21:20]</span> <span class="irc-black">&lt;MalCurtis&gt; For example, rails adds a lot of helpers into the String class</span></strong><br /> <span class="irc-date">[21:20]</span> <span class="irc-black">&lt;Steve&gt; Does ruby or rails have any BDD tools like Behat for PHP?</span><br /> <strong><span class="irc-date">[21:20]</span> <span class="irc-black">&lt;MalCurtis&gt; 21.ordinalize = &#8220;st&#8221;</span></strong><br /><strong> <span class="irc-date">[21:21]</span> <span class="irc-black">&lt;MalCurtis&gt; But the ordinalize method is mixed into Integer by rails</span></strong><br /> <span class="irc-date">[21:21]</span> <span class="irc-black">&lt;ParkinT&gt; Pluralize is another one *I* really like</span><br /> <span class="irc-date">[21:21]</span> <span class="irc-black">&lt;Steve&gt; Or is unit testing more of the norm?</span><br /> <em><strong><span class="irc-date">[21:21]</span> <span class="irc-black">&lt;ags&gt; Yeah, it&#8217;s more confusion between ActiveSupport and vanilla Ruby than Ruby and Rails I think</span></strong></em><br /> <span class="irc-date">[21:21]</span> <span class="irc-black">&lt;TRParkin&gt; @Steve yes, there are lots of testing libraries and especially for specs and BDD</span><br /> <span class="irc-date">[21:21]</span> <span class="irc-black">&lt;ParkinT&gt; I believe there are some useful BDD and TDD courses on Learnable.</span><br /> <span class="irc-date">[21:21]</span> <span class="irc-black">&lt;TRParkin&gt; @Steve check out Cucumber, cukes.info</span><br /> <strong><span class="irc-date">[21:21]</span> <span class="irc-black">&lt;MalCurtis&gt; @ags true</span></strong><br /> <span class="irc-date">[21:22]</span> <span class="irc-black">&lt;TRParkin&gt; www.cukes.info</span><br /> <em><strong><span class="irc-date">[21:22]</span> <span class="irc-black">&lt;ags&gt; @Steve RSpec with Capybara / Cucumber / turnip are pretty solid for BDD</span></strong></em><br /> <span class="irc-date">[21:22]</span> <span class="irc-black">&lt;Steve&gt; Ps whoever made this IRC chat/code view rocks! Guessing something like backbone or ember? Or back to Ruby :)</span><br /> <strong><span class="irc-date">[21:22]</span> <span class="irc-black">&lt;MalCurtis&gt; @Steve, the IRC chat is a heavily modified version of &#8220;KiwiIRC&#8221;</span></strong><br /><em><strong> <span class="irc-date">[21:22]</span> <span class="irc-black">&lt;ags&gt; That was the talented @MalCurtis :)</span></strong></em><br /><strong> <span class="irc-date">[21:22]</span> <span class="irc-black">&lt;MalCurtis&gt; a node.js client</span></strong><br /> <span class="irc-date">[21:23]</span> <span class="irc-black">&lt;jc1arke&gt; wicked</span><br /> <span class="irc-date">[21:23]</span> <span class="irc-black">&lt;hi&gt; would you say that cucumber is a good one to start with?</span><br /> <strong><span class="irc-date">[21:23]</span> <span class="irc-black">&lt;MalCurtis&gt; and the code editor is the CodeMirror Javascript IDE, with some magic using web sockets and operational transformation ;)</span></strong><br /><em><strong> <span class="irc-date">[21:23]</span> <span class="irc-black">&lt;ags&gt; I appreciate Gherkin, the language of Cucumber, but I&#8217;d use rspec + turnip if I wanted gherkin</span></strong></em><br /> <span class="irc-date">[21:23]</span> <span class="irc-black">&lt;ParkinT&gt; I think RSpec is a better choice to start.</span><br /> <em><strong><span class="irc-date">[21:24]</span> <span class="irc-black">&lt;ags&gt; That said, I&#8217;m more inclined to just RSpec + capybara</span></strong></em><br /> <strong><span class="irc-date">[21:24]</span> <span class="irc-black">&lt;MalCurtis&gt; We used Cucumber heavily at Learnable at the start</span></strong><br /><strong> <span class="irc-date">[21:24]</span> <span class="irc-black">&lt;MalCurtis&gt; Then removed it later on</span></strong><br /> <span class="irc-date">[21:24]</span> <span class="irc-black">&lt;ParkinT&gt; It is closer to the metal and has more tutorials online IMHO</span><br /> <strong><span class="irc-date">[21:24]</span> <span class="irc-black">&lt;MalCurtis&gt; The cost of BDD tests can be high</span></strong><br /><strong> <span class="irc-date">[21:24]</span> <span class="irc-black">&lt;MalCurtis&gt; You have to write the behaviours, then write the interpreters for the behaviours, then write the underlying tested code</span></strong><br /><strong> <span class="irc-date">[21:24]</span> <span class="irc-black">&lt;MalCurtis&gt; Rather than just writing tests and the underlying code</span></strong><br /> <span class="irc-date">[21:25]</span> <span class="irc-black">&lt;hi&gt; @MalCurtis, just cucumber by itself?</span><br /> <span class="irc-date">[21:25]</span> <span class="irc-black">&lt;Steve&gt; Any suggestions on how to approach business managers on testing toes in Ruby for a light project? We&#8217;re invested in Drupal here and old Java. But we need to build stuff fast&#8230;</span><br /> <strong><span class="irc-date">[21:25]</span> <span class="irc-black">&lt;MalCurtis&gt; @hi Yea&hellip; this was when we were learning Rails :D</span></strong><br /> <span class="irc-date">[21:25]</span> <span class="irc-black">&lt;ParkinT&gt; I have had much success by simply BUILDING something (on a weekend). Then, when asked about it I explain that it was Rails</span><br /> <strong><span class="irc-date">[21:26]</span> <span class="irc-black">&lt;MalCurtis&gt; @steve building stuff fast = less $$. It should sell itself</span></strong><br /> <span class="irc-date">[21:26]</span> <span class="irc-black">&lt;ParkinT&gt; &#8220;Beg forgiveness rather than ask Permission&#8221; LOL</span><br /> <strong><span class="irc-date">[21:26]</span> <span class="irc-black">&lt;MalCurtis&gt; haha, also that</span></strong><br /> <span class="irc-date">[21:26]</span> <span class="irc-black">&lt;Steve&gt; ParkinT love that approach. </span><br /> <strong><span class="irc-date">[21:26]</span> <span class="irc-black">&lt;MalCurtis&gt; You need to also mitigate the risk</span></strong><br /><strong> <span class="irc-date">[21:26]</span> <span class="irc-black">&lt;MalCurtis&gt; which to them is the cost of ownership of tech</span></strong><br /> <span class="irc-date">[21:26]</span> <span class="irc-black">&lt;hi&gt; @ParkinT for example what did you build?</span><br /> <strong><span class="irc-date">[21:27]</span> <span class="irc-black">&lt;MalCurtis&gt; tbh if you&#8217;re the only Ruby guy, it may not be the right decision</span></strong><br /> <span class="irc-date">[21:28]</span> <span class="irc-black">&lt;Steve&gt; MalCurtis were about to double our team size, if we can bring someone in that has experience already it would be nice. But I hear that, I don&#8217;t want to be oncall.</span><br /> <span class="irc-date">[21:28]</span> <span class="irc-black">&lt;ParkinT&gt; @hi, one in particular was a project where we needed to import a lot of data (hand-banging). I built a little Rails app so multiple members of my team could access it easily and get the data import accomplished in a snap.</span><br /> <strong><span class="irc-date">[21:30]</span> <span class="irc-black">&lt;MalCurtis&gt; @Steve Sounds like it could be the right time to really pitch for a language change.</span></strong><br /> <span class="irc-date">[21:30]</span> <span class="irc-black">&lt;Randyman5775&gt; @Steve &#8211; Especially if you&#8217;re doing Drupal</span><br /> <span class="irc-date">[21:31]</span> <span class="irc-black">&lt;ParkinT&gt; Don&#8217;t forget that managers &#8211; often &#8211; like FREE. Open Source languages, that are popular and have lots of support, are favorable too.</span><br /> <em><strong><span class="irc-date">[21:31]</span> <span class="irc-black">&lt;ags&gt; At the same time, you should be aware of licensing restrictions in your company</span></strong></em><br /> <span class="irc-date">[21:32]</span> <span class="irc-black">&lt;Randyman5775&gt; @ParkinT &#8211; yes inded. I work for a state government that doesn&#8217;t want to pay for anything.</span><br /> <span class="irc-date">[21:32]</span> <span class="irc-black">&lt;Steve&gt; Drupal has served us nicely, we&#8217;ve delivered sites very quickly for business partners. Problem is, were building a custom app now and.. I&#8217;m starting to think a real app framework could have been used. It&#8217;s getting the job done but if we want to just spin up a REST api I don&#8217;t want all the overhead of Drupal for that.</span><br /> <span class="irc-date">[21:32]</span> <span class="irc-black">&lt;ags&gt; At the Ruby meetup here in Melbourne, somebody gave a talk about the hoops they had to jump <em>through with every gem, including having the license approved by their legal team</em></span><br /><em> <strong><span class="irc-date">[21:33]</span> <span class="irc-black">&lt;ags&gt; every gem they used, that is</span></strong></em><br /><strong> <span class="irc-date">[21:33]</span> <span class="irc-black">&lt;MalCurtis&gt; @steve sounds like you&#8217;ve got a pragmatic approach to those decisions and should be able to explain that to management!</span></strong><br /> <span class="irc-date">[21:33]</span> <span class="irc-black">&lt;ParkinT&gt; @Randyman5775, at the same time I work on a US Gov&#8217;t contract and THEY are particular about Open Source; fear some &#8216;foreign entity&#8217; will hide insidious code (I think)</span><br /> <span class="irc-date">[21:34]</span> <span class="irc-black">&lt;jc1arke&gt; @ParkinT that is kinda rich coming form them, isn&#8217;t it? :P</span><br /> <em><strong><span class="irc-date">[21:34]</span> <span class="irc-black">&lt;ags&gt; Which is a little counter intuitive ;)</span></strong></em><br /> <span class="irc-date">[21:34]</span> <span class="irc-black">&lt;jc1arke&gt; from*</span><br /> <span class="irc-date">[21:34]</span> <span class="irc-black">&lt;ParkinT&gt; ABSOLUTELY. It is *not* the NSA, by the way. LOL</span><br /> <span class="irc-date">[21:34]</span> <span class="irc-black">&lt;Steve&gt; Can someone talk about gems, how do you know there are new versions, or security fixes for them? What&#8217;s the process to update them on each of your server environments like? Do you add them to your git repo or run a gem update on the server?</span><br /> <span class="irc-date">[21:34]</span> <span class="irc-black">&lt;ParkinT&gt; Bundler is the answer to your question, Steve</span><br /> <strong><span class="irc-date">[21:35]</span> <span class="irc-black">&lt;MalCurtis&gt; @Steve these days you generally use Bundler to manage gems</span></strong><br /> <em><strong><span class="irc-date">[21:35]</span> <span class="irc-black">&lt;ags&gt; Gems are most often managed with <a href="http://bundler.io/">http://bundler.io/</a></span></strong></em><br /> <span class="irc-date">[21:35]</span> <span class="irc-black">&lt;ParkinT&gt; It manages dependecies.</span><br /> <strong><span class="irc-date">[21:35]</span> <span class="irc-black">&lt;MalCurtis&gt; You add the gems to your Gemfile, and specify a version if you want</span></strong><br /> <span class="irc-date">[21:35]</span> <span class="irc-black">&lt;jc1arke&gt; Steve personally prefer using bundler for that, and regular checks on RubyGems (or our own gem server that is) and doing a bundler update</span><br /> <span class="irc-date">[21:35]</span> <span class="irc-black">&lt;Randyman5775&gt; @ParkinT, my guys are so cheap they have me on an ancient server that doesn&#8217;t have PHP &amp; MySQL on it. &#8220;No scripting to the server!&#8221; I have to rewrite everything that I&#8217;ve used in the past with PHP in Javascript.</span><br /> <em><strong><span class="irc-date">[21:35]</span> <span class="irc-black">&lt;ags&gt; You have a Gemfile which lists all the gems used, with an optional version constraint</span></strong></em><br /><strong> <span class="irc-date">[21:35]</span> <span class="irc-black">&lt;MalCurtis&gt; when you run bundle install, it creates a Gemfile.lock which you also commit to source control</span></strong><br /><strong> <span class="irc-date">[21:35]</span> <span class="irc-black">&lt;MalCurtis&gt; when you run bundle install, it will check the lockfile and only use THOSE versions</span></strong><br /><strong> <span class="irc-date">[21:35]</span> <span class="irc-black">&lt;MalCurtis&gt; so everyone is on the exact same version</span></strong><br /><strong> <span class="irc-date">[21:35]</span> <span class="irc-black">&lt;MalCurtis&gt; then you can bundle update _gem_name_ to update a single gem</span></strong><br /> <span class="irc-date">[21:35]</span> <span class="irc-black">&lt;ParkinT&gt; YUCK, @Randyman5775, that must be TEDIOUS to maintain.</span><br /> <em><strong><span class="irc-date">[21:36]</span> <span class="irc-black">&lt;ags&gt; and &#8220;bundled outdated&#8221; will tell you if there updates for those gems</span></strong></em><br /><strong> <span class="irc-date">[21:36]</span> <span class="irc-black">&lt;MalCurtis&gt; As for new versions + security, there&#8217;s no automated way for that</span></strong><br /><strong> <span class="irc-date">[21:36]</span> <span class="irc-black">&lt;MalCurtis&gt; you still need to see what each update does and whether it&#8217;s right for you</span></strong><br /> <span class="irc-date">[21:36]</span> <span class="irc-black">&lt;Steve&gt; ahh so you reference what gems to include in your code. then bundler grabs those versions on each environment?</span><br /> <span class="irc-date">[21:36]</span> <span class="irc-black">&lt;ParkinT&gt; Exactly, Steve.</span><br /> <strong><span class="irc-date">[21:36]</span> <span class="irc-black">&lt;MalCurtis&gt; yep</span></strong><br /> <span class="irc-date">[21:37]</span> <span class="irc-black">&lt;Steve&gt; sounds like composer :D</span><br /> <span class="irc-date">[21:37]</span> <span class="irc-black">&lt;Steve&gt; perfect</span><br /> <strong><span class="irc-date">[21:37]</span> <span class="irc-black">&lt;MalCurtis&gt; I believe composer was based on npm which was based on bundler?</span></strong><br /><strong> <span class="irc-date">[21:37]</span> <span class="irc-black">&lt;MalCurtis&gt; or something like that</span></strong><br /> <span class="irc-date">[21:37]</span> <span class="irc-black">&lt;ParkinT&gt; Typical Dependency Management. Not a new concept.</span><br /> <strong><span class="irc-date">[21:37]</span> <span class="irc-black">&lt;MalCurtis&gt; Yea, it&#8217;s a relatively new concept in this form for PHP devs though I think</span></strong><br /> <span class="irc-date">[21:37]</span> <span class="irc-black">&lt;ParkinT&gt; One of the [perhaps] unique things about the Ruby &#8220;ecosystem&#8217; is that most of the tools are written in Ruby.</span><br /> <strong><span class="irc-date">[21:37]</span> <span class="irc-black">&lt;MalCurtis&gt; this form == so easy, compared to PEAR etc</span></strong><br /> <span class="irc-date">[21:38]</span> <span class="irc-black">&lt;Randyman5775&gt; @ParkinT &#8211; yes it is TEDIOUS &#8212; and I&#8217;m trying to stay on top of newer techniques while still having to maintain outdated ones to be accessible back to IE 6 -STILL</span><br /> <strong><span class="irc-date">[21:38]</span> <span class="irc-black">&lt;MalCurtis&gt; Randyman5775 Time for a new job?</span></strong><br /> <span class="irc-date">[21:38]</span> <span class="irc-black">&lt;ParkinT&gt; IE6 !? Wasn&#8217;t that powered by candlelight?</span><br /> <strong><span class="irc-date">[21:38]</span> <span class="irc-black">&lt;MalCurtis&gt; candlelight and fear I heard</span></strong><br /> <span class="irc-date">[21:39]</span> <span class="irc-black">&lt;jc1arke&gt; don&#8217;t forget the tears of developers the world over</span><br /> <span class="irc-date">[21:39]</span> <span class="irc-black">&lt;Randyman5775&gt; MalCurtis no, the great part about my job is that I get left alone. I&#8217;m an old school guy in that you can lock me in the closet and slide me a pizza now and then to keep me happy</span><br /> <strong><span class="irc-date">[21:39]</span> <span class="irc-black">&lt;MalCurtis&gt; I still cry doing IE testing even now :(</span></strong><br /><strong> <span class="irc-date">[21:40]</span> <span class="irc-black">&lt;MalCurtis&gt; Randyman5775 happy in job == perfect job</span></strong><br /> <span class="irc-date">[21:40]</span> <span class="irc-black">&lt;Randyman5775&gt; If I went someplace else they&#8217;d make me work in a team. YUCK</span><br /> <strong><span class="irc-date">[21:40]</span> <span class="irc-black">&lt;MalCurtis&gt; haha</span></strong><br /> <span class="irc-date">[21:40]</span> <span class="irc-black">&lt;Steve&gt; So in terms of running Ruby/Rails, what do service providers use for &#8220;production&#8221;. Mongrel, Passenger?</span><br /> <span class="irc-date">[21:40]</span> <span class="irc-black">&lt;Steve&gt; I&#8217;m coming from LAMP so I&#8217;m lost in this regard</span><br /> <span class="irc-date">[21:40]</span> <span class="irc-black">&lt;ParkinT&gt; I love HEROKU.</span><br /> <strong><span class="irc-date">[21:40]</span> <span class="irc-black">&lt;MalCurtis&gt; I&#8217;m a fan of Unicorn</span></strong><br /><strong> <span class="irc-date">[21:41]</span> <span class="irc-black">&lt;MalCurtis&gt; and of Heroku</span></strong><br /><strong> <span class="irc-date">[21:41]</span> <span class="irc-black">&lt;MalCurtis&gt; Heroku is different though</span></strong><br /><strong> <span class="irc-date">[21:41]</span> <span class="irc-black">&lt;MalCurtis&gt; it&#8217;s a platform to run your code</span></strong><br /> <span class="irc-date">[21:41]</span> <span class="irc-black">&lt;jc1arke&gt; Passenger, makes it easy for deployment on AWS</span><br /> <strong><span class="irc-date">[21:41]</span> <span class="irc-black">&lt;MalCurtis&gt; you still need to use a server</span></strong><br /><strong> <span class="irc-date">[21:41]</span> <span class="irc-black">&lt;MalCurtis&gt; web[b?]rick is the default server with rails</span></strong><br /><strong> <span class="irc-date">[21:41]</span> </strong><span class="irc-black"><strong>&lt;MalCurtis&gt; so when you run rails server, it&#8217;s webrick</strong> </span><br /> <span class="irc-date">[21:41]</span> <span class="irc-black">&lt;Steve&gt; yeah heroku looks kick ass, just push code and done. </span><br /> <strong><span class="irc-date">[21:42]</span> <span class="irc-black">&lt;MalCurtis&gt; To me, one of my favourite things about Heroku is the add-on marketplace</span></strong><br /><strong> <span class="irc-date">[21:42]</span> <span class="irc-black">&lt;MalCurtis&gt; I want a redis server? Click and done.</span></strong><br /> <span class="irc-date">[21:42]</span> <span class="irc-black">&lt;Steve&gt; Is that what a lot of the rails community uses? What about Engine Yard?</span><br /> <strong><span class="irc-date">[21:42]</span> <span class="irc-black">&lt;MalCurtis&gt; Log monitoring? Yep, there it is</span></strong><br /><strong> <span class="irc-date">[21:42]</span> <span class="irc-black">&lt;MalCurtis&gt; I&#8217;ve only got experience running Rails on EC2 and Heroku</span></strong><br /> <span class="irc-date">[21:42]</span> <span class="irc-black">&lt;ParkinT&gt; And soon, over on RubySource.com there will be an article describing how to Develop on Nitrous (completely in the browser) and then push to Heroku (completely in your browser). AWESOMENESS times 2</span><br /> <strong><span class="irc-date">[21:43]</span> <span class="irc-black">&lt;MalCurtis&gt; So, vanilla services and Heroku as a platform as a serice</span></strong><br /> <span class="irc-date">[21:44]</span> <span class="irc-black">&lt;Steve&gt; What DB does rails use for most sites, Postgres?</span><br /> <strong><span class="irc-date">[21:44]</span> <span class="irc-black">&lt;MalCurtis&gt; mysql or postgres</span></strong><br /> <span class="irc-date">[21:44]</span> <span class="irc-black">&lt;ParkinT&gt; Supposedly, Rails is AGNOSTIC to the database</span><br /> <span class="irc-date">[21:44]</span> <span class="irc-black">&lt;hi&gt; Using Heroku for production?</span><br /> <strong><span class="irc-date">[21:44]</span> <span class="irc-black">&lt;MalCurtis&gt; Postgres has gained a lot of traction</span></strong><br /> <span class="irc-date">[21:44]</span> <span class="irc-black">&lt;ParkinT&gt; The most popular are mysql, postgresql and sqlite3</span><br /> <strong><span class="irc-date">[21:44]</span> <span class="irc-black">&lt;MalCurtis&gt; @hi yep, we use it for many production sites</span></strong><br /> <span class="irc-date">[21:45]</span> <span class="irc-black">&lt;hi&gt; Heroku likes you to use Postgres in development too</span><br /> <em><strong><span class="irc-date">[21:45]</span> <span class="irc-black">&lt;ags&gt; Worth noting Rails 4 improved Postgres support significantly</span></strong></em><br /> <span class="irc-date">[21:46]</span> <span class="irc-black">&lt;jc1arke&gt; we are thinking of moving to MongoDB for our main DB, and haven&#8217;t had issues with it in dev thus far. anyone got any horror stories before we take the plunge?</span><br /> <span class="irc-date">[21:46]</span> <span class="irc-black">&lt;Steve&gt; Does ruby or rails have any commerce type gems or anything to get the barebones for a shopping cart in place with payment processor in place or is that all custom?</span><br /> <em><strong><span class="irc-date">[21:47]</span> <span class="irc-black">&lt;ags&gt; There&#8217;s Spree, which I haven&#8217;t used myself but looking at a site that has I&#8217;m not sure I&#8217;d go down that path</span></strong></em><br /> <span class="irc-date">[21:47]</span> <span class="irc-black">&lt;jc1arke&gt; <a href="https://github.com/spree/spree">https://github.com/spree/spree</a></span><br /> <span class="irc-date">[21:47]</span> <span class="irc-black">&lt;Steve&gt; I just found them on google too.. hmm</span><br /> <strong><span class="irc-date">[21:48]</span> <span class="irc-black">&lt;MalCurtis&gt; jc1arke apart from the MongoDB breach, nope ;)</span></strong><br /><strong> <span class="irc-date">[21:48]</span> <span class="irc-black">&lt;MalCurtis&gt; But that was a hosted service</span></strong><br /> <em><strong><span class="irc-date">[21:48]</span> <span class="irc-black">&lt;ags&gt; Honestly, depending on the complexity of your shopping cart, you may be better off building your own</span></strong></em><br /> <span class="irc-date">[21:48]</span> <span class="irc-black">&lt;jc1arke&gt; yeah, will be self-hosted MongoDB instance on AWS, VPC and such protecting it</span><br /> <em><strong><span class="irc-date">[21:48]</span> <span class="irc-black">&lt;ags&gt; Especially if you can use Stripe, Braintree or similar as a payment gateway</span></strong></em><br /> <span class="irc-date">[21:49]</span> <span class="irc-black">&lt;Steve&gt; ags starting to think that. we&#8217;re not doing anything complex now with it anyways.</span><br /> <span class="irc-date">[21:49]</span> <span class="irc-black">&lt;hi&gt; what are the gems used to make this very forum?</span><br /> <span class="irc-date">[21:50]</span> <span class="irc-black">&lt;Randyman5775&gt; You have to watch some of those payment gateways &#8212; I had a client insist on a particular one a while back, and they had all sorts of hidden fees worked into it.</span><br /> <strong><span class="irc-date">[21:50]</span> <span class="irc-black">&lt;MalCurtis&gt; @hi unfortunately the Talk with the experts client is written in node.js</span></strong><br /><strong> <span class="irc-date">[21:51]</span> <span class="irc-black">&lt;MalCurtis&gt; The rest of Learnable is written in Rails though</span></strong><br /><strong> <span class="irc-date">[21:51]</span> <span class="irc-black">&lt;MalCurtis&gt; but singling out a single gem isn&#8217;t really possible</span></strong><br /><strong> <span class="irc-date">[21:51]</span> <span class="irc-black">&lt;MalCurtis&gt; Most gems are very small and provide very specific functionality</span></strong><br /><strong> <span class="irc-date">[21:51]</span> <span class="irc-black">&lt;MalCurtis&gt; which is great!</span></strong><br /> <span class="irc-date">[21:52]</span> <span class="irc-black">&lt;hi&gt; Are you continually having to upgrade them or only when there is a rails update?</span><br /> <strong><span class="irc-date">[21:52]</span> <span class="irc-black">&lt;MalCurtis&gt; it&#8217;s a mix</span></strong><br /><strong> <span class="irc-date">[21:52]</span> <span class="irc-black">&lt;MalCurtis&gt; We upgrade some gems often, but things, such as a pagination gem, don&#8217;t need to be updated often</span></strong><br /> <span class="irc-date">[21:53]</span> <span class="irc-black">&lt;ParkinT&gt; I suspect there is no need to update a gem unless some, very specific, security issue was discovered (and fixed).</span><br /> <span class="irc-date">[21:53]</span> <span class="irc-black">&lt;hi&gt; so you just do bundled outdated every so often?</span><br /> <span class="irc-date">[21:53]</span> <span class="irc-black">&lt;Steve&gt; Thanks for the chat all, been helpful! Have a good one.</span><br /> <strong><span class="irc-date">[21:53]</span> <span class="irc-black">&lt;MalCurtis&gt; yep</span></strong><br /> <span class="irc-date">[21:54]</span> <span class="irc-black">&lt;HAWK&gt; We have got 5 mins left if anyone has a question that hasn&#8217;t been answered</span><br /> <span class="irc-date">[21:54]</span> <span class="irc-black">&lt;hi&gt; Thank you..will look into SP ROR classes and tuts</span><br /> <span class="irc-date">[21:55]</span> <span class="irc-black">&lt;hi&gt; Is there something novice level for someone who did a few other tuts so far and learned a bit of Ruby?</span><br /> <em><strong><span class="irc-date">[21:56]</span> <span class="irc-black">&lt;ags&gt; The official Rails guides <a href="http://guides.rubyonrails.org/getting_started.html">http://guides.rubyonrails.org/getting_started.html</a> are entry level but quite good</span></strong></em><br /> <span class="irc-date">[21:56]</span> <span class="irc-black">&lt;ParkinT&gt; @hi, there are many books on Ruby. And many on Rails.</span><br /> <strong><span class="irc-date">[21:56]</span> <span class="irc-black">&lt;MalCurtis&gt; I know that Learnable has a selection if you&#8217;re a member</span></strong><br /> <span class="irc-date">[21:56]</span> <span class="irc-black">&lt;jc1arke&gt; <a href="https://www.codeschool.com/paths/ruby">https://www.codeschool.com/paths/ruby</a> &lt;= those could help as well</span><br /> <strong><span class="irc-date">[21:57]</span> <span class="irc-black">&lt;MalCurtis&gt; and support@learnable.com would be happy to recommend a pathway if you are</span></strong><br /> <span class="irc-date">[21:57]</span> <span class="irc-black">&lt;hi&gt; Im doing the Hartl book. Have not given up yet</span><br /> <span class="irc-date">[21:58]</span> <span class="irc-black">&lt;hi&gt; Yes Im a member</span><br /> <span class="irc-date">[21:58]</span> <span class="irc-black">&lt;ParkinT&gt; Great choice, @hi. </span><br /> <span class="irc-date">[21:58]</span> <span class="irc-black">&lt;hi&gt; Yes I just successfully ported my project to 4.01</span><br /> <span class="irc-date">[21:58]</span> <span class="irc-black">&lt;hi&gt; thru lesson 6</span><br /> <span class="irc-date">[21:58]</span> <span class="irc-black">&lt;hi&gt; chapter 6</span><br /> <span class="irc-date">[21:58]</span> <span class="irc-black">&lt;HAWK&gt; Ok, well unless someone has any final pressing question, I think we&#8217;ll call this a wrap</span><br /> <span class="irc-date">[21:59]</span> <span class="irc-black">&lt;HAWK&gt; Thanks very much for your time this morning Mal &amp; Alex. Much appreciated.</span><br /> <span class="irc-date">[21:59]</span> <span class="irc-black">&lt;HAWK&gt; Next week we&#8217;re talking responsive frameworks &#8211; specifically Foundation, which we used to build SitePoint and Learnable</span><br /> <span class="irc-date">[21:59]</span> <span class="irc-black">&lt;HAWK&gt; should be a good one</span><br /> <span class="irc-date">[21:59]</span> <span class="irc-black">&lt;HAWK&gt; Catch you there!</span></p>
+<p>The post <a href="http://www.sitepoint.com/talk-ruby-expertsthe-transcript/">Talk Ruby with the Experts:</br>The Transcript</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/talk-ruby-expertsthe-transcript/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Are You Targeting Google Dart?</title>
+		<link>http://www.sitepoint.com/targeting-google-dart/</link>
+		<comments>http://www.sitepoint.com/targeting-google-dart/#comments</comments>
+		<pubDate>Wed, 20 Nov 2013 22:37:25 +0000</pubDate>
+		<dc:creator>Craig Buckler</dc:creator>
+				<category><![CDATA[Browsers]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Web standards]]></category>
+		<category><![CDATA[dart]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=73337</guid>
+		<description><![CDATA[<p>Google Dart version 1.0 has been released. Can it supersede JavaScript as the standard browser-based development language? Craig thinks not.</p><p>The post <a href="http://www.sitepoint.com/targeting-google-dart/">Are You Targeting Google Dart?</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Dart has reached its version 1.0 target. Google may not care for version numbers but this illustrates to the world that Dart is ready. Whether we are is a different matter.</p>
+<p>Dart is (yet another) Google development language for the web. It works server-side as an alternative to PHP, .NET, Ruby, etc. Controversially, it has also been designed as a replacement for client-side JavaScript. Developers can target browsers which implement the Dart VM or pre-process code to native JavaScript.</p>
+<p>I was <a href="/google-dart-fail/">particularly scathing</a> about Dart when it was announced in 2011. My main issues:</p>
+<ol>
+<li>Why create another language when plenty of more familiar options are already available?</li>
+<li>Why produce a closed platform which is certain to be rejected by the W3C and other browser vendors?</li>
+<li>Why does <em>&#8220;Hello World&#8221;</em> in Dart compile to 17,259 lines of JavaScript code?</li>
+</ol>
+<p>Version 1.0 will still generate more than 400Kb but, <a href="https://www.dartlang.org/performance/">according to the benchmarks</a>, dart2js code is often faster than native JavaScript. Hmm. I&#8217;m not convinced well-written JavaScript code could be outpaced by compiled Dart but the team is addressing the points. If you&#8217;re running Dart in its own VM, you can expect performance gains of up to 130%.</p>
+<p>The updated <a href="https://www.dartlang.org/">dartlang.org</a> site now offers a range of free tools including an Eclipse-based IDE, plug-ins for other editors, the dart2js compiler, the Dartium browser, a full SDK, package manager and API documentation.</p>
+<h2>What&#8217;s not to like?</h2>
+<p>I&#8217;ll tell you: Dart will join the long list of scrapped Google projects. They&#8217;ve been patient but, if Dart was to succeed, it would have already done so. Let&#8217;s add some more points to the list of criticisms:</p>
+<p><strong>Dart is not supported in Chrome</strong><br />
+You can&#8217;t use Dart in Google&#8217;s own browser. Dartium is Chromium with the Dart VM &#8212; so there shouldn&#8217;t be any technical issues preventing its addition to Chrome and perhaps other Blink-based browsers such as Opera. <em>So why isn&#8217;t it there?</em></p>
+<p><strong>No other vendor wants Dart</strong><br />
+Dart has been openly denounced by Microsoft, Apple and Mozilla. Google could create VM plug-ins for those browsers but, assuming vendors didn&#8217;t actively block it, widespread distribution would be difficult.</p>
+<p><strong>dart2js browser support is limited</strong><br />
+The JavaScript compiler creates code for the latest versions of Chrome and Firefox, Safari 6+, IE9 and IE10. There&#8217;s no guarantee your code will work in IE8, IE11 or mobile browsers.</p>
+<p><strong>Difficult client-side debugging</strong><br />
+Debugging dart2js applications in a browser requires source maps to trace errors back to the original Dart code. You can do that in Chrome, but you&#8217;ll have trouble in most other browsers &#8212; especially on mobile.</p>
+<p><strong>Developer uncertainty</strong><br />
+Perhaps you use Dart. Perhaps you love the language. Does it worry you that Google has abandoned projects which were far more commercially successful?</p>
+<p><strong>Google backs JavaScript</strong><br />
+The Dart FAQ claims: <em>&#8220;Google wants web development to be great, and if that happens with JavaScript, we&#8217;re happy.&#8221;</em> However, Google is continually improving and promoting their V8 engine used in Chrome and the Node.js runtime. If JavaScript is flawed, they have the power and influence to fix it &#8212; why is it necessary to start again?</p>
+<p>At best, they&#8217;re giving mixed messages. At worst, they don&#8217;t believe Dart has a strong future for client-side development.</p>
+<p><strong>JavaScript is cooler than ever</strong><br />
+Two years is a long time on the web. JavaScript is in a stronger, more dominant position than it was when Dart first appeared.</p>
+<h2>Why Dart was Devised</h2>
+<p>OK, I get it. Java and JavaScript are two languages separated by a superficially similar syntax. JavaScript is initially confusing for anyone with a background in C-like programming. You&#8217;ll be tempted to use classical inheritance techniques, fail dismally, and find numerous other reasons to berate the language. JavaScript is different; it feels wrong and you&#8217;ll want to return to the cozy world of server-side or desktop development. The Dart team has toned down their anti-JavaScript sentiment but that&#8217;s exactly why the project was started.</p>
+<p>JavaScript is not perfect and there are several issues which make compiler optimization difficult. But it&#8217;s not fundamentally flawed. If anything, the language becomes better the more you understand and use it &#8212; you may even reach the conclusion that classical inheritance is too rigid and clunky.</p>
+<p>I have nothing against innovation and Dart may become a successful server-side development language. Unfortunately, Dart isn&#8217;t particularly innovative and, in the browser, it&#8217;s a solution looking for a problem.</p>
+<p>Do you think Dart can succeed?</p>
+<p>The post <a href="http://www.sitepoint.com/targeting-google-dart/">Are You Targeting Google Dart?</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/targeting-google-dart/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>16 Inspiring Event Page Designs</title>
+		<link>http://www.sitepoint.com/16-inspiring-event-page-designs/</link>
+		<comments>http://www.sitepoint.com/16-inspiring-event-page-designs/#comments</comments>
+		<pubDate>Wed, 20 Nov 2013 16:08:43 +0000</pubDate>
+		<dc:creator>Gabrielle Gosha</dc:creator>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Business]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=16506</guid>
+		<description><![CDATA[<p>When you start constructing your website you already know that there are specific pages that are completely essential. These pages include the Home, About Me and Contact pages. However, depending on your site’s purpose, you might find that you need an Event Page. These pages are necessary to present important upcoming events that you want [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/16-inspiring-event-page-designs/">16 Inspiring Event Page Designs</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>When you start constructing your website you already know that there are specific pages that are completely essential. These pages include the Home, About Me and Contact pages. However, depending on your site’s purpose, you might find that you need an Event Page. </p>
+<p>These pages are necessary to present important upcoming events that you want your visitors to know about. This could be anything from musical tour dates, business conferences or fun filled workshops. </p>
+<p>While it may seem that a lot of time is spent on teaching the importance of well-designed ‘About Me’ pages and other page elements it is still essential to present a quality design for your event page. Remember that every page should be designed to the best of your ability to keep cohesion no matter how underutilized you think a page might be. </p>
+<p>The showcase today features event pages that have been designed with style that will hopefully inspire you to rethink your own design.</p>
+<h2>Awakenings </h2>
+<p><a href="http://www.awakenings.nl/events/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/awakening-1024x496.png" alt="awakening" width="1024" height="496" class="alignnone size-large wp-image-73056" /></a></p>
+<h2>FITC </h2>
+<p><a href="http://fitc.ca/events/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/fitc-1024x505.png" alt="fitc" width="1024" height="505" class="alignnone size-large wp-image-73063" /></a></p>
+<h2>Exchange LA</h2>
+<p><a href="http://exchangela.com/calendar/event-calendar" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/exchange-la-1024x504.png" alt="exchange la" width="1024" height="504" class="alignnone size-large wp-image-73061" /></a></p>
+<h2>Addy</h2>
+<p><a href="http://addys.aaffrederick.org/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/addys-1024x505.png" alt="addys" width="1024" height="505" class="alignnone size-large wp-image-73055" /></a></p>
+<h2>Coordinate </h2>
+<p><a href="http://www.coordinate.org.au/news-events" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/coordinate-1024x504.png" alt="coordinate" width="1024" height="504" class="alignnone size-large wp-image-73059" /></a></p>
+<h2>Future of Apps</h2>
+<p><a href="http://futureofwebapps.com/london-2013/schedule/day-1/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/future-1024x503.png" alt="future" width="1024" height="503" class="alignnone size-large wp-image-73065" /></a></p>
+<h2>Combine </h2>
+<p><a href="http://www.thecombine.org/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/combine-1024x505.png" alt="combine" width="1024" height="505" class="alignnone size-large wp-image-73058" /></a></p>
+<h2>Full Frontal </h2>
+<p><a href="http://2013.full-frontal.org/#sessions" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/full-frontal-1024x504.png" alt="full frontal" width="1024" height="504" class="alignnone size-large wp-image-73064" /></a></p>
+<h2>Barcamp </h2>
+<p><a href="http://barcampomaha.org/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/barcamp-1024x505.png" alt="barcamp" width="1024" height="505" class="alignnone size-large wp-image-73057" /></a></p>
+<h2>Camp Firebelly </h2>
+<p><a href="http://campfirebelly.com/#2" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/firebelly-1024x506.png" alt="firebelly" width="1024" height="506" class="alignnone size-large wp-image-73062" /></a></p>
+<h2>QC Merge </h2>
+<p><a href="http://qcmerge.com/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/qc-merge-1024x500.png" alt="qc merge" width="1024" height="500" class="alignnone size-large wp-image-73068" /></a></p>
+<h2>Rock Werchter </h2>
+<p><a href="http://www.rockwerchter.be/nl/line-up-2013/donderdag" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/rock-1024x504.png" alt="rock" width="1024" height="504" class="alignnone size-large wp-image-73069" /></a></p>
+<h2>Ruby Motion </h2>
+<p><a href="http://www.rubymotion.com/conference/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/inspect-1024x502.png" alt="inspect" width="1024" height="502" class="alignnone size-large wp-image-73066" /></a></p>
+<h2>Evening of Inspiration </h2>
+<p><a href="http://www.transform.st/archive/eveningofinspiration/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/eoi-1024x502.png" alt="eoi" width="1024" height="502" class="alignnone size-large wp-image-73060" /></a></p>
+<h2>STL Design Week </h2>
+<p><a href="http://stldesignweek.com/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/stl-1024x506.png" alt="stl" width="1024" height="506" class="alignnone size-large wp-image-73070" /></a></p>
+<h2>Mundo </h2>
+<p><a href="http://2012.festivalmundo.com.br/programacao/" target="_blank"><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/07/mundo-1024x504.png" alt="mundo" width="1024" height="504" class="alignnone size-large wp-image-73067" /></a></p>
+<p>The post <a href="http://www.sitepoint.com/16-inspiring-event-page-designs/">16 Inspiring Event Page Designs</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/16-inspiring-event-page-designs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Using PHP Streams Effectively</title>
+		<link>http://www.sitepoint.com/using-php-streams-effectively/</link>
+		<comments>http://www.sitepoint.com/using-php-streams-effectively/#comments</comments>
+		<pubDate>Wed, 20 Nov 2013 16:00:06 +0000</pubDate>
+		<dc:creator>Vito Tardia</dc:creator>
+				<category><![CDATA[Open source]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[filter]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[parser]]></category>
+		<category><![CDATA[streams]]></category>
+		<category><![CDATA[Template]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=72551</guid>
+		<description><![CDATA[<p>In my previous article we&#39;ve discovered the basics of PHP Streams and how powerful they were. In this tutorial we are going to use this power in the real world. First I&#39;ll show you how to build your custom filters and attach them to a stream, then we&#39;ll package our filters inside a document parser [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/using-php-streams-effectively/">Using PHP Streams Effectively</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>In my <a href="http://www.sitepoint.com/%ef%bb%bfunderstanding-streams-in-php/">previous article</a> we&#39;ve discovered the basics of <a href="http://php.net/manual/en/book.stream.php">PHP Streams</a> and how powerful they were. In this tutorial we are going to use this power in the real world. First I&#39;ll show you how to build your custom filters and attach them to a stream, then we&#39;ll package our filters inside a document parser application.</p>
+<p>You are encouraged to read the <a href="http://www.sitepoint.com/%ef%bb%bfunderstanding-streams-in-php/">previous article</a> in case you haven&#39;t yet, as understanding the introduction will be essential for following along with this part.</p>
+<p>The full source code to this article is available <a href="https://github.com/phpmasterdotcom/VitoTardia-StreamsPlus">on Github</a>.</p>
+<h2>Using Filters</h2>
+<p>As previously stated, filters are pieces of code that can be attached to a stream to perform operations on the data while reading or writing. PHP has a nice set of built-in filters such as <code>string.toupper</code>, <code>string.tolower</code> or <code>string.strip_tags</code>. Some PHP extensions also provide their own filters. For example, the <code>mcrypt</code> extension installs the <code>mcrypt.*</code> and <code>mdecrypt.*</code> filters. We can use the function <code>stream_get_filters()</code> to fetch the list of filters available on your machine.</p>
+<p>Once that we know which filters we can count on, we can append any number of filters to a stream resource using <code>stream_filter_append()</code>:</p>
+<pre><code>    $h = fopen(&#39;lorem.txt&#39;, &#39;r&#39;);
+    stream_filter_append($h, &#39;convert.base64-encode&#39;);
+    fpassthru($h);
+    fclose($h);</code></pre>
+<p>or open a stream using the <code>php://filter</code> meta wrapper:</p>
+<pre><code>    $filter = &#39;convert.base64-encode&#39;;
+    $file = &#39;lorem.txt&#39;;
+    $h = fopen(&#39;php://filter/read=&#39; . $filter . &#39;/resource=&#39; . $file,&#39;r&#39;); 
+    fpassthru($h);
+    fclose($h);</code></pre>
+<p>In the above samples the function <code>fpassthru()</code> will output the same encoded version of the sample file. Simple, isn&#39;t it? Let&#39;s see what we can do with the <code>php_user_filter</code> class.</p>
+<h2>Filtering data on read-time: the Markdown filter</h2>
+<p>Our first custom filter will be appended to a reading stream in order to convert the markdown-formatted data from the source into HTML markup. PHP provides the base class <a href="http://us3.php.net/manual/en/class.php-user-filter.php"><code>php_user_filter</code></a> that we&#39;re extending. This base class has two properties: <code>filtername</code> and <code>params</code>. <code>filtername</code> contains the label used to register our filter with <code>stream_filter_register()</code>, while <code>params</code> can be used by <code>stream_filter_append()</code> to pass data to filters.</p>
+<p>The main worker method that we must override is <code>filter()</code>. This method is called by the parent stream and receives four parameters:</p>
+<ul>
+<li><code>$in</code>: a pointer to a group of buckets objects containing the data to be filtered.</li>
+<li><code>$out</code>: a pointer to another group of buckets for storing the converted data.</li>
+<li><code>$consumed</code>: a counter passed by reference that must be incremented by the length of converted data.</li>
+<li><code>$closing</code>: a boolean flag that is set to <code>TRUE</code> if we are in the last cycle and the stream is about to close</li>
+</ul>
+<p>The other two optional methods, <code>onCreate()</code> and <code>onClose()</code>, are called respectively when our class is created and destroyed. They are useful if our filter needs to instantiate resources such as other streams or data buffers that must be released at the end of the conversion.</p>
+<p>Our filter uses these methods to deal with a temporary data stream managed by a private property called <code>$bufferHandle</code>. The <code>onCreate()</code> method will fail returning <code>false</code> if the buffer stream is not available, while the <code>onClose()</code> method closes the resource. Our <code>MarkdownFilter</code> uses <a href="https://github.com/michelf/php-markdown">Michel Fortin&#39;s parser</a>.</p>
+<pre><code>&lt;?php
+namespace MarkdownFilter;
+
+use \Michelf\MarkdownExtra as MarkdownExtra;
+
+class MarkdownFilter extends \php_user_filter
+{
+
+    private $bufferHandle = &#39;&#39;;
+
+    public function filter($in, $out, &amp;$consumed, $closing)
+    {
+        $data = &#39;&#39;;
+
+        while ($bucket = stream_bucket_make_writeable($in)) {
+            $data .= $bucket-&gt;data;
+            $consumed += $bucket-&gt;datalen;
+        }
+
+        $buck = stream_bucket_new($this-&gt;bufferHandle, &#39;&#39;);
+
+        if (false === $buck) {
+            return PSFS_ERR_FATAL;
+        }
+
+        $parser = new MarkdownExtra;
+        $html = $parser-&gt;transform($data);
+        $buck-&gt;data = $html;
+
+        stream_bucket_append($out, $buck);
+        return PSFS_PASS_ON;
+    }
+
+    public function onCreate()
+    {
+        $this-&gt;bufferHandle = @fopen(&#39;php://temp&#39;, &#39;w+&#39;);
+        if (false !== $this-&gt;bufferHandle) {
+            return true;
+        }
+        return false;
+    }
+
+    public function onClose()
+    {
+        @fclose($this-&gt;bufferHandle);
+    }
+}</code></pre>
+<p>In the main <code>filter()</code> method I&#39;m collecting all the content into a <code>$data</code> variable that will be converted later. The first loop cycles through the input stream, using <code>stream_bucket_make_writeable()</code>, to retrieve the current bucket of data. The content of each bucket (<code>$bucket-&gt;data</code>) is appended to our container and the <code>$consumed</code> parameter is incremented by the length of the retrieved data (<code>$bucket-&gt;datalen</code>).</p>
+<p>When all of the data is collected, we need to create a new empty bucket that will be used to pass the converted content to the output stream. We use <code>stream_bucket_new()</code> to do this and if the operation fails we return the constant <code>PSFS_ERR_FATAL</code> that will trigger a filter error. Since we need a resource pointer to create a bucket, we use the <code>$bufferHandle</code> property, which has been initialized earlier using the <code>php://temp</code> built-in stream wrapper.</p>
+<p>Now that we have the data and the output bucket, we can instantiate a Markdown parser, convert all the data and store it in the bucket&#39;s <code>data</code> property. Finally the result is appended to the <code>$out</code> resource pointer with <code>stream_bucket_append()</code> and the function returns the constant <code>PSFS_PASS_ON</code> to communicate that the data was processed successfully.</p>
+<p>We can now use the filter in this way:</p>
+<pre><code>    // Require the MarkdownFilter or autoload
+
+    // Register the filter
+    stream_filter_register(&quot;markdown&quot;, &quot;\MarkdownFilter\MarkdownFilter&quot;)
+        or die(&quot;Failed to register filter Markdown&quot;);
+
+    // Apply the filter
+    $content = file_get_contents(
+        &#39;php://filter/read=markdown/resource=file:///path/to/somefile.md&#39;
+    );
+
+    // Check for success...
+    if (false === $content) {
+        echo &quot;Unable to read from source\n&quot;;
+        exit(1);
+    }
+
+    // ...and enjoy the results
+    echo $content, &quot;\n&quot;;</code></pre>
+<p>Please note that the <code>use</code> directive has no effect and the fully qualified class name must be provided when registering a custom filter.</p>
+<h2>Filtering data on write-time: the Template filter</h2>
+<p>Once we have our content converted from Markdown to HTML, we need to pack it inside a page template. This can be anything from a basic HTML structure to a complex page layout with CSS styles. So, in the same way as we did a read-and-convert action with the input filter, we&#39;re going to write a convert-and-save action, embedding the template engine of our choice into the output stream. I chose the <a href="https://github.com/rainphp/raintpl3">RainTPL parser</a> for this tutorial, but you are free to adapt the code to the one you prefer.</p>
+<p>The structure of the template filter is similar to our input filter. First we&#39;ll register the filter in this way:</p>
+<pre><code>stream_filter_register(&quot;template.*&quot;, &quot;\TemplateFilter\TemplateFilter&quot;)
+    or die(&quot;Failed to register filter Template&quot;);</code></pre>
+<p>We use the format <code>filtername.*</code> as filter label, so that we can use that <code>*</code> to pass some data to our class. This is necessary because, as far as I know, there is no way to pass parameters to a filter applied using a <code>php://filter</code> wrapper. If you know of a way, please post it in the comments below.</p>
+<p>The filter is then applied in this way:</p>
+<pre><code>    $result = file_put_contents(
+        &#39;php://filter/write=template.&#39; .
+        base64_encode(&#39;Some Document Title&#39;) . &#39;/resource=file:///path/to/destination.html&#39;,
+        $content
+    );</code></pre>
+<p>A title for the document is passed using the second part of the filter name and will be processed by the <code>onCreate()</code> method. Going further, we can use this trick to pass an array of serialized data with custom configuration settings for the template engine.</p>
+<p>The <code>TemplateFilter</code> class:</p>
+<pre><code>&lt;?php
+namespace TemplateFilter;
+
+use \Rain\Tpl as View;
+
+class TemplateFilter extends \php_user_filter
+{
+
+    private $bufferHandle = &#39;&#39;;
+    private $docTitle = &#39;Untitled&#39;;
+
+    public function filter($in, $out, &amp;$consumed, $closing)
+    {
+        $data = &#39;&#39;;
+
+        while ($bucket = stream_bucket_make_writeable($in)) {
+            $data .= $bucket-&gt;data;
+            $consumed += $bucket-&gt;datalen;
+        }
+
+        $buck = stream_bucket_new($this-&gt;bufferHandle, &#39;&#39;);
+
+        if (false === $buck) {
+            return PSFS_ERR_FATAL;
+        }
+
+        $config = array(
+            &quot;tpl_dir&quot;       =&gt; dirname(__FILE__) . &quot;/templates/&quot;,
+            &quot;cache_dir&quot;     =&gt; sys_get_temp_dir() . &quot;/&quot;,
+            &quot;auto_escape&quot;   =&gt; false
+        );
+        View::configure($config);
+
+        $view = new View();
+        if (!$closing) {
+            $matches = array();
+            if (preg_match(&#39;/&lt;h1&gt;(.*)&lt;\/h1&gt;/i&#39;, $data, $matches)) {
+
+                if (!empty($matches[1])) {
+                    $this-&gt;docTitle = $matches[1];
+                }
+            }
+            $view-&gt;assign(&#39;title&#39;, $this-&gt;docTitle);
+            $view-&gt;assign(&#39;body&#39;, $data);
+            $content = $view-&gt;draw(&#39;default&#39;, true);
+            $buck-&gt;data = $content;
+        }
+
+        stream_bucket_append($out, $buck);
+        return PSFS_PASS_ON;
+    }
+
+    public function onCreate()
+    {
+        $this-&gt;bufferHandle = @fopen(&#39;php://temp&#39;, &#39;w+&#39;);
+        if (false !== $this-&gt;bufferHandle) {
+
+            $info = explode(&#39;.&#39;, $this-&gt;filtername);
+            if (is_array($info) &amp;&amp; !empty($info[1])) {
+                $this-&gt;docTitle = base64_decode($info[1]);
+            }
+
+            return true;
+        }
+        return false;
+    }
+
+    public function onClose()
+    {
+        @fclose($this-&gt;bufferHandle);
+    }
+}</code></pre>
+<p>We still have the <code>$bufferHandle</code> parameter pointing to the temporary stream, and we also have a parameter called <code>$docTitle</code> that will contain (by priority):</p>
+<ol>
+<li>the content of the first <code>H1</code> tag (if exists) of the parsed document, or</li>
+<li>the decoded content of the second part of the filter name, or</li>
+<li>the default fallback value &#39;Untitled&#39;.</li>
+</ol>
+<p>Inside the <code>onCreate()</code> method, after the buffer stream is initialized, we&#39;re dealing with option number two:</p>
+<pre><code>    $info = explode(&#39;.&#39;, $this-&gt;filtername);
+    if (is_array($info) &amp;&amp; !empty($info[1])) {
+        $this-&gt;docTitle = base64_decode($info[1]);
+    }</code></pre>
+<p>The main <code>filter()</code> method can be divided in five steps here. The first two steps are identical to the Markdown filter: all the data is fetched from the input buckets and stored inside the variable <code>$data</code>, then an empty output bucket is created to store the processed content.</p>
+<p>In the third step the template parser class is loaded and configured. I&#39;m asking the system for a temporary directory to use for caching, disabling HTML tags escape feature and setting the <code>templates</code> directory.</p>
+<p>The default template used here is very simple, with the variables defined as <code>{$VarName}</code>:</p>
+<pre><code>    &lt;!DOCTYPE html&gt;
+    &lt;html lang=&quot;en&quot;&gt;
+        &lt;head&gt;
+            &lt;meta charset=&quot;utf-8&quot;&gt;
+            &lt;title&gt;{$title}&lt;/title&gt;
+        &lt;/head&gt;
+        &lt;body&gt;
+            {$body}
+        &lt;/body&gt;
+    &lt;/html&gt;</code></pre>
+<p>The fourth step is where the actual parsing takes place. First I&#39;m searching for a document title inside a <code>H1</code> tag. Then I set the <code>body</code> and <code>title</code> variables defined in the template and finally process the document. The first parameter of the <code>draw()</code> method is the template name, the second tells to return the string instead of printing it.</p>
+<p>The last step is placing the parsed content into the output bucket and appending it to the output resource, returning <code>PSFS_PASS_ON</code>.</p>
+<h2>Putting it all together: a document parser</h2>
+<p>Now that we have the basic blocks in place it&#39;s time to build our document parser utility. The utility app lives in its own directory <code>mddoc</code>. Our custom filters live under the <code>lib</code> directory using a <code>PSR-0</code> directory and namespace structure. I&#39;ve used <a href="http://getcomposer.org">Composer</a> to keep track of dependencies</p>
+<pre><code>    &quot;require&quot;: {
+        &quot;php&quot;: &quot;&gt;=5.3.0&quot;,
+        &quot;michelf/php-markdown&quot;: &quot;*&quot;,
+        &quot;rain/raintpl&quot;: &quot;3.*&quot;
+    },</code></pre>
+<p>and autoloading:</p>
+<pre><code>    &quot;autoload&quot;: {
+        &quot;psr-0&quot;: { 
+            &quot;MarkdownFilter&quot;: &quot;lib&quot;,
+            &quot;TemplateFilter&quot;: &quot;lib&quot;
+        }
+    }</code></pre>
+<p>The main application file is <code>mddoc</code> that can be executed like this:</p>
+<pre><code>    $ /path/to/mddoc -i /path/to/sourcedir -o /path/to/destdir</code></pre>
+<p>The app file looks like:</p>
+<pre><code>#!/usr/bin/env php
+&lt;?php
+/**
+ * Markdown Tree Converter
+ * 
+ * Recursive converts all markdown files from a source directory to HTML
+ * and places them in the destination directory recreating the structure
+ * of the source and applying a template parser.
+ */
+
+// Composer autoloader
+require_once dirname(__FILE__) . &#39;/vendor/autoload.php&#39;;
+
+
+// Deals with command-line input arguments
+function usage()
+{
+    printf(
+        &quot;Usage: %s -i %s -o %s\n&quot;,
+        basename(__FILE__),
+        &#39;/path/to/sourcedir&#39;,
+        &#39;/path/to/destdir&#39;
+    );
+}
+
+if (5 &gt; $argc) {
+    usage();
+    exit;
+}
+
+$in = array_search(&#39;-i&#39;, $argv);
+$src = realpath($argv[$in+1]);
+if (!is_dir($src) || !is_readable($src)) {
+    echo &quot;[ERROR] Invalild source directory.\n&quot;;
+    usage();
+    exit(1);
+}
+
+$out = array_search(&#39;-o&#39;, $argv);
+$dest = realpath($argv[$out+1]);
+if (!is_dir($dest) || !is_writeable($dest)) {
+    echo &quot;[ERROR] Invalild destination directory.\n&quot;;
+    usage();
+    exit(1);
+}
+
+// Register custom read-time MarkdownFilter
+stream_filter_register(&quot;markdown&quot;, &quot;\MarkdownFilter\MarkdownFilter&quot;)
+    or die(&quot;Failed to register filter Markdown&quot;);
+
+// Register custom write-time TemplateFilter
+stream_filter_register(&quot;template.*&quot;, &quot;\TemplateFilter\TemplateFilter&quot;)
+    or die(&quot;Failed to register filter Template&quot;);
+
+// Load directory iterator for source
+$it = new RecursiveIteratorIterator(
+    new RecursiveDirectoryIterator($src),
+    RecursiveIteratorIterator::SELF_FIRST
+);
+
+// For every valid item
+while ($it-&gt;valid()) {
+
+    // Exclude dot items (., ..)
+    if (!$it-&gt;isDot()) {
+
+        // If current item is a directory, the same empty directory
+        // is created on destination
+        if ($it-&gt;isDir()) {
+            $path = $dest . &#39;/&#39; . $it-&gt;getFileName();
+            if ((!@is_dir($path)) &amp;&amp; !@mkdir($path, 0777, true)) {
+                echo &quot;Unable to create folder {$path}\n&quot;;
+                exit(1);
+            }
+        }
+
+        // If current item is a markdown (*.md) file it&#39;s processed and
+        // saved at the coresponding destination path
+        if ($it-&gt;isFile() &amp;&amp; &#39;md&#39; == $it-&gt;getExtension()) {
+            $path = $it-&gt;key();
+            if (!is_readable($path)) {
+                echo &quot;Unable to read file {$path}\n&quot;;
+                exit(2);
+            }
+
+            $content = file_get_contents(
+                &#39;php://filter/read=markdown/resource=file://&#39; . $path
+            );
+            if (false === $content) {
+                echo &quot;Unable to read from source &#39;&quot; . $path . &quot;&#39;\n&quot;;
+                exit(3);
+            }
+
+            $pathinfo = pathinfo($dest . &#39;/&#39; . $it-&gt;getSubPathName());
+            $target = $pathinfo[&#39;dirname&#39;]
+                . &#39;/&#39; . $pathinfo[&#39;filename&#39;] . &#39;.html&#39;;
+
+            $result = file_put_contents(
+                &#39;php://filter/write=template.&#39; .
+                base64_encode(basename($path)) . &#39;/resource=file://&#39; . $target,
+                $content
+            );
+            if (false === $result) {
+                echo &quot;Unable to write file &#39;&quot; . $target . &quot;&#39;\n&quot;;
+                exit(4);
+            }
+
+        }
+    }
+
+    $it-&gt;next();
+}
+
+exit(0);</code></pre>
+<p>First we include our autoloader, then we go ahead with argument validation: </p>
+<ul>
+<li>the command line must match the above example,</li>
+<li>the source directory must exist end be readable,</li>
+<li>the destination directory must exist and be writeable.</li>
+</ul>
+<p>Then we register the custom filters (with full class path, remember) and instantiate a <code>RecursiveIteratorIterator</code> object to walk the source directory recursively. The main loop cycles through all valid elements fetched by the iterator. All the elements, excluding the dotfiles, are processed as follows:</p>
+<ul>
+<li>if the current element is a directory, try to re-create the relative path with the same name starting from the destination path.</li>
+<li>if the current element is a markdown file (<em>.md) the content of the file is read into a variable using the <code>markdown</code> read filter, then a new file with the <code>.html</code> extension is written at the same relative path starting from the destination directory with the `template.</em>` filter applied.</li>
+</ul>
+<p>The result is your documentation directory structure fully converted into HTML with one command. Not bad.</p>
+<h2>Summary</h2>
+<p>We covered a lot of useful ground here and we also have a fully functional utility to&#8230; ehm, &quot;append&quot; to our tool chain. I&#39;ll leave it up to you to take it further and create other tools and component like this to enhance our projects. Happy coding!</p>
+<p>The post <a href="http://www.sitepoint.com/using-php-streams-effectively/">Using PHP Streams Effectively</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/using-php-streams-effectively/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Forking and IPC in Ruby, Part II</title>
+		<link>http://www.sitepoint.com/forking-ipc-ruby-part-ii/</link>
+		<comments>http://www.sitepoint.com/forking-ipc-ruby-part-ii/#comments</comments>
+		<pubDate>Wed, 20 Nov 2013 14:30:42 +0000</pubDate>
+		<dc:creator>Glenn Goodrich</dc:creator>
+				<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[Ruby Tutorials]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=73115</guid>
+		<description><![CDATA[<p>In the first article, we examined why the fork() system call is useful and where it fits into the grand scheme of things. We saw that by passing a block to Kernel#fork or Process#fork it is possible to execute arbitrary code concurrently (or in parallel if there are multiple processors). In addition, we saw that [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/forking-ipc-ruby-part-ii/">Forking and IPC in Ruby, Part II</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/Fotolia_8099784_Subscription_XL-300x165.jpg" alt="Fork of three roads" width="300" height="165" class="aligncenter size-medium wp-image-73117" />
+<p>In the <a href="http://www.sitepoint.com/?p=73112" title="Part 1">first article</a>, we examined why the <code>fork()</code> system call is useful and where it fits into the grand scheme of things. We saw that by passing a block to <code>Kernel#fork</code> or <code>Process#fork</code> it is possible to execute arbitrary code concurrently (or in parallel if there are multiple processors). In addition, we saw that although forking is relatively expensive, it can compete with threading if the Ruby implementation doesn&#8217;t squander Copy-on-Write optimization.</p>
+<p>Unfortunately, if a method is called in a fork, any data that it produces will not be available to the parent process, due to process isolation. What we need is a conduit through which we can pass data between processes. Here, in Part II, we&#8217;re going to cover some interprocess communication mechanisms as well as more ways that you can utilize <code>fork</code>.</p>
+<p>The code in this article is available at <a href="https://github.com/rlqualls/ruby_forking_tutorial">github</a>.</p>
+<h2>Pipes</h2>
+<p>Pipes enable data to flow in one direction between a pair of file descriptors.  Since forks inherit open file descriptors, pipes can be used to communicate data between parent and child processes. Creating a pipe in Ruby is easy with IO#pipe.</p>
+<pre class="brush: ruby; title: ; notranslate">
+&gt;&gt; reader, writer = IO.pipe
+=&gt; [#&lt;IO:fd 5&gt;, #&lt;IO:fd 6&gt;]
+</pre>
+<p>Here, writer will only write, and reader will only read. Sounds simple, but unfortunately there are some nuances. If you want to use a pipe more than once, <code>IO#puts</code> complemented by <code>IO#gets</code> is the simplest way, </p>
+<pre class="brush: ruby; title: ; notranslate">
+&gt;&gt; writer.puts(&quot;hello world&quot;)
+&gt;&gt; reader.gets
+=&gt; &quot;hello world\n&quot;
+
+&gt;&gt; writer.puts(&quot;hello world, again&quot;)
+&gt;&gt; reader.gets
+=&gt; &quot;hello world, again\n&quot;
+</pre>
+<p>Pipes communicate data using byte streams, so they need delimiters to know when to stop reading data. <code>IO#gets</code> reads until it receives a &#8220;\n&#8221;. Unlike <code>IO#puts</code>, <code>IO#write</code> does not automatically append &#8220;\n&#8221; to data, so a <code>IO#gets</code> followed by a <code>IO#write</code> will block indefinitely.</p>
+<pre class="brush: ruby; title: ; notranslate">
+&gt;&gt;writer.write(&quot;this string is terminated\n&quot;)
+&gt;&gt;reader.gets
+=&gt; &quot;this string is terminated\n&quot;
+
+&gt;&gt; writer.write(&quot;this string is not terminated&quot;)
+&gt;&gt; reader.gets
+*waits indefinitely for \n*
+</pre>
+<p>Unlike <code>IO#gets</code>, <code>IO#read</code> will wait indefinitely for EOF. IO objects signal EOF when closed, so you will only use <code>IO#read</code> for one-time writes.</p>
+<pre class="brush: ruby; title: ; notranslate">
+&gt;&gt;reader,writer = IO.pipe
+&gt;&gt;writer.write(&quot;hello world&quot;)
+&gt;&gt;writer.close
+&gt;&gt;reader.read
+=&gt; &quot;hello world&quot;
+&gt;&gt;reader.read
+=&gt; &quot;&quot;
+</pre>
+<p>Ok, so how would we connect a pipe between a parent process and one of its children? Thanks to the fact that variables and file descriptors will be shared, we only need to create a pipe once. However, since the fork will copy both ends of the pipe (reader and writer), we need to pick two extra ends and close them. Here is how you would send data from a child to parent.</p>
+<pre class="brush: ruby; title: ; notranslate">
+child_parent_pipe.rb
+# creates a fork and pipes a string from child to parent
+
+reader,writer = IO.pipe
+
+fork do
+  reader.close
+  writer.puts &quot;sent from child process&quot;
+end
+
+writer.close
+from_child = reader.gets
+puts from_child
+</pre>
+<p>We can also make it work the other way. Just make sure to close the writer on the end that will read and the reader on the end that will write.</p>
+<pre class="brush: ruby; title: ; notranslate">
+parent_child_pipe.rb
+# creates a fork and pipes a string from parent to child
+
+reader,writer = IO.pipe
+
+fork do
+  writer.close
+  from_parent = reader.gets
+  puts from_parent
+end
+
+reader.close
+writer.write &quot;sent from parent process&quot;
+</pre>
+<h2>UNIX-Sockets</h2>
+<p>You can think of UNIX domain sockets as pipes with two big advantages:</p>
+<ul>
+<li>UNIX sockets are bidirectional whereas pipes are unidirectional</li>
+<li>Pipes can only use byte steams, but UNIX sockets can also use datagrams</li>
+</ul>
+<p>Unlike regular sockets, they can only communicate data between two points on the same machine, using the filesystem as their address space. As a result, they can be very lightweight, making them a good fit for interprocess communication.</p>
+<pre class="brush: ruby; title: ; notranslate">
+unix_sockets.rb
+# creates a pair of UNIX sockets that send and receive a string
+
+require 'socket'
+parent_socket, child_socket = UNIXSocket.pair
+
+fork do
+  parent_socket.close
+  child_socket.send(&quot;sent from child (#{$$})&quot;, 0)
+  from_parent = child_socket.recv(100)
+  puts from_parent
+end
+
+child_socket.close
+parent_socket.send(&quot;sent from parent (#{$$})&quot;, 0)
+from_child = parent_socket.recv(100)
+puts from_child
+</pre>
+<h2>Distributed Ruby</h2>
+<p>Both pipes and UNIX sockets have a couple of downsides:</p>
+<ol>
+<li>They are low-level, byte-transmission mechanisms. For complex behavior you will need to implement existing protocols or define your own.</li>
+<li>They cannot communicate across the machine barrier, limiting their usability in massively-scalable scenarios.</li>
+</ol>
+<p>Distributed Ruby lets you create and consume what might be called &#8220;distributed object services.&#8221; Theses services let you execute code remotely by sending messages to distributed objects. </p>
+<p>We execute code on remote machines all the time, but we do it through quite a bit of indirection. For example, let&#8217;s say you go to a web address like http://searchforallthestuffs.com/search?q=ponies. Your request hits a router which sees the route you specified and passes the arguments to the corresponding controller, which then executes the code associated with that route (generate an html view, JSON, XML, etc).</p>
+<p>If your goal is to execute code remotely, this&#8230;kinda sucks. Every time you add a new feature, you need a route in place and perhaps a new controller. That&#8217;s a lot of overhead just to add a method to a class.</p>
+<p>Distributed objects let you execute code remotely, but with an object receiving the message rather than an address. </p>
+<pre class="brush: ruby; title: ; notranslate">
+distributed.rb
+# Creates several worker processes and concurrently waits for the fastest one
+
+require 'drb'
+
+NUM_WORKERS = 4
+
+class Worker
+
+  def calculate
+    time_to_work = rand(1..7)
+    sleep time_to_work
+    return time_to_work
+  end
+
+  def stop
+    DRb.stop_service
+  end
+end
+
+# Start object services
+NUM_WORKERS.times do |i|
+  DRb.start_service(&quot;druby://:700#{i}&quot;, Worker.new)
+  puts &quot;Worker running at #{DRb.uri}&quot;
+end
+
+# Create a local end-point for each service
+workers = NUM_WORKERS.times.map { |i| DRbObject.new nil, &quot;druby://:700#{i}&quot; }
+
+# Concurrently wait for the fastest calculation
+thread_pool = []
+NUM_WORKERS.times do |i|
+  thread_pool &lt;&lt; Thread.new do
+    answer = workers[i].calculate
+    puts &quot;Worker #{i} finished in #{answer} seconds&quot;
+  end
+end
+
+# Wait for every thread to get its answer
+thread_pool.each(&amp;:join)
+
+# Shut down each worker
+workers.each { |w| w.stop }
+</pre>
+<h2>Moving Objects between Processes</h2>
+<p>Since low-level communication constructs like pipes and sockets transfer bytes, not objects, you will need to encode your objects into a byte format &#8212; i.e. serialize them &#8212; in order to move them across the process barrier.</p>
+<p>Fortunately, Ruby ships with <code>Marshal</code> which can serialize <strong>most</strong> Ruby objects.</p>
+<p>From <a href="http://ruby-doc.org/core-1.9.3/Marshal.html">Ruby-Doc.org</a>: &#8220;Some objects cannot be dumped: if the objects to be dumped include bindings, procedure or method objects, instances of class IO, or singleton objects, a TypeError will be raised.&#8221;</p>
+<pre class="brush: ruby; title: ; notranslate">
+serialization.rb
+# Ruby objects can be serialized by Marshal to move across pipes
+# or sockets
+
+Tire = Struct.new(:radius, :pressure)
+
+reader, writer = IO.pipe
+
+fork do
+  reader.close
+  tire = Tire.new(7, 28)
+  tire_data = Marshal.dump(tire)
+  writer.write tire_data
+end
+
+writer.close
+tire_data = reader.gets
+tire = Marshal.load(tire_data)
+puts tire.inspect
+</pre>
+<h2>Creating a Module for Asynchronous Method Calls</h2>
+<p>If you can move objects between process, then you can execute a method in another process and get the result back in the original. This effectively enables asynchronous method execution.</p>
+<p>Here, I have a module called Forkable that gives a class the ability to execute methods in parallel. The only thing that is different from before is that the pipe is read from in a new thread, and what comes out of the pipe is yielded to the block.</p>
+<pre class="brush: ruby; title: ; notranslate">
+forkable.rb
+# A module that lets you fork a method and get its result in a block
+# Notes: 
+#   1. Forked methods can't take blocks in this implementation
+#   2. Call back threads will be destroyed if the main process exits
+#   3. Not production ready. For educational purposes only.
+####################################################################
+
+# If included in a class #fork_method will run a method in another process
+# and yield the result to a block
+module Forkable
+  def fork_method(method, *args)
+    reader, writer = IO.pipe
+    fork do
+      reader.close
+      result = self.send(method, *args)
+      child_data = Marshal.dump(result)
+      writer.puts(child_data)
+    end
+
+    writer.close
+    Thread.new do
+      data_from_child = reader.gets
+      yield Marshal.load(data_from_child) if block_given?
+    end
+  end
+end
+
+# An object that takes a random amount of time to instantiate
+class ExpensiveObject
+
+  attr_reader :expense
+
+  def initialize(max_expense)
+    @expense = rand(1..max_expense)
+    sleep @expense
+  end
+end
+
+# A worker that forks, a...forker
+class Forker
+  include Forkable
+
+  def calculate(max_expense)
+    return ExpensiveObject.new(max_expense)
+  end
+end
+
+# Create 3 ExpensiveObjects and print how long they took to create
+f = Forker.new
+3.times do 
+  f.fork_method(:calculate, 7) do |result|
+    puts &quot;result: #{result.inspect}&quot;
+  end
+end
+
+puts &quot;waiting on results...&quot;
+
+Process.waitall
+puts &quot;main process finished&quot;
+</pre>
+<h2>Cod</h2>
+<p><a href="http://kschiess.github.io/cod/">Cod</a> is a library that aims to make IPC easier in Ruby. In the previous section, I demonstrated how to serialize objects for transfer across byte-transmission mechanisms like pipes or sockets. Cod takes care of this for us. It uses higher-level IPC mechanisms it calls channels. Not only do channels not need to be closed on one end in each process, but they can also transmit Ruby objects. A channel is created in Cod (however oddly) with <code>Cod#pipe</code>.</p>
+<pre class="brush: ruby; title: ; notranslate">
+cod.rb
+# The cod gem simplifies IPC. Ruby objects can be sent across channels.
+# Installation: 
+#   $ gem install cod
+
+require 'cod'
+
+Tire = Struct.new(:radius, :pressure)
+
+channel = Cod.pipe
+
+3.times do
+  fork do
+    radius = rand(8..14)
+    pressure = rand(24..33)
+    channel.put Tire.new(radius, pressure)
+  end
+end
+
+tires = 3.times.map { channel.get }
+puts tires.inspect
+</pre>
+<p>The cod gem does more than I can cover here (for example, it has beanstalkd integration). The website has a lot of examples, so definitely check it out.</p>
+<h2>Pre-forking Servers</h2>
+<p>Let&#8217;s look at a common example of forking in practice: servers. Some servers that use forking to achieve parallelism include:</p>
+<ul>
+<li>Apache (Prefork MultiProcessing Module)</li>
+<li>Unicorn</li>
+<li>Rainbows! (based on Unicorn)</li>
+</ul>
+<p>Specifically, forking servers generally use pre-forking. The concept works like this: forking a process might be cheaper than copying one, but it&#8217;s not free. Since running a web server generally consists of opening and closing lots of short-lived connections, it might not be a good idea to wait to create a new child process until a new connection is accepted. Instead, we can go ahead and fork a few times and let the forks wait for connections. You will often see this described as running a &#8220;pool of processes.&#8221;</p>
+<p>So what might that look like?</p>
+<pre class="brush: ruby; title: ; notranslate">
+preforking.rb
+# Starts an echo server that can service 3 clients in parallel
+
+require 'socket'
+
+server = TCPServer.new 'localhost', 3000
+
+trap(&quot;EXIT&quot;) { socket.close }
+trap(&quot;INT&quot;) { exit }
+
+3.times do
+  fork do
+    sock = server.accept
+    sock.puts &quot;You are connected to process #{$$}:&quot;
+    while recv = sock.gets
+      sock.puts(&quot;ECHO:&gt; #{recv}&quot;)
+    end
+  end
+end
+
+Process.waitall
+</pre>
+<p>If you run this code, you should be able to connect on 3 separate terminals.</p>
+<pre class="brush: bash; title: ; notranslate">
+telnet localhost 3000
+</pre>
+<h2>The Parallel Gem</h2>
+<p><a href="https://github.com/grosser/parallel">The parallel gem</a> provides the ability to achieve parallelism in CRuby (MRI) without getting into the nitty-gritty of forks and IPC. Here is a quick way to spool up all of your CPU cores with parallel.</p>
+<pre class="brush: ruby; title: ; notranslate">
+parallel.rb
+# Parallel iterates across collections with processes or threads
+# Installation: 
+#   $ gem install parallel
+
+require 'parallel'
+
+def calculate(magnitude)
+  x = 0
+  cycles = 10 ** magnitude
+  cycles.times do
+    x += 1.000001
+  end
+  return x
+end
+
+results = Parallel.map([6, 6, 6, 6, 7, 7, 7, 7]) do |mag|
+  calculate(mag)
+end
+
+puts results
+</pre>
+<p>SitePoint already <a href="http://www.sitepoint.com/code-safari-forks-pipes-and-the-parallel-gem/">has a great article</a> about the parallel gem that explores its inner workings (at least as of 2011).</p>
+<p>Programmers often avoid looking at source code out of fear of it turning into a massive time sink. The parallel gem, however, is a fairly small, one file library. There&#8217;s a great opportunity to learn and contribute.</p>
+<h2>Conclusion</h2>
+<p>Even as other interpreters (JRuby, Rubinius) operate freely without a Global Interpreter Lock, a process-centric approach to concurrency is still useful. The more vertical an approach to scaling is, the more limited it will be. Running multiple threads on multiple cores might be more horizontal than increasing clock speed, but it is still more vertical than running multiple machines. Running 100 single core instances is more granular than running 25 quad core instances. Thinking in terms of processes sending messages enables you to embrace that kind of granularity. It won&#8217;t be easy, but once it works with a cluster of 10 instances, why not 100? Or 1000? Why not have 500 on one provider and 500 on another? They&#8217;re just processes sending messages.</p>
+<p>Spending a bunch of money up front on resources you may or may not use represents the old way of thinking. Why buy more than exactly what you need?</p>
+<p>The post <a href="http://www.sitepoint.com/forking-ipc-ruby-part-ii/">Forking and IPC in Ruby, Part II</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/forking-ipc-ruby-part-ii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Creating JavaScript Sliders Using Twitter Bootstrap 3</title>
+		<link>http://www.sitepoint.com/creating-javascript-sliders-using-twitter-bootstrap-3/</link>
+		<comments>http://www.sitepoint.com/creating-javascript-sliders-using-twitter-bootstrap-3/#comments</comments>
+		<pubDate>Wed, 20 Nov 2013 11:52:55 +0000</pubDate>
+		<dc:creator>Syed Fazle Rahman</dc:creator>
+				<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[jQuery]]></category>
+		<category><![CDATA[Tools and Libraries]]></category>
+		<category><![CDATA[Web Design]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=73323</guid>
+		<description><![CDATA[<p>Twitter Bootstrap 3 is one of the best CSS frameworks for developing and designing content management systems. It is easy to design blogs, portfolios and profiles using Twitter Bootstrap’s grid layouts. One thing that many types of CMS have in common is the “Slider”. A sequential automated display of images, a slider can be anything: [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/creating-javascript-sliders-using-twitter-bootstrap-3/">Creating JavaScript Sliders Using Twitter Bootstrap 3</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Twitter Bootstrap 3 is one of the best CSS frameworks for developing and designing content management systems. It is easy to design blogs, portfolios and profiles using Twitter Bootstrap’s grid layouts. One thing that many types of CMS have in common is the “Slider”. A sequential automated display of images, a slider can be anything: showcasing your latest projects, showing off your client&#8217;s assets, describing special offers, linking to news items, or highlighting your latest blog posts. </p>
+<p>In this article, we will learn how to create a JavaScript slider using Twitter Bootstrap 3’s Carousel Component.</p>
+<h2>Understanding Twitter Bootstrap 3 Carousel Component</h2>
+<p>The markup for the Carousel Component goes as follows:</p>
+<pre class="brush: xml; title: ; notranslate">&lt;div id=&quot;carousel-example-generic&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+
+  &lt;!-- Indicators --&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;!-- Slider Content (Wrapper for slides )--&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
+    &lt;div class=&quot;item active&quot;&gt;
+      &lt;img src=&quot;...&quot; alt=&quot;...&quot;&gt;
+      &lt;div class=&quot;carousel-caption&quot;&gt;
+        ...
+      &lt;/div&gt;
+    &lt;/div&gt;
+    ...
+  &lt;/div&gt;
+
+  &lt;!-- Controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#carousel-example-generic&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot;&gt;&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;right carousel-control&quot; href=&quot;#carousel-example-generic&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;</pre>
+<p>From the above code, we understand that Bootstrap 3 carousel is divided into three major sections:</p>
+<ol>
+<li>Indicators</li>
+<li>Slider content</li>
+<li>Controls</li>
+</ol>
+<p><a href="http://extremecss.com/demos/bs_carousel/">See the live demo</a> of the slider created using the default Bootstrap 3 structure. </p>
+<p>To set any div as the slider, we have to apply the classes <code>carousel</code> and <code>slide</code>. The <code>carousel</code> class defines the element as an element with a “merry-go-round” feature. The <code>slide</code> is applied to add the slide effect when the slider changes. </p>
+<p><strong>Indicators</strong> are the small circles placed at the bottom center of the slider to indicate the current slide position and the number of sliders in total. Indicators are declared using an ordered list.</p>
+<pre class="brush: xml; title: ; notranslate">&lt;ol class=&quot;carousel-indicators&quot;&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+  &lt;/ol&gt;</pre>
+<p>The ordered list is given the class <code>carousel-indicators</code> to make the child elements look like small circles. Each <code>li</code> element must have a <code>data-target</code> attribute with the value as the id of the parent carousel div. They must also have a unique <code>data-slide-to</code> attribute with integer values as strings in an incremental order starting from “0”. </p>
+<p><strong>Slider content</strong> is the main portion of the slider. It is in this space we will place our slider’s content. The slider content area is defined using the class <code>carousel-inner</code>. This div can again have unlimited <code>item</code> divs. The first <code>item</code> div must have an active class defined. </p>
+<pre class="brush: xml; title: ; notranslate">&lt;div class=&quot;carousel-inner&quot;&gt;
+    &lt;div class=&quot;item active&quot;&gt;
+      &lt;img src=&quot;...&quot; alt=&quot;...&quot;&gt;
+      &lt;div class=&quot;carousel-caption&quot;&gt;
+        ...
+      &lt;/div&gt;
+    &lt;/div&gt;
+    ...
+  &lt;/div&gt;</pre>
+<p>Each <code>item</code> div has two subsections: <code>image</code> and <code>carousel-caption</code>. The image is used as full width display content in the slider. The <code>carousel-caption</code> is placed floating over its respective image. You can place either an <code>&lt;h3&gt;&lt;/h3&gt;</code> element or a <code>&lt;p&gt;&lt;/p&gt;</code> element &#8211; or even both &#8211; inside the <code>carousel-caption</code>. </p>
+<p><strong>Controls</strong> are the left and right arrow marks that are used to manually change the slider. </p>
+<pre class="brush: xml; title: ; notranslate">&lt;!-- Controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#carousel-example-generic&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot;&gt;&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;right carousel-control&quot; href=&quot;#carousel-example-generic&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;</pre>
+<p>There should be two <code><a></a></code> elements: one for each arrow. The first <code><a></a></code> element will have a span with the <code>glyphicon glyphicon-chevron-left</code> class to show the left arrow, and the second <code><a></a></code> element will have <code>glyphicon glyphicon-chevron-right</code> to show the right arrow. Since Bootstrap uses fonts instead of images to show the icons, we have to follow glyphicon classes to show the icons. </p>
+<p>That’s it! You have successfully created a slider for your website. Plus, we didn’t write a single line of JavaScript to make it work. bootstrap.js does things automatically for you. </p>
+<h2>Carousel Options</h2>
+<p>You can further customize the default functions of the slider by adding some more <code>data-*</code> attributes to the parent carousel div. </p>
+<p><code>data-interval</code> is used to indicate the time gap between each slide. It takes a number as the value and the number represents milliseconds. </p>
+<p><code>data-pause</code> is used to define when to pause the sliding activity. If the value is “hover” it stops sliding when the mouse is placed on the slider. </p>
+<p><code>data-wrap</code> is a boolean attribute which tells whether or not the slider should continue sliding from the beginning once the end is reached. </p>
+<h2>For JQuery Geeks</h2>
+<p>Well, if you love using jQuery and <code>data-*</code> attributes are not your cup of tea, then Bootstrap allows you to initialize sliders using JavaScript, too!</p>
+<p>To make a carousel div work like a carousel, you have to write the following snippet:</p>
+<pre class="brush: jscript; title: ; notranslate">$('.carousel').carousel()</pre>
+<p>The Carousel options can then be set by passing a JSON object inside the carousel function. </p>
+<p>For example:</p>
+<pre class="brush: jscript; title: ; notranslate">$('.carousel').carousel({
+  interval: 2000,
+  pause: “hover”,
+    wrap: true
+})</pre>
+<p>You can also manually trigger slider events using snippets like the ones below:</p>
+<pre class="brush: jscript; title: ; notranslate">.carousel('pause') // to pause the slider
+.carousel('cycle') // to cycle through the slider items
+.carousel(2) // to forcibly display the the 3rd slide in the slider
+.carousel('prev') // to show the previous slide
+.carousel(‘next’) // to show the next slide in the slider</pre>
+<p>The above methods may be called from within any JavaScript code to manipulate the normal working of the slider. I do find the <code>prev</code> and <code>next</code> methods very useful when I want to display my own buttons instead of Bootstrap’s arrows. Especially when they are placed outside the carousel’s parent div. </p>
+<h2>Conclusion</h2>
+<p>Hopefully, you have enjoyed learning how to create JavaScript sliders without writing thousands of lines of JavaScript code. </p>
+<p>I think, when used properly, Twitter Bootstrap’s JavaScript Components will prove to be an essential part of your development process. </p>
+<p>They will surely save you the most development time. Most importantly, they are cross browser compatible, so you don’t have to tear your hair out in order to make them work in older browsers. </p>
+<p><a href="http://extremecss.com/demos/bs_carousel/">Visit the Demo Page.</a></p>
+<p><a href="http://www.sitepoint.com/twitter-bootstrap-3-javascript-components/">Read more about Twitter Bootstrap’s JavaScript Components.</a> </p>
+<p>If you are new to it, you can <a href="http://www.sitepoint.com/understanding-twitter-bootstrap-3/">start learning Twitter Bootstrap here</a>. </p>
+<p>If you have any suggestions or feedback on this article, do mention them below in the comments section. I will be happy to hear them and help where I can.</p>
+<p>The post <a href="http://www.sitepoint.com/creating-javascript-sliders-using-twitter-bootstrap-3/">Creating JavaScript Sliders Using Twitter Bootstrap 3</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/creating-javascript-sliders-using-twitter-bootstrap-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Essential Content Marketing Tools, Part 1</title>
+		<link>http://www.sitepoint.com/essential-content-marketing-tools-part-1/</link>
+		<comments>http://www.sitepoint.com/essential-content-marketing-tools-part-1/#comments</comments>
+		<pubDate>Tue, 19 Nov 2013 17:01:07 +0000</pubDate>
+		<dc:creator>John Tabita</dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Content Marketing]]></category>
+		<category><![CDATA[Social Media]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=73286</guid>
+		<description><![CDATA[<p>Last week, in Building an Audience to Build Your Business, I said that there are two parts to content marketing: creating and sharing. To recap, here&#8217;s Copyblogger&#8217;s definition of Content Marketing: Content Marketing means creating and sharing valuable free content to attract and convert prospects into customers, and customers into repeat buyers. The type of [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/essential-content-marketing-tools-part-1/">Essential Content Marketing Tools, Part 1</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Last week, in <a href="http://www.sitepoint.com/building-audience-build-business/">Building an Audience to Build Your Business</a>, I said that there are two parts to content marketing: creating and sharing. To recap, here&#8217;s <a href="http://www.copyblogger.com/content-marketing/">Copyblogger&#8217;s</a> definition  of Content Marketing:</p>
+<blockquote><p>Content Marketing means creating and sharing valuable free content to attract and convert prospects into customers, and customers into repeat buyers. The type of content you share is closely related to what you sell; in other words, you&#8217;re educating people so that they know, like, and trust you enough to do business with you.</p></blockquote>
+<p>But before you can be a person who creates and shares valuable content, you must first be a person who <em>consumes</em> valuable content.</p>
+<p>To truly become an expert in your field (as opposed to merely convincing others you are), reading relevant articles and books by people smarter than you ought to be part of your regular routine. So first and foremost, I read to better myself and my knowledge of the industry.</p>
+<p>But I also know to be as effective as possible, I must leverage my activities. So when I read an article that I also want to share, I have a system in place to share that content immediately, schedule it to post on a specific date, or save it for later.</p>
+<p>My system has evolved over time. Initially, I consumed all my content on a desktop or laptop. But as I obtained mobile devices, I needed ways to share and save content from these as well. And since I don&#8217;t use either exclusively, these tools had to sync to one another, so that content I saved from my smartphone could be accessed from my laptop when I was ready to actually share or schedule it.</p>
+<h2>Setting Up Your Content Sharing Tools</h2>
+<p>This article will focus on setting yourself up with the tools I use, without necessarily explaining why or how I use them. Next week, I&#8217;ll show you why and how I use each one—and how you can, too. </p>
+<p>Here&#8217;s what you&#8217;ll need to get started:</p>
+<ol>
+<li>Social media profiles (obviously)</li>
+<li>Evernote account</li>
+<li>HootSuite account</li>
+<li>Feedly account and smartphone app</li>
+<li>Zite account and smartphone app</li>
+</ol>
+<p>Each of these have both free and pro accounts, but everything I’m about to describe can be done using the free versions. Here’s how to set each one up.</p>
+<h3>Evernote</h3>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/evernote.png" alt="evernote" width="770" height="540" class="alignnone size-full wp-image-73287" /></p>
+<p>Evernote allows you to create or save formatted text, web pages or excerpts, photographs, or even voice memos as notes within the application. To say that Evernote is note-taking application is an understatement, but for our purposes, it&#8217;s a place to save articles to share later.</p>
+<p>Evernote is available both as a desktop and web app, as well as iOS, Android, Windows phone, and Blackberry mobile apps—all of which sync to one another.</p>
+<p>After you <a href="http://evernote.com/">create an account</a>, install the <a href="http://evernote.com/webclipper/"> Evernote Web Clipper</a> (available for all major browsers). Once you do, you’ll see its icon at the top right corner of your browser:</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/evernote_icon.png" alt="evernote browser icon" width="282" height="156" class="alignnone size-full wp-image-73288" /></p>
+<p>Now, download the smartphone app and log into your account.</p>
+<h3>HootSuite</h3>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/hootsuite.png" alt="HootSuite" width="770" height="540" class="alignnone size-full wp-image-73289" /></p>
+<p>HootSuite allows you to manage multiple social media profiles from a single interface. But even if you’re active on just one, there are a number of advantages to using it.</p>
+<p>Head over to <a href="http://www.hootsuite.com/">HootSuite</a> and create your account, then <a href= "https://help.hootsuite.com/entries/21980037-Adding-and-Removing-My-Social-Networks">add your social media profile(s)</a>.</p>
+<p>Next, install HootSuite’s <a href="https://hootsuite.com/features/extensions/hootlet">Hootlet browser extension</a>.</p>
+<p>If you’re using Firefox or Chrome, the Hootlet icon will appear on the upper right, just like Evernote’s. IE users will need to drag the Bookmarklet icon to your bookmark toolbar for the same functionality.</p>
+<h3>Feedly</h3>
+<p>Feedly is an RSS reader that allows you to pull in content from your favorite websites and blogs into one handy interface.</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/feedly.png" alt="feedly" width="770" height="538" class="alignnone size-full wp-image-73290" /></p>
+<p>Start off by <a href="http://cloud.feedly.com/">creating your account</a>. You can add content by clicking the <strong>+Add Content</strong> text at the top left, then pasting the link to the website or blog you want to add. You can also create categories for better organization, if you like.</p>
+<p>Next, download the Feedly smartphone app and log in.</p>
+<h3>Zite</h3>
+<p>Zite is similar to Feedly in that it pulls content into a single interface. But rather than picking specific websites or blogs, Zite pulls in relevant content based on the topics you choose. </p>
+<p>The other way it differs from Feedly is that it’s only available as a smartphone and tablet app. So all you must do is download the app, create an account and set up your topics.</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/zite.png" alt="Zite" width="360" height="540" class="alignnone size-full wp-image-73295" /></p>
+<p>Next, connect your Evernote account:</p>
+<ul>
+<li>Open an article in Zite, </li>
+<li>Press the ‘Share’ icon</li>
+<li>Select ‘More…’ from the menu</li>
+<li>Under ‘Service’ you’ll see options to connect to various accounts</li>
+</ul>
+<p>Why do I use both when each does more-or-less the same thing? Because with Feedly, I can be sure not to miss articles from my favorite websites or authors; whereas, these may or may not appear in my Zite feed. </p>
+<p>Conversely, Zite ensures I find articles on my topics of interest from sites <em>all over</em> the web, and not just ones I’ve subscribed to.</p>
+<p>Ultimately, it&#8217;s your choice to use one or the other, or both. Feedly and Zite are the tools I primarily use when relaxing and reading at day&#8217;s end. As I said, consuming content is part of my regular schedule, and these tools help me do so.</p>
+<p>Built into these tools is the ability to save content I&#8217;d like to share later. In my next article, I&#8217;ll discuss how I use each of these tools to save, schedule, and share useful content.</p>
+<p>The post <a href="http://www.sitepoint.com/essential-content-marketing-tools-part-1/">Essential Content Marketing Tools, Part 1</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/essential-content-marketing-tools-part-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Beginners Guide to DOM Selection with jQuery</title>
+		<link>http://www.sitepoint.com/beginners-guide-dom-selection-jquery/</link>
+		<comments>http://www.sitepoint.com/beginners-guide-dom-selection-jquery/#comments</comments>
+		<pubDate>Tue, 19 Nov 2013 14:01:54 +0000</pubDate>
+		<dc:creator>Rakhitha Nimesh</dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[jQuery]]></category>
+		<category><![CDATA[Tools and Libraries]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=73284</guid>
+		<description><![CDATA[<p>As front end developers or designers, you will have to work with the Document Object Model &#8211; also known as the DOM &#8211; in your day to day projects. Selecting elements within the DOM and applying dynamic functionality has become more widespread with the improvement of JavaScript techniques in recent years. So we need to [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/beginners-guide-dom-selection-jquery/">Beginners Guide to DOM Selection with jQuery</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>As front end developers or designers, you will have to work with the Document Object Model &#8211; also known as the DOM &#8211; in your day to day projects. Selecting elements within the DOM and applying dynamic functionality has become more widespread with the improvement of JavaScript techniques in recent years.  So we need to have sound knowledge in working with DOM elements in order to avoid conflicts and optimize performance. </p>
+<p>jQuery is one of the most popular and commonly used JavaScript libraries, with advanced DOM selection and filtering features. In this article, we are going to look at how we can filter the DOM elements by considering practical scenarios with the help of jQuery.</p>
+<p>Let’s get started.</p>
+<h2>Introduction to IDs, Classes and Data Attributes</h2>
+<p>Generally, we use HTML element tags, IDs, classes and data attributes for selecting elements within the DOM tree. Most developers are familiar with using HTML tags for selection. But novice developers tend to misuse IDs, classes and data attributes without knowing the exact meaning and the necessity for them in various scenarios. So let’s identify the each of the three options before we move into the practical scenarios.</p>
+<p><strong>ID </strong>- is used as a unique identifier within the document. So we shouldn&#8217;t be using same ID for multiple elements, even though it’s possible. Generally, we use element ID to select elements with jQuery.</p>
+<p><strong>Class </strong>- is used to style element using CSS. But often classes are used for filtering and selecting elements when an element can’t be filtered using an ID.</p>
+<p><strong>Data attributes</strong> &#8211; are used to define private data for an element. We can have multiple data attributes for a single element to store all the data required for front end functionality.</p>
+<h2>Practical Scenarios for Using IDs, Classes and Data Attributes</h2>
+<p>In this section, we are going to look at some of the common use cases for using these filtering and selecting options and how each option suits different scenarios. Practically, there are unlimited possibilities for using these options in different scenarios. So we will be looking at the most important ones, considering the scope of this article.</p>
+<h3>Scenario 1 &#8211; Selecting unique element within the document</h3>
+<p>This is the most basic and common scenario where we use to select any element. Selecting form values for validation can be considered a good example for such scenario. We use HTML element ID to select elements as shown in the following jQuery code.</p>
+<pre class="brush: jscript; title: ; notranslate">$(“#elementID”).val();</pre>
+<p>It’s important to prevent the duplication of elements with the same ID when using this method.</p>
+<h3>Scenario 2 &#8211; Selecting multiple elements using classes</h3>
+<p>Generally, we use a class attribute when we want to filter multiple elements within the document. Unlike IDs, we can have multiple elements with the same CSS class. Usually, these type of similar elements are generated through loops.</p>
+<p>Assume that we have a list of records containing user data as shown in the following HTML  code. We have a Delete button, where users can remove records by clicking.</p>
+<pre class="brush: xml; title: ; notranslate">&lt;table&gt;
+	&lt;tr&gt;&lt;td&gt;Mark&lt;/td&gt;&lt;td&gt;&lt;input type=’button’ class=’user_data’ value=’Delete’ /&gt;&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;John&lt;/td&gt;&lt;td&gt;&lt;input type=’button’  class=’user_data’  value=’Delete’ /&gt;&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Mike&lt;/td&gt;&lt;td&gt;&lt;input type=’button’ class=’user_data’  value=’Delete’  /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</pre>
+<p>Now we have multiple instances of similar elements and hence we can’t use ID to filter the exact record. Let’s see how we can filter the rows using the given CSS class.</p>
+<pre class="brush: jscript; title: ; notranslate">var rows = $(“.user_data”);</pre>
+<p>In the preceding code, the <code>rows</code> variable will have all three rows with the class <code>user_data</code>. Now let’s see how to remove the row on button click using the class selector.</p>
+<pre class="brush: jscript; title: ; notranslate">$(“.user_data”).click(function(){
+	$(this).parent().parent().remove();
+});</pre>
+<p>In this technique, we traverse through all the matched elements and executes functions on the current item using <code>$(this)</code> object, which points to the clicked button. This is the most widely used technique for working with multiple elements.</p>
+<p>Now let’s look at some of the common mistakes by beginner developers in such scenarios.</p>
+<ul>
+<li>
+<h4>Using IDs instead of classes</h4>
+<p>There are many occasions where developers use the same ID inside loops to generate similar HTML code instead of classes. Once the same ID is used, it will only affect the first element. Remaining elements will not work as expected. So make sure to create dynamic IDs within loops and use class name for element selection.</li>
+<li>
+<h4>Using class name instead of $(this) object</h4>
+<p>Another mistake made by many beginner developers is the lack of knowledge in the context and the use of the current object. When traversing through multiple elements, we can use jQuery <code>$(this)</code> to refer to current element.  Many developers use the class name within the loop and hence does not get the desired results. So never use class name within the loop as shown in the following code.</li>
+</ul>
+<pre class="brush: jscript; title: ; notranslate">	$(“.user_data”).click(function(){
+		$(“.user_data”).parent().parent().remove();
+});</pre>
+<p>This is a widely used technique for selecting elements and hence it’s important to know how to effectively use this technique. CSS classes are used for styling purposes. But here we are using them for element selection purposes. Using CSS classes for selection purposes is not the best technique and sometimes it can cause conflicts in your layouts. For example, when working with a team, developers might use CSS classes just for providing dynamic functionality with jQuery. Designers might note that these classes are not used for styling purposes and hence will have the possibility of removing them without knowing the importance.</p>
+<p>So it’s good practice to use some prefix for CSS classes, which are only used for various functionalities instead of styling purposes.</p>
+<h3>Scenario 3 &#8211; Selecting elements using multiple classes</h3>
+<p>There are applications and websites which depend heavily on JavaScript and provide highly dynamic client side functionalities. In such scenarios, we may use a large number of classes and IDs for filtering, selection and applying the features. </p>
+<p>Assume that we have a list of user records which needs to be filtered on the client side based on the role.  We can define the roles as CSS classes  to simplify the filtering process. Consider the following code snippet for this scenario.</p>
+<pre class="brush: xml; title: ; notranslate">&lt;ul&gt;
+	&lt;li class=’role-developer role-designer’ &gt;Mark&lt;/li&gt;
+&lt;li class=’role-developer ’ &gt;Simon&lt;/li&gt;
+&lt;li class=’role-developer role-manager’ &gt;Kevin&lt;/li&gt;
+&lt;/ul&gt;</pre>
+<p>Let’s assume we want to get users who have both developer and designer roles. In such cases, we can use multiple CSS classes as shown in the following code.</p>
+<pre class="brush: jscript; title: ; notranslate">var selected_users = $('.role-developer.role-designer');</pre>
+<p>We can use any number of classes, one after the other to match multiple classes on same element. Make sure not to use spaces between classes as it changes the meaning and result of the selection. Consider the same code line with spaces.</p>
+<pre class="brush: jscript; title: ; notranslate">var selected_users = $('.role-developer .role-designer');</pre>
+<p>Now the code will look for designers who have a parent element called developer. So get used to the difference between the two implementations and use it wisely. Similarly, we can mix IDs and classes while using this technique.</p>
+<h3>Scenario 4 &#8211; Selecting elements using data attributes</h3>
+<p>HTML5 introduced custom data attributes where we can define data related to HTML elements. These data attributes have a certain set of conventions and are considered to be private data. So now we can store the data related to any element using data attributes instead of making several AJAX requests to the server. Let’s see how we can implement Scenario 2, with custom data attributes instead of CSS classes. </p>
+<pre class="brush: jscript; title: ; notranslate">$( &quot;input[data-type=’user_data’]&quot; ).click(function(){
+    $(this).parent().parent().remove();
+});</pre>
+<p>As you can see, we can achieve the same result with data attributes, instead of CSS classes.</p>
+<p>jQuery provides advanced attribute selectors to support custom data attributes. So let’s consider some of the advanced selector options on custom attributes.</p>
+<p>Assume that we have user email stored as custom attributes and we want to select users based on certain conditions in email. Consider the following code snippet with the use of data attributes.</p>
+<pre class="brush: xml; title: ; notranslate">&lt;ul&gt;
+	&lt;li data-email=’mark@gmail.com’   data-type=’userdata’ &gt;Mark&lt;/li&gt;
+	&lt;li data-email=’kevin@yahoo.com’  data-type=’userdata’ &gt;Kevin&lt;/li&gt;
+	&lt;li data-email=’peter@gmail.uk’ data-type=’userdata’ &gt;Peter&lt;/li&gt;
+&lt;/ul&gt;</pre>
+<p>Selecting elements which have ‘gmail’ in their email</p>
+<pre class="brush: jscript; title: ; notranslate">$( &quot;input[data-email *=’gmail’]&quot; );</pre>
+<p>Selecting elements with a ‘uk’ email addresses</p>
+<pre class="brush: jscript; title: ; notranslate">$( &quot;input[data-email $=’.uk’]&quot; );</pre>
+<p>Selecting elements with invalid emails without the ‘@’ sign</p>
+<pre class="brush: jscript; title: ; notranslate">$( &quot;input[data-email !=’@’]&quot; );</pre>
+<p>As you can see data attributes are powerful in working with data related to HTML elements and jQuery provides comprehensive support with its built-in functions. You can find the complete attribute selector reference at <a href="http://api.jquery.com/category/selectors/attribute-selectors/">http://api.jquery.com/category/selectors/attribute-selectors/</a>.</p>
+<h3>Scenario 5  &#8211; Selecting elements using multiple data attributes</h3>
+<p>This is similar to what we discussed in Scenario 3 with some extended features. Using CSS classes to cater for multiple data values can be complicated in advanced scenarios. So let’s see how we can use multiple data attributes for selection.</p>
+<pre class="brush: jscript; title: ; notranslate">$( &quot;input[data-type=’userdata’][data-email !=’@’]&quot; );</pre>
+<p>Here, we can check the existence of multiple data attributes as well as selection through partial searching of values. Now you should be able to understand the difference between CSS classes and data attributes for element selection. Data attributes provide an organized way of handling element data.</p>
+<p>The techniques discussed here can be used in combination with other jQuery filters to cater any type of advanced situation and it’s important to use them wisely.</p>
+<h2>Wrap Up</h2>
+<p>This article was intended for beginners to understand the basics of element ID, classes and custom data attributes. We discussed each of them with practical scenarios with the help of jQuery built-in functions. While doing so, we also identified some novice developer mistakes. Let’s recap the points discussed in this article to build a useful guideline for DOM selection.</p>
+<ul>
+<li>Use ID as much as possible for element selection as it provides a unique identifier within the document.</li>
+<li>Use classes or data-attributes in multiple element scenarios, instead of relying on element ID.</li>
+<li>Make sure to differentiate your styling classes from the classes used for selection and functional purposes.</li>
+<li>Use data attributes for complex scenarios as classes are not intended to provide data about elements.</li>
+</ul>
+<p>Hope you had a good beginning to element selection through this article. If you have better guidelines and element selections techniques, feel free to share them in the comments section.</p>
+<p>The post <a href="http://www.sitepoint.com/beginners-guide-dom-selection-jquery/">Beginners Guide to DOM Selection with jQuery</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/beginners-guide-dom-selection-jquery/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Powering the Web with Python Web Frameworks</title>
+		<link>http://www.sitepoint.com/powering-web-python-web-frameworks/</link>
+		<comments>http://www.sitepoint.com/powering-web-python-web-frameworks/#comments</comments>
+		<pubDate>Tue, 19 Nov 2013 13:17:57 +0000</pubDate>
+		<dc:creator>Greg Bates</dc:creator>
+				<category><![CDATA[Django]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=73313</guid>
+		<description><![CDATA[<p>Introduction Web frameworks are primarily server-side technologies that are designed to accomplish a series of specialized tasks. As it relates, Python Web frameworks are module and package collections that enable developers to build Web applications without concern for certain details. These details, handled by the chosen framework, eliminate complexities such as performance bottlenecks. As such, [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/powering-web-python-web-frameworks/">Powering the Web with Python Web Frameworks</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<h2>Introduction</h2>
+<p>Web frameworks are primarily server-side technologies that are designed to accomplish a series of specialized tasks. As it relates, Python Web frameworks are module and package collections that enable developers to build Web applications without concern for certain details. These details, handled by the chosen framework, eliminate complexities such as performance bottlenecks. </p>
+<p>As such, developers are free to focus on Web development responsibilities, particularly application logic. Lastly, there are a number of Web frameworks that have been developed to facilitate Pythonic Web development, including Zope, CherryPy, and Django. </p>
+<h2>Developing a Web Application with Django</h2>
+<p>Django is a Python Web framework that is designed to support Rapid Application Development (RAD). Through its strict adherence to the Don&#8217;t Repeat Yourself (DRY) principle, Django facilitates the development of high-level, high-performing Web applications without the expense of time spent reinventing the wheel. Writing complete dynamic, data-driven Web sites and applications with Django is, therefore, a remarkably simple task with only two requisite steps:  </p>
+<ul>
+<li>Ensure that Python is installed. </li>
+<li>Download and install Django. </li>
+</ul>
+<p>Consider, for example, building a data-driven Web site. </p>
+<p>From the terminal, navigate to the desired location of the new Web site and launch the Python interactive shell by typing <code>python</code> at the prompt. Then, enter the following code: </p>
+<pre class="brush: plain; title: ; notranslate">django-admin.py startproject my_new_web_site1
+
+Here, the built-in command, &lt;code&gt;django-admin.py&lt;/code&gt;, is used to create an on-the-fly project named “my_new_web_site”; the name may be any desired name.
+
+Used to manage Django applications, the &lt;code&gt;django-admin.py&lt;/code&gt; executable shell supplies a project with a list of Django subcommands. In this example, the &lt;code&gt;startproject&lt;/code&gt; subcommand is used to create a Django project tree with the following structure: 
+
+1my_new_web_site/
+	manage.py
+  	my_new_web_site/
+		__init__.py
+		settings.py
+		urls.py
+		wsgi.py</pre>
+<p><code>my_new_web_site</code> represents the parent directory of the “my_new_web_site “ project. To avoid confusion, it is a good idea to rename this directory since Django, by default, uses the same name for the Python package.</p>
+<p><code>manage.p</code>y is a multi-purpose utility that is used to communicate with the project. </p>
+<p><code>my_new_web_site/my_new_web_site</code> represents the actual location of the project's Python package.</p>
+<p><code>settings.py</code> is where the project's various configurations are set and stored.</p>
+<p><code>urls.py</code> is an important file that serves various functions such as decoupling URLs from Python code and mapping between URL functions and Python callbacks (Django “views”).</p>
+<p><code>wsgi.py</code> is employed given the presence of a WSGI-compatible Web server.</p>
+<h2>Running the Application</h2>
+<p>At this point, the project is developed and may be viewed in a Web browser by issuing the following command: </p>
+<pre class="brush: plain; title: ; notranslate">$ python manage.py runserver</pre>
+<p>This command will return to terminal, output similar to the following: </p>
+<pre class="brush: plain; title: ; notranslate">Validating models...
+
+0 errors found
+November 09, 2013 - 17:57:17
+Django version 1.6, using settings 'my_new_web_site.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.</pre>
+<p>Simply direct a Web browser to the address: http://127.0.0.1:8000/ where the following message will be displayed: </p>
+<blockquote><p>It worked!<br />
+Congratulations on your first Django-powered page.
+</p></blockquote>
+<p>This completes the most rudimentary steps in creating a Web project and application powered by Python and the Django framework. However, the project is not very practical. To make the project a dynamic, data-driven application, a database—which will also eliminate much of the tedium and inefficiency of writing content—should be added.</p>
+<h2>Adding Database Functionality</h2>
+<p>By design, Django houses the contents of an application in a SQLite database without requiring any further action. And, while SQLite is sufficient for database novices or in instances where application growth is not a concern, it may otherwise be best to use a database such as MySQL.</p>
+<p>As an example, and given that MySQL is already installed, create a MySQL database by running the following commands at the mysql prompt: </p>
+<pre class="brush: plain; title: ; notranslate">mysql&gt; CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+mysql&gt; CREATE DATABASE my_new_web_site;
+mysql&gt; GRANT ALL ON my_new_web_site.* TO 'username'@'localhost';</pre>
+<p>Upon successfully creating a new database, modify the configuration settings in <code>settings.py</code> by adding the following: </p>
+<pre class="brush: plain; title: ; notranslate">DATABASES = {
+	'default': {
+		'ENGINE': 'django.db.backends.mysql',
+		'NAME': 'my_new_web_site',
+		'USER': 'username',
+		'PASSWORD': 'password',
+		# localhost: leave “HOST” empty for domain sockets or use “127.0.0.1” for TCP.
+		'HOST': '',
+		# Leave the port number empty if using the default port, 8000.
+		'PORT': '',
+	}
+}</pre>
+<p>This creates a new MySQL database that may be used across the entire application, but it neither initializes the database or creates an application "superuser" (administrator). To create a "superuser," run the <code>syncdb</code> command and follow the on-screen prompts: </p>
+<pre class="brush: plain; title: ; notranslate">$ python manage.py syncdb
+
+Creating tables ...
+Creating table auth_permission
+Creating table auth_group_permissions
+Creating table auth_group
+Creating table auth_user_groups
+Creating table auth_user_user_permissions
+Creating table auth_user
+Creating table django_content_type
+Creating table django_session
+Creating table django_site
+
+…
+
+Username (leave blank to use 'myusername'):
+Email address:
+Password:
+Password (again):
+Superuser created successfully.
+Installing custom SQL ...
+Installing indexes ...
+Installed 0 object(s) from 0 fixture(s)</pre>
+<p>The application now has a complete MySQL-powered back end, accessible via <code>manage.py</code>: </p>
+<pre class="brush: plain; title: ; notranslate">$ python manage.py shell
+&gt;&gt;&gt; from django.contrib.auth.models import User
+&gt;&gt;&gt; User.objects.all()
+[&lt;User: myusername&gt;]</pre>
+<p>At this point, the project is fully developed and ready for its intended use: running a Web application. </p>
+<h2>Conclusion</h2>
+<p>Python Web frameworks are designed for matching incoming HTTP requests to specific Python code or to provide response and request objects. Additionally, these frameworks work in the development of large-scale Web applications such as Content Management Systems (CMSs), concept prototyping, and more. There are a number of Python Web frameworks that are geared towards object-oriented Web application development. </p>
+<p>And, as illustrated by this introductory tutorial, some frameworks are full-stack applications that may be used to create fully functional, extensible, data-driven applications.</p>
+<p>The post <a href="http://www.sitepoint.com/powering-web-python-web-frameworks/">Powering the Web with Python Web Frameworks</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/powering-web-python-web-frameworks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Install Ghost on Windows</title>
+		<link>http://www.sitepoint.com/install-ghost-windows/</link>
+		<comments>http://www.sitepoint.com/install-ghost-windows/#comments</comments>
+		<pubDate>Tue, 19 Nov 2013 12:50:07 +0000</pubDate>
+		<dc:creator>Tahir Taous</dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[Web]]></category>
+
+		<guid isPermaLink="false">http://www.sitepoint.com/?p=73302</guid>
+		<description><![CDATA[<p>Ghost is a new, free and open source blogging platform with a very simple and easy to use interface. Ghost focuses on one thing: Publishing. If you haven&#8217;t read Joe Hewitson&#8217;s recent article, you should. PHP is the world&#8217;s most popular and widely supported programming language. Some of the most popular CMS like WordPress, Joomla, [&#8230;]</p><p>The post <a href="http://www.sitepoint.com/install-ghost-windows/">How to Install Ghost on Windows</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>
+  Ghost is a new, free and open source blogging platform with a very simple and easy to use interface. Ghost focuses on one thing: Publishing. If you haven&#8217;t read <a href="http://www.sitepoint.com/ghost-really-wordpress-killer/">Joe Hewitson&#8217;s recent article</a>, you should.
+</p>
+<p>
+    <a href="http://php.net/">PHP</a> is the world&#8217;s most popular and widely supported programming language. Some of the most popular CMS like WordPress, Joomla, Drupal &#8211; and even Facebook &#8211; use PHP as their core language, but Ghost has been built with <a href="http://nodejs.org/">Node.Js</a>, not with PHP.
+</p>
+<p>
+    Ghost claims to be a simple blogging platform, but unfortunately the first step to get started with Ghost is not simple. Installation process of Ghost is not simple and easy. It is complicated and might be confusing for some users. Installation on a live server and a local PC is not simple.
+</p>
+<p>
+Node.js is a software platform that is used to build server-side applications. Node.js utilizes JavaScript as its scripting language. Ghost is Node.Js based, so it means many of you won&#8217;t be able to install it on shared web hosting, a very popular hosting plan for beginners. You need a cloud (Amazon EC2, DigitalOcean, Windows Azure etc) that supports Node.Js but not everyone uses the cloud.
+</p>
+<p> If you install Ghost on a local PC, you will have to install additional programs like <a href="http://nodejs.org/">Node.Js</a> and fire up the command line. No doubt, using the command line can be confusing if you&#8217;re not used to it.
+</p>
+<h2>Currently available installers</h2>
+<p>
+    There are a couple of installers available at the moment for local and live web server installation.
+</p>
+<h3>Installation on Live Servers</h3>
+<p>Here are some options to deploy to the cloud.
+</p>
+<ul>
+<li>Deploy to the cloud with <a href="http://wiki.bitnami.com/Applications/BitNami_Ghost">Bitnami</a>.</li>
+<li>Launch Ghost with <a href="http://developer.rackspace.com/blog/launch-ghost-with-rackspace-deployments.html">Rackspace deployments</a>.</li>
+<li>Get up and running with a <a href="https://www.digitalocean.com/community/articles/how-to-use-the-digitalocean-ghost-application">DigitalOcean Droplet</a>.</li>
+</ul>
+<h3>Local installation on Windows, Mac or Linux</h3>
+<p>
+Bitnami ghost installer is the easiest way to install Ghost on Windows, Mac or Linux. You can download it from <a href="http://bitnami.com/stack/ghost/installer">http://bitnami.com/stack/ghost/installer.</a>
+</p>
+<p>
+ If Bitnami Ghost installer does not work for you and you see any errors then you can install Ghost manually. In this tutorial I am going to share my experience of installing Ghost on a Windows PC.
+</p>
+<p>
+    I downloaded Bitnami Ghost installer for Windows, it worked fine on Windows 7 (the most widely used Operating System with 46.42% market share) but it gave me a PHP 5.5 error on Windows XP (the second most popular Operating System with 31.24% market share).
+</p>
+<p>I decided to install Ghost manually on Windows XP. Here is a screenshot of the error message in Windows XP.</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/bitnami-ghost-error.png" alt="Bitnami ghost error in XP" width="600" height="159" class="alignnone size-full wp-image-73304" /></p>
+<h2>How to install Ghost manually?</h2>
+<p>
+    For manual installation you need to install Node.Js and the Ghost source files.
+</p>
+<p><strong>Step 1 : Download and install Node.Js</strong></p>
+<p>Go to <a href="http://nodejs.org">nodejs.org</a>, download the Node installer and install it.</p>
+<p><strong>Step 2 : Download and Extract Ghost files</strong></p>
+<hr />
+<p>Visit <a href="http://ghost.org">Ghost.org</a>, sign up for an account or log in if you already have an account and download the Ghost zipped archive. Next we need to extract the Ghost files. Go to the root of your C drive, create a new folder, name it ghost-#.#.# ( replace # with the version of ghost) and extract all the files from the zipped archive to this new folder.</p>
+<h2> Start Node.js Command Prompt</h2>
+<p>
+	In your Start Menu go to All Programs, find &#8216;Node.js&#8217; and then choose &#8216;Node.js Command Prompt&#8217;. Now we need to change the directory to <code>c:\ghost-0.3.3</code>, where we extracted Ghost.
+ </p>
+<ul>
+<li>Type <code>cd c:\ghost-#.#.#</code> (replace # with Ghost version number) and press Enter</li>
+<li>Next type <code>npm install --production</code> and press the Enter key</li>
+</ul>
+<p>
+	Here is a screenshot of the Node command prompt.
+</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/start-node.js-commemd-propmt.png" alt="Node command prompt" width="600" height="124" class="alignnone size-full wp-image-73305" /></p>
+<p>
+	Now you need to wait for a minute or two. When npm has finished installing, type <code>npm start</code> to start Ghost.
+</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/start-ghost.png" alt="start Ghost" width="600" height="186" class="alignnone size-full wp-image-73306" /></p>
+<p>
+	Open your browser (Firefox, Chrome, Safari) and navigate to <code>127.0.0.1:2368</code> to see your newly setup Ghost blog home page.
+</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/home.png" alt="Welcome to Ghost" width="600" height="668" class="alignnone size-full wp-image-73307" /></p>
+<p>
+	Now just change the URL to <code>127.0.0.1:2368/ghost </code> and create your admin user to log in to the Ghost admin. Enter your full name, email and password (must be 8 characters long) and click sign up, and you will be logged in to your Ghost Dashboard.
+</p>
+<h2> <span>Step 3:</span> Change Ghost URL in config.js file </h2>
+<p>
+	When you visit <code>127.0.0.1:2368/ghost </code>you will see two notifications. The first one is for mail and another one is about Ghost URL. You will have to change the URL in config.js file. You can find config.js in the root directory of Ghost. (C:\ghost-0.3.3)
+</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/notifications.png" alt="Ghost notifications" width="600" height="233" class="alignnone size-full wp-image-73308" /></p>
+<p>
+	Open config.js file in any text editor (SublimeText, Brackets etc) or you can use NotePad in Windows. Find <code>http://my-ghost-blog.com</code> and replace it with <code>http://127.0.0.1:2368/</code> around line 11 and line 47.
+</p>
+<h2> <span>Step 4:</span> Restart Node.js Command Prompt</h2>
+<hr />
+<p>
+	Now close Node.js Command Prompt and start it again, so changes can take effect. If you don&#8217;t restart Node.js Comamand Prompt, you will see following screen.
+</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/urlerror.png" alt="Ghost error message screen" width="600" height="510" class="alignnone size-full wp-image-73303" /></p>
+<p>
+After restarting Node Command Prompt, change the directory to where you have extracted Ghost and type <code>npm start</code> to start Ghost blog.
+</p>
+<p><img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/11/startingGhostagain.png" alt="Node command prompt" width="600" height="716" class="alignnone size-full wp-image-73309" /></p>
+<h2>Congratulations! You have installed Ghost successfully. </h2>
+<p>
+	Keep in mind if you close Node.js Command Propmt or restart your PC, your Ghost blog won&#8217;t work. You will have to restart it via Node.js Command Prompt.
+</p>
+<p>
+    Now you know how to install <a href="https://ghost.org/">Ghost</a>, give it a try and share your experience in the comments.</p>
+<p>The post <a href="http://www.sitepoint.com/install-ghost-windows/">How to Install Ghost on Windows</a> appeared first on <a href="http://www.sitepoint.com">SitePoint</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.sitepoint.com/install-ghost-windows/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using memcached
+Object Caching 1087/1145 objects using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: dab1nmslvvntp.cloudfront.net
+
+ Served from: www.sitepoint.com @ 2013-11-20 16:08:08 by W3 Total Cache -->

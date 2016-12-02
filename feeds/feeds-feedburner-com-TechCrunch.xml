@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>TechCrunch</title>
+	
+	<link>http://techcrunch.com</link>
+	<description>TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web.</description>
+	<lastBuildDate>Fri, 25 Apr 2014 03:59:50 +0000</lastBuildDate>
+	<language>en</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain="techcrunch.com" port="80" path="/?rsscloud=notify" registerProcedure="" protocol="http-post" />
+<image><link>http://www.techcrunch.com</link><url>http://www.techcrunch.com/wp-content/themes/techcrunchmu/images/techcrunch_logo.png</url><title>TechCrunch</title></image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://techcrunch.com/osd.xml" title="TechCrunch" />
+	
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Techcrunch" /><feedburner:info uri="techcrunch" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://techcrunch.com/?pushpress=hub" /><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/Techcrunch" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site.</feedburner:browserFriendly><item>
+		<title>Pinterest Launches Exploration-Focused Guided Search And Reveals Custom Categories For Mobile</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/0OI99iuFsVM/</link>
+		<comments>http://techcrunch.com/2014/04/24/pinterest-guided-search/#comments</comments>
+		<pubDate>Fri, 25 Apr 2014 01:46:58 +0000</pubDate>
+		<dc:creator><![CDATA[Josh Constine]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=993100</guid>
+		<description>&lt;img width="680" height="453" src="http://tctechcrunch2011.files.wordpress.com/2014/04/2014042501-1.jpg?w=680" class="attachment-large wp-post-image" alt="2014042501-1" /&gt;&amp;nbsp;Today Pinterest announced two new mobile products: Guided Search to lead you on chains of explorations, and a third one that will be unveiled in a few minutes, and Custom Categories for making it easier to browse your way to cool stuff through a dynamic interface. Guided Search is now available on iOS and Android. Custom Categories will slowly roll out across devices in the next few months. &lt;a href="http://techcrunch.com/2014/04/24/pinterest-guided-search/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=0OI99iuFsVM:Xb3uAIx-dSw:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=0OI99iuFsVM:Xb3uAIx-dSw:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=0OI99iuFsVM:Xb3uAIx-dSw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=0OI99iuFsVM:Xb3uAIx-dSw:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=0OI99iuFsVM:Xb3uAIx-dSw:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=0OI99iuFsVM:Xb3uAIx-dSw:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=0OI99iuFsVM:Xb3uAIx-dSw:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=0OI99iuFsVM:Xb3uAIx-dSw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/0OI99iuFsVM" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/pinterest-guided-search/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/2014042501-1.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/2014042501-1.jpg" type="image/jpeg" medium="image"><media:title type="html">Pinterest%20Launches%20Exploration-Focused%20Guided%20Search%20And%20Reveals%20Custom%20Categories%20For%26nbsp%3BMobile</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/2014042501-1.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/2014042501-1.jpg?w=150" medium="image">
+			<media:title type="html">2014042501-1</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/fd3b857e7f0024396cdbd36c4c102a5d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">joshsc</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-6-49-46-pm.png?w=680" medium="image">
+			<media:title type="html">Screen Shot 2014-04-24 at 6.49.46 PM</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/custom-categories.png" medium="image">
+			<media:title type="html">custom categories</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/pinterest-guided-search/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Pinterest Hits 30 Billion Total Pins, Up 50% In 6 Months</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/cR4jQTwac24/</link>
+		<comments>http://techcrunch.com/2014/04/24/pinterest-30b-pins/#comments</comments>
+		<pubDate>Fri, 25 Apr 2014 01:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Lawler,Josh Constine]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=993096</guid>
+		<description>&lt;img width="538" height="456" src="http://tctechcrunch2011.files.wordpress.com/2014/04/pinterest-ben.jpg?w=538" class="attachment-large wp-post-image" alt="Pinterest Ben" /&gt;&amp;nbsp;Tonight at an event in the company's San Francisco headquarters, Pinterest CEO Ben Silbermann announced that users had contributed more than 30 billion Pins since being founded, a number that has grown by nearly 50 percent in the past six months alone. Users have also created more than 750 million boards in that time. &lt;a href="http://techcrunch.com/2014/04/24/pinterest-30b-pins/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cR4jQTwac24:RmrDUMBMA_M:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cR4jQTwac24:RmrDUMBMA_M:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cR4jQTwac24:RmrDUMBMA_M:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cR4jQTwac24:RmrDUMBMA_M:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=cR4jQTwac24:RmrDUMBMA_M:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cR4jQTwac24:RmrDUMBMA_M:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=cR4jQTwac24:RmrDUMBMA_M:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cR4jQTwac24:RmrDUMBMA_M:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/cR4jQTwac24" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/pinterest-30b-pins/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/pinterest-ben.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/pinterest-ben.jpg" type="image/jpeg" medium="image"><media:title type="html">Pinterest%20Hits%2030%20Billion%20Total%20Pins%2C%20Up%2050%25%20In%206%26nbsp%3BMonths</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/pinterest-ben.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/pinterest-ben.jpg?w=150" medium="image">
+			<media:title type="html">Pinterest Ben</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/3c5a6332c8200dfda8d15c74ebcc06d1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ryanlawler</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/pinterest-30b-pins/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Stewart Butterfield’s Slack Is Raising $30 Million In New Funding</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/tWlQPHqkVog/</link>
+		<comments>http://techcrunch.com/2014/04/24/stewart-butterfields-slack-is-raising-30-million-in-new-funding/#comments</comments>
+		<pubDate>Fri, 25 Apr 2014 01:05:20 +0000</pubDate>
+		<dc:creator><![CDATA[Leena Rao,Alexia Tsotsis]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=993061</guid>
+		<description>&lt;img width="680" height="493" src="http://tctechcrunch2011.files.wordpress.com/2014/04/slack-screen-shots.png?w=680" class="attachment-large wp-post-image" alt="slack-screen-shots" /&gt;&amp;nbsp;Slack, a collaboration platform founded by Flickr co-founder Stewart Butterfield, is raising $30 million-plus in new funding, we&amp;#8217;ve learned. For background, Butterfield left Yahoo and started TinySpeck (and a multiplayer game called Glitch) but then decided to take a different turn, tackling the enterprise market. Thus Slack was born as a collaboration platform that lets users port in&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/stewart-butterfields-slack-is-raising-30-million-in-new-funding/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tWlQPHqkVog:WW3Z_hs42WY:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tWlQPHqkVog:WW3Z_hs42WY:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tWlQPHqkVog:WW3Z_hs42WY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tWlQPHqkVog:WW3Z_hs42WY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=tWlQPHqkVog:WW3Z_hs42WY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tWlQPHqkVog:WW3Z_hs42WY:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=tWlQPHqkVog:WW3Z_hs42WY:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tWlQPHqkVog:WW3Z_hs42WY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/tWlQPHqkVog" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/stewart-butterfields-slack-is-raising-30-million-in-new-funding/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/slack-screen-shots.png?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/slack-screen-shots.png" type="image/png" medium="image"><media:title type="html">Stewart%20Butterfield%26%238217%3Bs%20Slack%20Is%20Raising%20%2430%20Million%20In%20New%26nbsp%3BFunding</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/slack-screen-shots.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/slack-screen-shots.png?w=150" medium="image">
+			<media:title type="html">slack-screen-shots</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/bbce6c3c48f821c81c019600a5589ae6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">leena</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/stewart-butterfields-slack-is-raising-30-million-in-new-funding/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Mozilla Names Firefox OS Co-Founder Andreas Gal As Its New CTO</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/gzIKEpq3q5c/</link>
+		<comments>http://techcrunch.com/2014/04/24/mozilla-names-firefox-os-co-founder-andreas-gal-as-its-new-cto/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 23:31:13 +0000</pubDate>
+		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<category><![CDATA[CTO]]></category>
+		<category><![CDATA[Andreas Gal]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=993072</guid>
+		<description>&lt;img width="680" height="680" src="http://tctechcrunch2011.files.wordpress.com/2014/04/andreas-gal_mozilla-final_9_24_131.jpg?w=680" class="attachment-large wp-post-image" alt="Andreas-Gal_Mozilla-Final_9_24_131" /&gt;&amp;nbsp;When Mozilla named JavaScript inventor Brendan Eich as its new (and short-lived) CEO, it left the CTO position Eich previously occupied unfilled. Today, Mozilla announced that Andreas Gal will become its new CTO. Most recently, he was Mozilla's Director of Research and later VP of Mobile and Research. &lt;a href="http://techcrunch.com/2014/04/24/mozilla-names-firefox-os-co-founder-andreas-gal-as-its-new-cto/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gzIKEpq3q5c:9p485sTr9RI:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gzIKEpq3q5c:9p485sTr9RI:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gzIKEpq3q5c:9p485sTr9RI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gzIKEpq3q5c:9p485sTr9RI:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=gzIKEpq3q5c:9p485sTr9RI:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gzIKEpq3q5c:9p485sTr9RI:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=gzIKEpq3q5c:9p485sTr9RI:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gzIKEpq3q5c:9p485sTr9RI:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/gzIKEpq3q5c" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/mozilla-names-firefox-os-co-founder-andreas-gal-as-its-new-cto/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/andreas-gal_mozilla-final_9_24_131.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/andreas-gal_mozilla-final_9_24_131.jpg" type="image/jpeg" medium="image"><media:title type="html">Mozilla%20Names%20Firefox%20OS%20Co-Founder%20Andreas%20Gal%20As%20Its%20New%26nbsp%3BCTO</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/andreas-gal_mozilla-final_9_24_131.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/andreas-gal_mozilla-final_9_24_131.jpg?w=150" medium="image">
+			<media:title type="html">Andreas-Gal_Mozilla-Final_9_24_131</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/55542aa717199728948f628edc1170b1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">fredericlardinois</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/mozilla-names-firefox-os-co-founder-andreas-gal-as-its-new-cto/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Storyful’s Verification Tech Could Stop Fake News From Spreading On Facebook</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/5_2VE7DvfLI/</link>
+		<comments>http://techcrunch.com/2014/04/24/towards-a-more-truthful-internet/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 22:46:11 +0000</pubDate>
+		<dc:creator><![CDATA[Josh Constine]]></dc:creator>
+				<category><![CDATA[Media]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[tc]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[storyful]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992860</guid>
+		<description>&lt;img width="680" height="382" src="http://tctechcrunch2011.files.wordpress.com/2014/04/10298427_663458093689772_4707351582710444803_o.jpg?w=680" class="attachment-large wp-post-image" alt="10298427_663458093689772_4707351582710444803_o" /&gt;&amp;nbsp;Twitter is the king of real time news, but people's eagerness to retweet juicy stories sometimes outweighs their willingness to verify the facts, leading them to parrot misinformation. That's why the most intersting thing about Facebook partnering with Storyful to create a Newswire isn't about refferals or helping journalists find things to cover. It's about making the Internet more truthful. &lt;a href="http://techcrunch.com/2014/04/24/towards-a-more-truthful-internet/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5_2VE7DvfLI:-n-xHc1aqK4:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5_2VE7DvfLI:-n-xHc1aqK4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5_2VE7DvfLI:-n-xHc1aqK4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5_2VE7DvfLI:-n-xHc1aqK4:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=5_2VE7DvfLI:-n-xHc1aqK4:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5_2VE7DvfLI:-n-xHc1aqK4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=5_2VE7DvfLI:-n-xHc1aqK4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5_2VE7DvfLI:-n-xHc1aqK4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/5_2VE7DvfLI" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/towards-a-more-truthful-internet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/10298427_663458093689772_4707351582710444803_o.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/10298427_663458093689772_4707351582710444803_o.jpg" type="image/jpeg" medium="image"><media:title type="html">Storyful%26%238217%3Bs%20Verification%20Tech%20Could%20Stop%20Fake%20News%20From%20Spreading%20On%26nbsp%3BFacebook</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/10298427_663458093689772_4707351582710444803_o.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/10298427_663458093689772_4707351582710444803_o.jpg?w=150" medium="image">
+			<media:title type="html">10298427_663458093689772_4707351582710444803_o</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/fd3b857e7f0024396cdbd36c4c102a5d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">joshsc</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/10154307_506893629432737_4105335115445320089_n.jpg" medium="image">
+			<media:title type="html">10154307_506893629432737_4105335115445320089_n</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/1890576_701885316516259_4500171859113768162_o.png?w=680" medium="image">
+			<media:title type="html">1890576_701885316516259_4500171859113768162_o</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/10259211_498932083539607_4506815805918961122_o-1.jpg?w=680" medium="image">
+			<media:title type="html">10259211_498932083539607_4506815805918961122_o-1</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/10001289_647100085355798_1983878257_n.jpg?w=680" medium="image">
+			<media:title type="html">10001289_647100085355798_1983878257_n</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/towards-a-more-truthful-internet/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Co-Founder And CEO Marcus Nelson Departs Addvocate</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/Y9ezwGI8yVo/</link>
+		<comments>http://techcrunch.com/2014/04/24/co-founder-and-ceo-marcus-nelson-departs-addvocate/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 22:12:39 +0000</pubDate>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[addvocate]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=993008</guid>
+		<description>&lt;img width="300" height="300" src="http://tctechcrunch2011.files.wordpress.com/2014/04/marcus-nelson.jpeg?w=300" class="attachment-large wp-post-image" alt="marcus-nelson" /&gt;&amp;nbsp;Marcus Nelson, who co-founded and served as CEO of social media startup Addvocate, said that he's no longer at the company. Nelson doesn't offer any details about the reasons for his departure, but it sounds like this wasn't entirely by choice. In a post on Medium, he wrote, "These are never easy situations, but there really was no choice. I join the legions of other founders who’ve reached the&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/co-founder-and-ceo-marcus-nelson-departs-addvocate/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Y9ezwGI8yVo:toL4yihf980:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Y9ezwGI8yVo:toL4yihf980:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Y9ezwGI8yVo:toL4yihf980:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Y9ezwGI8yVo:toL4yihf980:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Y9ezwGI8yVo:toL4yihf980:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Y9ezwGI8yVo:toL4yihf980:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Y9ezwGI8yVo:toL4yihf980:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Y9ezwGI8yVo:toL4yihf980:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/Y9ezwGI8yVo" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/co-founder-and-ceo-marcus-nelson-departs-addvocate/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/marcus-nelson.jpeg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/marcus-nelson.jpeg" type="image/jpeg" medium="image"><media:title type="html">Co-Founder%20And%20CEO%20Marcus%20Nelson%20Departs%26nbsp%3BAddvocate</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/marcus-nelson.jpeg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/marcus-nelson.jpeg?w=150" medium="image">
+			<media:title type="html">marcus-nelson</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/72b358648f4587cc2a11895c32b8e979?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">anthha</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/co-founder-and-ceo-marcus-nelson-departs-addvocate/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Automattic Buys Scroll Kit, A Code-Free Website Builder That Once Got Legal Heat From The NYT</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/4zS_kp6jKjU/</link>
+		<comments>http://techcrunch.com/2014/04/24/automattic-buys-scroll-kit-a-code-free-website-builder-that-once-got-legal-heat-from-the-nyt/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 21:31:58 +0000</pubDate>
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+				<category><![CDATA[Media]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[Automattic]]></category>
+		<category><![CDATA[scroll kit]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=993031</guid>
+		<description>&lt;img width="680" height="435" src="http://tctechcrunch2011.files.wordpress.com/2014/04/0-bpljznee0arxpylo.png?w=680" class="attachment-large wp-post-image" alt="snow fail" /&gt;&amp;nbsp;WordPress maker Automattic's acquisition spree to build out its platform continues apace. Today comes news that it has acquired Scroll Kit, a New York-based startup that had developed a platform for people to build websites without needing to know any code, or, in the words of co-founders Cody Brown and Kate Ray announcing the news, "a process for making the web that was more like drawing on a&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/automattic-buys-scroll-kit-a-code-free-website-builder-that-once-got-legal-heat-from-the-nyt/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=4zS_kp6jKjU:F0R83NMKj-8:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=4zS_kp6jKjU:F0R83NMKj-8:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=4zS_kp6jKjU:F0R83NMKj-8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=4zS_kp6jKjU:F0R83NMKj-8:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=4zS_kp6jKjU:F0R83NMKj-8:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=4zS_kp6jKjU:F0R83NMKj-8:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=4zS_kp6jKjU:F0R83NMKj-8:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=4zS_kp6jKjU:F0R83NMKj-8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/4zS_kp6jKjU" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/automattic-buys-scroll-kit-a-code-free-website-builder-that-once-got-legal-heat-from-the-nyt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/0-bpljznee0arxpylo.png?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/0-bpljznee0arxpylo.png" type="image/png" medium="image"><media:title type="html">Automattic%20Buys%20Scroll%20Kit%2C%20A%20Code-Free%20Website%20Builder%20That%20Once%20Got%20Legal%20Heat%20From%20The%26nbsp%3BNYT</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/0-bpljznee0arxpylo.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/0-bpljznee0arxpylo.png?w=150" medium="image">
+			<media:title type="html">snow fail</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6648ec93043f0f368091adece63c6d52?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ingridlunden</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/automattic-buys-scroll-kit-a-code-free-website-builder-that-once-got-legal-heat-from-the-nyt/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Google+ Is Walking Dead</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/TWAv5XnKuZs/</link>
+		<comments>http://techcrunch.com/2014/04/24/google-is-walking-dead/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 20:50:48 +0000</pubDate>
+		<dc:creator><![CDATA[Alexia Tsotsis,Matthew Panzarino]]></dc:creator>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Google]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992738</guid>
+		<description>&lt;img width="680" height="382" src="http://tctechcrunch2011.files.wordpress.com/2014/04/rip-google-plus1.jpg?w=680" class="attachment-large wp-post-image" alt="rip-google-plus1" /&gt;&amp;nbsp;Today, Google’s Vic Gundotra announced that he would be leaving the company after eight years. The first obvious question is where this leaves Google+, Gundotra’s baby and primary project for the past several of those years. What we’re hearing from multiple sources is that Google+ will no longer be considered a product, but a platform — essentially ending its competition with other&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/google-is-walking-dead/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TWAv5XnKuZs:Qywdj7F71C4:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TWAv5XnKuZs:Qywdj7F71C4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TWAv5XnKuZs:Qywdj7F71C4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TWAv5XnKuZs:Qywdj7F71C4:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=TWAv5XnKuZs:Qywdj7F71C4:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TWAv5XnKuZs:Qywdj7F71C4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=TWAv5XnKuZs:Qywdj7F71C4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TWAv5XnKuZs:Qywdj7F71C4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/TWAv5XnKuZs" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/google-is-walking-dead/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/rip-google-plus1.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/rip-google-plus1.jpg" type="image/jpeg" medium="image"><media:title type="html">Google%2B%20Is%20Walking%26nbsp%3BDead</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/rip-google-plus1.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/rip-google-plus1.jpg?w=150" medium="image">
+			<media:title type="html">rip-google-plus1</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/d442840d878a0d027a177e8e2d66c7ae?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">atsotsis</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/google-is-walking-dead/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Warburg Pincus Buys Compensation Software Service PayScale For Up To $100 Million</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/2ELJeuft29M/</link>
+		<comments>http://techcrunch.com/2014/04/24/warburg-pincus-buys-compensation-software-service-payscale-for-up-to-100-million/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 20:31:31 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shieber]]></dc:creator>
+				<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[warburg pincus]]></category>
+		<category><![CDATA[Payscale]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992964</guid>
+		<description>&lt;img width="680" height="510" src="http://tctechcrunch2011.files.wordpress.com/2014/04/6757842133_758b6cfbb3_b.jpg?w=680" class="attachment-large wp-post-image" alt="6757842133_758b6cfbb3_b" /&gt;&amp;nbsp;Making its fourth acquisition of a technology company in fewer than three weeks, private equity investment firm Warburg Pincus is announcing that it has bought compensation software services vendor PayScale in a deal worth up to $100 million. In the 14 years since its launch in 2000, PayScale has developed a massive database of individual compensation profiles, containing salary information on&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/warburg-pincus-buys-compensation-software-service-payscale-for-up-to-100-million/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2ELJeuft29M:tcTFdnJx10Q:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2ELJeuft29M:tcTFdnJx10Q:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2ELJeuft29M:tcTFdnJx10Q:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2ELJeuft29M:tcTFdnJx10Q:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=2ELJeuft29M:tcTFdnJx10Q:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2ELJeuft29M:tcTFdnJx10Q:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=2ELJeuft29M:tcTFdnJx10Q:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2ELJeuft29M:tcTFdnJx10Q:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/2ELJeuft29M" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/warburg-pincus-buys-compensation-software-service-payscale-for-up-to-100-million/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/6757842133_758b6cfbb3_b.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/6757842133_758b6cfbb3_b.jpg" type="image/jpeg" medium="image"><media:title type="html">Warburg%20Pincus%20Buys%20Compensation%20Software%20Service%20PayScale%20For%20Up%20To%20%24100%26nbsp%3BMillion</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/6757842133_758b6cfbb3_b.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/6757842133_758b6cfbb3_b.jpg?w=150" medium="image">
+			<media:title type="html">6757842133_758b6cfbb3_b</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/warburg-pincus-buys-compensation-software-service-payscale-for-up-to-100-million/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Domino’s Launches Its Pizza Ordering App For iPad With 3D Custom Pizza Builder</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/UGBqansHZiI/</link>
+		<comments>http://techcrunch.com/2014/04/24/dominos-launches-its-ipad-pizza-ordering-app-with-3d-custom-pizza-builder/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 20:30:31 +0000</pubDate>
+		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Domino's Pizza]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[mobile app]]></category>
+		<category><![CDATA[mobile ordering]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992800</guid>
+		<description>&lt;img width="680" height="510" src="http://tctechcrunch2011.files.wordpress.com/2014/04/photo-1-11.png?w=680" class="attachment-large wp-post-image" alt="photo 1 (1)" /&gt;&amp;nbsp;Domino's Pizza has revamped its menu and turned around its financials over the last few years, during which time it also started to offer mobile ordering. Next Monday, the pizza chain will launch its iPad app, which will allow you to build your pizza and order it for take-out and delivery right from your couch. &lt;a href="http://techcrunch.com/2014/04/24/dominos-launches-its-ipad-pizza-ordering-app-with-3d-custom-pizza-builder/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UGBqansHZiI:6-icsxXx0nU:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UGBqansHZiI:6-icsxXx0nU:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UGBqansHZiI:6-icsxXx0nU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UGBqansHZiI:6-icsxXx0nU:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=UGBqansHZiI:6-icsxXx0nU:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UGBqansHZiI:6-icsxXx0nU:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=UGBqansHZiI:6-icsxXx0nU:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UGBqansHZiI:6-icsxXx0nU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/UGBqansHZiI" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/dominos-launches-its-ipad-pizza-ordering-app-with-3d-custom-pizza-builder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/photo-1-11.png?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/photo-1-11.png" type="image/png" medium="image"><media:title type="html">Domino%26%238217%3Bs%20Launches%20Its%20Pizza%20Ordering%20App%20For%20iPad%20With%203D%20Custom%20Pizza%26nbsp%3BBuilder</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/photo-1-11.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/photo-1-11.png?w=150" medium="image">
+			<media:title type="html">photo 1 (1)</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/55542aa717199728948f628edc1170b1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">fredericlardinois</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/dominos_ipad_app_3.png?w=300" medium="image">
+			<media:title type="html">Dominos_iPad_App_3</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/photo-3-1.png" medium="image">
+			<media:title type="html">photo 3 (1)</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/dominos-launches-its-ipad-pizza-ordering-app-with-3d-custom-pizza-builder/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>The FyreTV Porn Streamer Maker Is Suing Amazon For Trademark Infringement</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/R_Ec5vg0cE8/</link>
+		<comments>http://techcrunch.com/2014/04/24/the-fyretv-porn-streamer-maker-is-suing-amazon-for-trademark-infringement/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 20:14:04 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Burns]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Amazon]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992943</guid>
+		<description>&lt;img width="680" height="382" src="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-fire.jpg?w=680" class="attachment-large wp-post-image" alt="amazon-fire" /&gt;&amp;nbsp;Remember the FyreTV? Probably not, but it was a media streamer, much like Amazon's new FireTV streamer, that was released in 2008. Unlike Amazon's FireTV, however, the FyreTV streams porn and only porn. And now the company behind the device is suing Amazon. &lt;a href="http://techcrunch.com/2014/04/24/the-fyretv-porn-streamer-maker-is-suing-amazon-for-trademark-infringement/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=R_Ec5vg0cE8:md-qBZKHvj4:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=R_Ec5vg0cE8:md-qBZKHvj4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=R_Ec5vg0cE8:md-qBZKHvj4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=R_Ec5vg0cE8:md-qBZKHvj4:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=R_Ec5vg0cE8:md-qBZKHvj4:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=R_Ec5vg0cE8:md-qBZKHvj4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=R_Ec5vg0cE8:md-qBZKHvj4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=R_Ec5vg0cE8:md-qBZKHvj4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/R_Ec5vg0cE8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/the-fyretv-porn-streamer-maker-is-suing-amazon-for-trademark-infringement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-fire.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-fire.jpg" type="image/jpeg" medium="image"><media:title type="html">The%20FyreTV%20Porn%20Streamer%20Maker%20Is%20Suing%20Amazon%20For%20Trademark%26nbsp%3BInfringement</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-fire.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-fire.jpg?w=150" medium="image">
+			<media:title type="html">amazon-fire</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c921fdee122025b0436360dc6bb7322d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">mjburnsy</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/the-fyretv-porn-streamer-maker-is-suing-amazon-for-trademark-infringement/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Amazon Beats Street In Q1 With Net Sales Up 23% To $19.74B, $0.23 EPS</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/hc6uEiRQ7rw/</link>
+		<comments>http://techcrunch.com/2014/04/24/amazon-beats-street-in-q1-with-net-sales-up-23-to-19-74b-0-23-eps/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 20:10:26 +0000</pubDate>
+		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[earnings]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992761</guid>
+		<description>&lt;img width="680" height="382" src="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-earnings.jpg?w=680" class="attachment-large wp-post-image" alt="amazon-earnings" /&gt;&amp;nbsp;Amazon today reported its results for the company&amp;#8217;s first financial quarter of 2014. Amazon reported net sales up 23 percent to $19.74 billion compared to $25.59 billion last quarter and $16.07 billion in the year-ago quarter. Operating income, however, decreased 19% to $146 million in the first quarter, compared with $181 million in first quarter 2013. Ahead of the earnings, analysts&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/amazon-beats-street-in-q1-with-net-sales-up-23-to-19-74b-0-23-eps/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hc6uEiRQ7rw:vLNUTq7EHM8:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hc6uEiRQ7rw:vLNUTq7EHM8:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hc6uEiRQ7rw:vLNUTq7EHM8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hc6uEiRQ7rw:vLNUTq7EHM8:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=hc6uEiRQ7rw:vLNUTq7EHM8:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hc6uEiRQ7rw:vLNUTq7EHM8:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=hc6uEiRQ7rw:vLNUTq7EHM8:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hc6uEiRQ7rw:vLNUTq7EHM8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/hc6uEiRQ7rw" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/amazon-beats-street-in-q1-with-net-sales-up-23-to-19-74b-0-23-eps/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-earnings.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-earnings.jpg" type="image/jpeg" medium="image"><media:title type="html">Amazon%20Beats%20Street%20In%20Q1%20With%20Net%20Sales%20Up%2023%25%20To%20%2419.74B%2C%20%240.23%26nbsp%3BEPS</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-earnings.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/amazon-earnings.jpg?w=150" medium="image">
+			<media:title type="html">amazon-earnings</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/55542aa717199728948f628edc1170b1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">fredericlardinois</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/amazon-beats-street-in-q1-with-net-sales-up-23-to-19-74b-0-23-eps/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Apple, Google, Intel And Adobe Settle Antitrust Lawsuit Over No-Hire Agreement</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/wgEMXNwKdms/</link>
+		<comments>http://techcrunch.com/2014/04/24/apple-google-intel-and-adobe-settle-antitrust-lawsuit-over-no-hire-agreement/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 20:07:47 +0000</pubDate>
+		<dc:creator><![CDATA[Darrell Etherington]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Poaching]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[antitrust]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992974</guid>
+		<description>&lt;img width="680" height="382" src="http://tctechcrunch2011.files.wordpress.com/2014/04/apple-google-intel-adobe-tilt.jpg?w=680" class="attachment-large wp-post-image" alt="apple-google-intel-adobe-tilt" /&gt;&amp;nbsp;Four of Silicon Valley&amp;#8217;s largest tech companies have settled an antitrust lawsuit brought against them over a shared no-hire agreement that prevented poaching employees from one company by another. The terms of the settlement weren&amp;#8217;t disclosed, according to Reuters, but this averts a trial that had been scheduled to start later in May. The class action lawsuit represented around 64,000&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/apple-google-intel-and-adobe-settle-antitrust-lawsuit-over-no-hire-agreement/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wgEMXNwKdms:WpVlTrE0qKA:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wgEMXNwKdms:WpVlTrE0qKA:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wgEMXNwKdms:WpVlTrE0qKA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wgEMXNwKdms:WpVlTrE0qKA:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=wgEMXNwKdms:WpVlTrE0qKA:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wgEMXNwKdms:WpVlTrE0qKA:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=wgEMXNwKdms:WpVlTrE0qKA:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wgEMXNwKdms:WpVlTrE0qKA:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/wgEMXNwKdms" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/apple-google-intel-and-adobe-settle-antitrust-lawsuit-over-no-hire-agreement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/apple-google-intel-adobe-tilt.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/apple-google-intel-adobe-tilt.jpg" type="image/jpeg" medium="image"><media:title type="html">Apple%2C%20Google%2C%20Intel%20And%20Adobe%20Settle%20Antitrust%20Lawsuit%20Over%20No-Hire%26nbsp%3BAgreement</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/apple-google-intel-adobe-tilt.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/apple-google-intel-adobe-tilt.jpg?w=150" medium="image">
+			<media:title type="html">apple-google-intel-adobe-tilt</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">etherin</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/apple-google-intel-and-adobe-settle-antitrust-lawsuit-over-no-hire-agreement/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Microsoft’s FQ3 Earnings Beat With Revenue Of $20.40B, EPS Of $0.68, Surface Top Line Of $500 Million</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/wty2-NhxIcI/</link>
+		<comments>http://techcrunch.com/2014/04/24/microsofts-fq3-earnings-beat-with-revenue-of-20-40b-eps-of-0-68-surface-top-line-of-500-million/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 20:05:25 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Wilhelm]]></dc:creator>
+				<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[earnings]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992953</guid>
+		<description>&lt;img width="680" height="382" src="http://tctechcrunch2011.files.wordpress.com/2014/04/microsoft-earnings.jpg?w=680" class="attachment-large wp-post-image" alt="microsoft-earnings" /&gt;&amp;nbsp;This afternoon Microsoft published its fiscal third quarter 2014 financial results, with revenue of $20.40 billion, and earnings per share of $0.68. Analysts had expected the company to report $20.39 billion in revenue, and earnings per share of $0.63. Surface revenue was slightly soft, Office 365 uptake remains solid, and Azure grew quickly. The company also reported 1.2 million Xbox One sales&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/microsofts-fq3-earnings-beat-with-revenue-of-20-40b-eps-of-0-68-surface-top-line-of-500-million/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wty2-NhxIcI:tfVXpv3JVdI:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wty2-NhxIcI:tfVXpv3JVdI:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wty2-NhxIcI:tfVXpv3JVdI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wty2-NhxIcI:tfVXpv3JVdI:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=wty2-NhxIcI:tfVXpv3JVdI:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wty2-NhxIcI:tfVXpv3JVdI:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=wty2-NhxIcI:tfVXpv3JVdI:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wty2-NhxIcI:tfVXpv3JVdI:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/wty2-NhxIcI" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/microsofts-fq3-earnings-beat-with-revenue-of-20-40b-eps-of-0-68-surface-top-line-of-500-million/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/microsoft-earnings.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/microsoft-earnings.jpg" type="image/jpeg" medium="image"><media:title type="html">Microsoft%26%238217%3Bs%20FQ3%20Earnings%20Beat%20With%20Revenue%20Of%20%2420.40B%2C%20EPS%20Of%20%240.68%2C%20Surface%20Top%20Line%20Of%20%24500%26nbsp%3BMillion</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/microsoft-earnings.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/microsoft-earnings.jpg?w=150" medium="image">
+			<media:title type="html">microsoft-earnings</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/a3a71bf0d3d22efa0db4b77936a066b8?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">alexjameswilhelm</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-1-06-42-pm.png" medium="image">
+			<media:title type="html">Screen Shot 2014-04-24 at 1.06.42 PM</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-1-22-42-pm.png" medium="image">
+			<media:title type="html">Screen Shot 2014-04-24 at 1.22.42 PM</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/microsofts-fq3-earnings-beat-with-revenue-of-20-40b-eps-of-0-68-surface-top-line-of-500-million/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>The Stalactite 3D Printer Uses A Projector To Produce High Quality Objects</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/Rgf5UPrHKcs/</link>
+		<comments>http://techcrunch.com/2014/04/24/the-stalactite-3d-printer-uses-a-projector-to-produce-high-quality-objects/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 19:59:09 +0000</pubDate>
+		<dc:creator><![CDATA[John Biggs]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[3d printing]]></category>
+		<category><![CDATA[Stalactite]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992937</guid>
+		<description>&lt;img width="518" height="680" src="http://tctechcrunch2011.files.wordpress.com/2014/04/20140423060502-stalactite102-blackie_refined.jpg?w=518" class="attachment-large wp-post-image" alt="20140423060502-Stalactite102-blackie_refined" /&gt;&amp;nbsp;The Stalactite, like the Form 1 before it, is a resin-based, light-cured 3D printing system that "extrudes" objects out of a bath of liquid. Unlike the Form 1's large laser, however, this printer uses an ingenious workaround to the problem of getting a bright enough light source into a small package: they've suspended a commodity projector off the side of the printer which allows for multiple&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/the-stalactite-3d-printer-uses-a-projector-to-produce-high-quality-objects/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Rgf5UPrHKcs:kdsdI2qTG6s:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Rgf5UPrHKcs:kdsdI2qTG6s:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Rgf5UPrHKcs:kdsdI2qTG6s:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Rgf5UPrHKcs:kdsdI2qTG6s:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Rgf5UPrHKcs:kdsdI2qTG6s:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Rgf5UPrHKcs:kdsdI2qTG6s:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Rgf5UPrHKcs:kdsdI2qTG6s:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Rgf5UPrHKcs:kdsdI2qTG6s:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/Rgf5UPrHKcs" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/the-stalactite-3d-printer-uses-a-projector-to-produce-high-quality-objects/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/20140423060502-stalactite102-blackie_refined.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/20140423060502-stalactite102-blackie_refined.jpg?w=114" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/20140423060502-stalactite102-blackie_refined.jpg?w=114" medium="image">
+			<media:title type="html">20140423060502-Stalactite102-blackie_refined</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c0a943f484a32e62ed3bc81dd0dd25da?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">john</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/the-stalactite-3d-printer-uses-a-projector-to-produce-high-quality-objects/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Hulu Plus Launches Remote Control Feature To Connect With Game Consoles</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/-fxbWzl0Ugw/</link>
+		<comments>http://techcrunch.com/2014/04/24/hulu-plus-remote-control/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 19:41:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Lawler]]></dc:creator>
+				<category><![CDATA[Media]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Hulu]]></category>
+		<category><![CDATA[PS3]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Xbox One]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992952</guid>
+		<description>&lt;img width="680" height="382" src="http://tctechcrunch2011.files.wordpress.com/2014/04/remotecontrol_main.png?w=680" class="attachment-large wp-post-image" alt="RemoteControl_Main" /&gt;&amp;nbsp;Hulu just added a new feature to its mobile apps that will enable users to control the videos streaming on their game consoles from their phones or tablets. &lt;a href="http://techcrunch.com/2014/04/24/hulu-plus-remote-control/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-fxbWzl0Ugw:JNjY1iCggO8:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-fxbWzl0Ugw:JNjY1iCggO8:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-fxbWzl0Ugw:JNjY1iCggO8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-fxbWzl0Ugw:JNjY1iCggO8:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=-fxbWzl0Ugw:JNjY1iCggO8:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-fxbWzl0Ugw:JNjY1iCggO8:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=-fxbWzl0Ugw:JNjY1iCggO8:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-fxbWzl0Ugw:JNjY1iCggO8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/-fxbWzl0Ugw" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/hulu-plus-remote-control/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/remotecontrol_main.png?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/remotecontrol_main.png" type="image/png" medium="image"><media:title type="html">Hulu%20Plus%20Launches%20Remote%20Control%20Feature%20To%20Connect%20With%20Game%26nbsp%3BConsoles</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/remotecontrol_main.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/remotecontrol_main.png?w=150" medium="image">
+			<media:title type="html">RemoteControl_Main</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/3c5a6332c8200dfda8d15c74ebcc06d1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ryanlawler</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/hulu-plus-remote-control/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>We’ve Got To Embrace It, Man</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/qMMplNA8hWI/</link>
+		<comments>http://techcrunch.com/2014/04/24/weve-got-to-embrace-it-man/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 19:15:14 +0000</pubDate>
+		<dc:creator><![CDATA[John Biggs]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[shingy]]></category>
+		<category><![CDATA[WTF]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992862</guid>
+		<description>&lt;img width="680" height="521" src="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-1-31-00-pm.png?w=680" class="attachment-large wp-post-image" alt="Screen Shot 2014-04-24 at 1.31.00 PM" /&gt;&amp;nbsp;First, understand that as an employee of AOL, I'm slightly embarrassed but far more amused by our "digital prophet," David Shing AKA Shingy AKA Miley Scissorhands. His efforts on our behalf to make AOL look cool have, at best, made us look like absolute idiots. Remember, we're not all him, but sadly he represents us. &lt;a href="http://techcrunch.com/2014/04/24/weve-got-to-embrace-it-man/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qMMplNA8hWI:AX51MwAdMKY:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qMMplNA8hWI:AX51MwAdMKY:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qMMplNA8hWI:AX51MwAdMKY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qMMplNA8hWI:AX51MwAdMKY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=qMMplNA8hWI:AX51MwAdMKY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qMMplNA8hWI:AX51MwAdMKY:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=qMMplNA8hWI:AX51MwAdMKY:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qMMplNA8hWI:AX51MwAdMKY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/qMMplNA8hWI" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/weve-got-to-embrace-it-man/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-1-31-00-pm.png?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-1-31-00-pm.png" type="image/png" medium="image"><media:title type="html">We%26%238217%3Bve%20Got%20To%20Embrace%20It%2C%26nbsp%3BMan</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-1-31-00-pm.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-1-31-00-pm.png?w=150" medium="image">
+			<media:title type="html">Screen Shot 2014-04-24 at 1.31.00 PM</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c0a943f484a32e62ed3bc81dd0dd25da?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">john</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-2-28-27-pm.png?w=680" medium="image">
+			<media:title type="html">Screen Shot 2014-04-24 at 2.28.27 PM</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/weve-got-to-embrace-it-man/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>FTC Issues Blistering Rebuke Of States Limiting Tesla’s Direct Consumer Sales</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/tL8aixiOhhg/</link>
+		<comments>http://techcrunch.com/2014/04/24/ftc-issues-blistering-rebuke-of-states-limiting-teslas-direct-consumer-sales/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 19:02:13 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Wilhelm]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Tesla]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992906</guid>
+		<description>&lt;img width="680" height="328" src="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-11-41-23-am.png?w=680" class="attachment-large wp-post-image" alt="Screen Shot 2014-04-24 at 11.41.23 AM" /&gt;&amp;nbsp;The Federal Trade Commission (FTC) is not big on state&amp;#8217;s limiting the ability of electric car manufacturer Tesla to sell its cars directly to consumers. In a post published today, fittingly on its Competition Matters blog, the FTC whacked such restrictions, detailing how legal protections for dealers were built, and how they in time evolved into the opposite of their original intention.&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/ftc-issues-blistering-rebuke-of-states-limiting-teslas-direct-consumer-sales/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tL8aixiOhhg:643K0kvCv6s:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tL8aixiOhhg:643K0kvCv6s:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tL8aixiOhhg:643K0kvCv6s:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tL8aixiOhhg:643K0kvCv6s:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=tL8aixiOhhg:643K0kvCv6s:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tL8aixiOhhg:643K0kvCv6s:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=tL8aixiOhhg:643K0kvCv6s:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=tL8aixiOhhg:643K0kvCv6s:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/tL8aixiOhhg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/ftc-issues-blistering-rebuke-of-states-limiting-teslas-direct-consumer-sales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-11-41-23-am.png?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-11-41-23-am.png" type="image/png" medium="image"><media:title type="html">FTC%20Issues%20Blistering%20Rebuke%20Of%20States%20Limiting%20Tesla%26%238217%3Bs%20Direct%20Consumer%26nbsp%3BSales</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-11-41-23-am.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/screen-shot-2014-04-24-at-11-41-23-am.png?w=150" medium="image">
+			<media:title type="html">Screen Shot 2014-04-24 at 11.41.23 AM</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/a3a71bf0d3d22efa0db4b77936a066b8?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">alexjameswilhelm</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/ftc-issues-blistering-rebuke-of-states-limiting-teslas-direct-consumer-sales/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>Sorry, But Google Glass Isn’t Actually For Sale To Everybody Yet</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/PgNMJR2Xjhg/</link>
+		<comments>http://techcrunch.com/2014/04/24/sorry-but-google-glass-isnt-actually-for-sale-to-everybody-yet/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 18:50:59 +0000</pubDate>
+		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Wearables]]></category>
+		<category><![CDATA[google glass]]></category>
+		<category><![CDATA[glass]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992917</guid>
+		<description>&lt;img width="680" height="453" src="http://tctechcrunch2011.files.wordpress.com/2013/10/google-glass-new.jpg?w=680" class="attachment-large wp-post-image" alt="google-glass-new" /&gt;&amp;nbsp;Rumor has it that Google Glass is currently for sale to anybody in the United States. Sadly (or not -- depending on your feelings about Glass), that's not actually the case. While the Google Glass store is indeed open and seems to be taking orders (Update: all the models are sold out now), Google tells us that this isn't the public launch of Glass to anybody who wants to plunk down $1,500 (plus&amp;hellip; &lt;a href="http://techcrunch.com/2014/04/24/sorry-but-google-glass-isnt-actually-for-sale-to-everybody-yet/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PgNMJR2Xjhg:SWVYuDPB-uE:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PgNMJR2Xjhg:SWVYuDPB-uE:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PgNMJR2Xjhg:SWVYuDPB-uE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PgNMJR2Xjhg:SWVYuDPB-uE:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=PgNMJR2Xjhg:SWVYuDPB-uE:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PgNMJR2Xjhg:SWVYuDPB-uE:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=PgNMJR2Xjhg:SWVYuDPB-uE:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PgNMJR2Xjhg:SWVYuDPB-uE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/PgNMJR2Xjhg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/sorry-but-google-glass-isnt-actually-for-sale-to-everybody-yet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/10/google-glass-new.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/10/google-glass-new.jpg" type="image/jpeg" medium="image"><media:title type="html">Sorry%2C%20But%20Google%20Glass%20Isn%26%238217%3Bt%20Actually%20For%20Sale%20To%20Everybody%26nbsp%3BYet</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/10/google-glass-new.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/10/google-glass-new.jpg?w=150" medium="image">
+			<media:title type="html">google-glass-new</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/55542aa717199728948f628edc1170b1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">fredericlardinois</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/sorry-but-google-glass-isnt-actually-for-sale-to-everybody-yet/?ncid=rss</feedburner:origLink></item>
+		<item>
+		<title>You Know You Want A Galaxy S5 With Swarovski Crystals On The Back</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/aXnx6rbXrZA/</link>
+		<comments>http://techcrunch.com/2014/04/24/you-know-you-want-a-galaxy-s5-with-swarovski-crystals-on-the-back/#comments</comments>
+		<pubDate>Thu, 24 Apr 2014 18:32:55 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Burns]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[samsung galaxy]]></category>
+		<category><![CDATA[Samsung]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=992886</guid>
+		<description>&lt;img width="680" height="450" src="http://tctechcrunch2011.files.wordpress.com/2014/04/swarovski.jpg?w=680" class="attachment-large wp-post-image" alt="Swarovski" /&gt;&amp;nbsp;Samsung and Swarovski are back at it again with another unholy mash-up that puts crystals on the back of Samsung Galaxy smartphones. Because why not? &lt;a href="http://techcrunch.com/2014/04/24/you-know-you-want-a-galaxy-s5-with-swarovski-crystals-on-the-back/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aXnx6rbXrZA:EabO0cFi8gQ:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aXnx6rbXrZA:EabO0cFi8gQ:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aXnx6rbXrZA:EabO0cFi8gQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aXnx6rbXrZA:EabO0cFi8gQ:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=aXnx6rbXrZA:EabO0cFi8gQ:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aXnx6rbXrZA:EabO0cFi8gQ:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=aXnx6rbXrZA:EabO0cFi8gQ:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aXnx6rbXrZA:EabO0cFi8gQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/aXnx6rbXrZA" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://techcrunch.com/2014/04/24/you-know-you-want-a-galaxy-s5-with-swarovski-crystals-on-the-back/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/swarovski.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/swarovski.jpg" type="image/jpeg" medium="image"><media:title type="html">You%20Know%20You%20Want%20A%20Galaxy%20S5%20With%20Swarovski%20Crystals%20On%20The%26nbsp%3BBack</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/04/swarovski.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/04/swarovski.jpg?w=150" medium="image">
+			<media:title type="html">Swarovski</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c921fdee122025b0436360dc6bb7322d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">mjburnsy</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2014/04/24/you-know-you-want-a-galaxy-s5-with-swarovski-crystals-on-the-back/?ncid=rss</feedburner:origLink></item>
+	</channel>
+</rss>
